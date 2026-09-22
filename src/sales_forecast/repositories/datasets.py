@@ -5,7 +5,7 @@ from __future__ import annotations
 from collections.abc import Sequence
 from datetime import date
 
-from sqlalchemy import insert
+from sqlalchemy import insert, select
 from sqlalchemy.orm import Session
 
 from sales_forecast.database.models import Dataset, SalesRecord
@@ -13,6 +13,17 @@ from sales_forecast.services.csv_validation import NormalizedSalesRecord
 
 
 class DatasetRepository:
+    def get_by_id(self, session: Session, dataset_id: int) -> Dataset:
+        dataset = session.get(Dataset, dataset_id)
+        if dataset is None:
+            raise DatasetNotFoundError(dataset_id)
+        return dataset
+
+    def get_sales_records(self, session: Session, dataset_id: int) -> list[SalesRecord]:
+        self.get_by_id(session, dataset_id)
+        statement = select(SalesRecord).where(SalesRecord.dataset_id == dataset_id).order_by(SalesRecord.date, SalesRecord.id)
+        return list(session.scalars(statement))
+
     def create_with_sales_records(
         self,
         session: Session,
@@ -34,3 +45,9 @@ class DatasetRepository:
         session.flush()
         session.execute(insert(SalesRecord), [record.as_insert_mapping(dataset.id) for record in records])
         return dataset
+
+
+class DatasetNotFoundError(Exception):
+    def __init__(self, dataset_id: int) -> None:
+        self.dataset_id = dataset_id
+        super().__init__(f"Dataset with id {dataset_id} does not exist")

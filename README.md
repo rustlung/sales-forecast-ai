@@ -87,6 +87,24 @@ Fully empty rows are ignored. Missing values, invalid values, malformed rows, an
 
 Use `psql` or the diagnostic SQL in [database documentation](docs/database.md) to inspect imported rows.
 
+## M3 descriptive analytics
+
+M3 reads one imported dataset and produces deterministic descriptive analytics: KPI, daily/weekly/monthly series, product/category breakdowns, weekday and monthly seasonality, rankings, trend indicators, and Pearson correlations. It does not forecast future values.
+
+```powershell
+docker compose run --rm --no-deps app python -m sales_forecast.scripts.analyze_dataset 1
+```
+
+Example summary:
+
+```text
+analysis_run_id=1 total_revenue=123456.78 units_sold=12345 date_from=2024-01-01 date_to=2024-12-30 products=5 categories=3
+```
+
+The full structured result is stored in `analysis_runs.result_json`. To additionally write it to a local file from a local Python environment, use `--output-json analysis.json`.
+
+Pearson correlation is descriptive only: it measures co-movement in the imported records and does not establish causation.
+
 ## Tests
 
 ```powershell

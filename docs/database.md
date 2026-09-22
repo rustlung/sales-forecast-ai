@@ -58,6 +58,8 @@ Purpose: execution metadata and future result/error payload of a historical anal
 
 Indexes: `ix_analysis_runs_dataset_created_at (dataset_id, created_at)`, `ix_analysis_runs_status (status)`.
 
+For M3, every descriptive calculation creates an `analysis_runs` row with `analysis_type = 'descriptive'`. Its lifecycle is `running` → `completed` with a JSON result, or `running` → `failed` with a safe error message.
+
 ### `forecasts`
 
 Purpose: metadata and JSON results of a future forecast run.
@@ -150,6 +152,29 @@ SELECT id, dataset_id, created_at, analysis_type, status, error_message
 FROM analysis_runs
 ORDER BY created_at DESC
 LIMIT 20;
+
+-- Statuses of recent descriptive analyses.
+SELECT id, dataset_id, created_at, status, error_message
+FROM analysis_runs
+WHERE analysis_type = 'descriptive'
+ORDER BY created_at DESC
+LIMIT 20;
+
+-- Full JSON result for one completed run.
+SELECT result_json
+FROM analysis_runs
+WHERE id = :analysis_run_id AND status = 'completed';
+
+-- Extract a selected KPI from JSONB.
+SELECT id, result_json #>> '{kpis,total_revenue}' AS total_revenue
+FROM analysis_runs
+WHERE id = :analysis_run_id;
+
+-- Find failed analyses needing investigation.
+SELECT id, dataset_id, created_at, analysis_type, error_message
+FROM analysis_runs
+WHERE status = 'failed'
+ORDER BY created_at DESC;
 
 -- Safe pre-delete check: inspect the dataset and dependent row counts first.
 SELECT d.id, d.name,
