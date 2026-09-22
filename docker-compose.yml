@@ -1,0 +1,25 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: sales_forecast
+      POSTGRES_USER: sales_forecast
+      POSTGRES_PASSWORD: sales_forecast
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sales_forecast -d sales_forecast"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  app:
+    build: .
+    env_file: .env
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: ["python", "-m", "sales_forecast.scripts.smoke_check"]
+
+volumes:
+  postgres_data:
