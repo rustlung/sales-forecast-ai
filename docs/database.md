@@ -1,6 +1,6 @@
-# Database: M1 schema
+# Database: M2 import schema
 
-The PostgreSQL schema stores uploaded dataset metadata, its future raw sales records, and future analytical results. Timestamps use `TIMESTAMP WITH TIME ZONE`; PostgreSQL `now()` is their server default.
+The PostgreSQL schema stores uploaded dataset metadata, imported raw sales records, and future analytical results. Timestamps use `TIMESTAMP WITH TIME ZONE`; PostgreSQL `now()` is their server default. M2 does not change the M1 schema or require a new migration.
 
 `datasets` is deliberately protected by `ON DELETE RESTRICT` from all child tables. A dataset is the audit anchor for imported source data and derived results, so its removal must first be explicit and controlled; M1 does not cascade-delete sales history, analyses, or forecasts.
 
@@ -24,7 +24,7 @@ Index: `ix_datasets_uploaded_at (uploaded_at)`.
 
 ### `sales_records`
 
-Purpose: future imported source rows for a dataset.
+Purpose: imported source rows for a dataset. M2 validates each CSV entirely before opening the write transaction, then creates the dataset and bulk-inserts its rows in one transaction.
 
 | Field | Type | Key / constraints |
 | --- | --- | --- |
@@ -107,11 +107,43 @@ FROM datasets
 ORDER BY uploaded_at DESC
 LIMIT 20;
 
+-- First records in one imported dataset. Replace :dataset_id in your client.
+SELECT id, date, product, category, units_sold, revenue, price, discount_pct, ad_spend, promo
+FROM sales_records
+WHERE dataset_id = :dataset_id
+ORDER BY date ASC, id ASC
+LIMIT 20;
+
+-- Last records in one imported dataset.
+SELECT id, date, product, category, units_sold, revenue
+FROM sales_records
+WHERE dataset_id = :dataset_id
+ORDER BY date DESC, id DESC
+LIMIT 20;
+
 -- Count source rows for one dataset. Replace :dataset_id in your SQL client.
 SELECT dataset_id, COUNT(*) AS sales_records_count
 FROM sales_records
 WHERE dataset_id = :dataset_id
 GROUP BY dataset_id;
+
+-- Persisted date range and metadata for one dataset.
+SELECT id, name, date_from, date_to, rows_count
+FROM datasets
+WHERE id = :dataset_id;
+
+-- Aggregate revenue for one dataset.
+SELECT dataset_id, SUM(revenue) AS total_revenue
+FROM sales_records
+WHERE dataset_id = :dataset_id
+GROUP BY dataset_id;
+
+-- Record counts by product and category.
+SELECT category, product, COUNT(*) AS records_count
+FROM sales_records
+WHERE dataset_id = :dataset_id
+GROUP BY category, product
+ORDER BY category, product;
 
 -- Latest analysis attempts.
 SELECT id, dataset_id, created_at, analysis_type, status, error_message

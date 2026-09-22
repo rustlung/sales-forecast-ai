@@ -1,0 +1,1826 @@
+date,product,category,units_sold,revenue,price,discount_pct,ad_spend,promo
+2024-01-01,Wireless Headphones,Electronics,88,8565.92,97.34,0.00,126.08,false
+2024-01-01,Smart Home Speaker,Electronics,78,9831.12,126.04,0.00,93.70,true
+2024-01-01,Organic Coffee,Groceries,184,2809.68,15.27,0.00,195.96,false
+2024-01-01,Trail Backpack,Outdoor,59,4853.93,82.27,0.00,81.79,true
+2024-01-01,Camping Lantern,Outdoor,59,2054.38,38.69,10.00,60.41,false
+2024-01-02,Wireless Headphones,Electronics,100,7547.00,83.86,10.00,82.88,false
+2024-01-02,Smart Home Speaker,Electronics,65,8350.55,128.47,0.00,70.20,false
+2024-01-02,Organic Coffee,Groceries,215,3147.60,15.91,8.00,209.63,true
+2024-01-02,Trail Backpack,Outdoor,73,4237.65,72.56,20.00,89.49,false
+2024-01-02,Camping Lantern,Outdoor,46,1995.94,43.39,0.00,58.26,false
+2024-01-03,Wireless Headphones,Electronics,99,9719.82,98.18,0.00,120.79,false
+2024-01-03,Smart Home Speaker,Electronics,55,7116.45,129.39,0.00,63.00,false
+2024-01-03,Organic Coffee,Groceries,172,2690.08,15.64,0.00,176.26,false
+2024-01-03,Trail Backpack,Outdoor,47,3421.60,72.80,0.00,79.02,false
+2024-01-03,Camping Lantern,Outdoor,58,2197.62,37.89,0.00,75.40,false
+2024-01-04,Wireless Headphones,Electronics,91,8957.13,98.43,0.00,76.25,false
+2024-01-04,Smart Home Speaker,Electronics,69,8787.15,127.35,0.00,81.60,true
+2024-01-04,Organic Coffee,Groceries,221,2987.92,15.02,10.00,127.86,true
+2024-01-04,Trail Backpack,Outdoor,73,4131.80,70.74,20.00,63.88,false
+2024-01-04,Camping Lantern,Outdoor,56,2216.48,39.58,0.00,87.13,false
+2024-01-05,Wireless Headphones,Electronics,73,7116.04,97.48,0.00,122.94,false
+2024-01-05,Smart Home Speaker,Electronics,61,7462.13,122.33,0.00,86.85,false
+2024-01-05,Organic Coffee,Groceries,202,2555.30,14.45,12.50,216.31,false
+2024-01-05,Trail Backpack,Outdoor,45,3281.40,72.92,0.00,86.25,false
+2024-01-05,Camping Lantern,Outdoor,71,2400.51,39.78,15.00,69.88,false
+2024-01-06,Wireless Headphones,Electronics,105,9431.10,89.82,0.00,93.15,false
+2024-01-06,Smart Home Speaker,Electronics,56,6517.84,133.01,12.50,95.94,false
+2024-01-06,Organic Coffee,Groceries,188,2844.44,15.13,0.00,147.82,false
+2024-01-06,Trail Backpack,Outdoor,50,3868.00,77.36,0.00,64.84,true
+2024-01-06,Camping Lantern,Outdoor,68,2613.24,38.43,0.00,65.75,false
+2024-01-07,Wireless Headphones,Electronics,77,7398.93,96.09,0.00,112.43,false
+2024-01-07,Smart Home Speaker,Electronics,60,7111.20,118.52,0.00,75.06,false
+2024-01-07,Organic Coffee,Groceries,235,3611.95,15.37,0.00,179.78,false
+2024-01-07,Trail Backpack,Outdoor,47,3592.21,76.43,0.00,67.23,false
+2024-01-07,Camping Lantern,Outdoor,54,2344.68,43.42,0.00,61.71,false
+2024-01-08,Wireless Headphones,Electronics,103,9072.24,88.08,0.00,133.38,false
+2024-01-08,Smart Home Speaker,Electronics,71,8054.24,113.44,0.00,99.61,false
+2024-01-08,Organic Coffee,Groceries,218,3121.76,14.32,0.00,228.36,false
+2024-01-08,Trail Backpack,Outdoor,63,4503.24,79.42,10.00,65.02,false
+2024-01-08,Camping Lantern,Outdoor,62,2307.02,37.21,0.00,81.92,false
+2024-01-09,Wireless Headphones,Electronics,114,10363.74,90.91,0.00,99.45,false
+2024-01-09,Smart Home Speaker,Electronics,64,8143.36,127.24,0.00,82.94,false
+2024-01-09,Organic Coffee,Groceries,178,2545.40,14.30,0.00,170.20,false
+2024-01-09,Trail Backpack,Outdoor,62,4114.32,78.07,15.00,77.38,false
+2024-01-09,Camping Lantern,Outdoor,58,2406.42,41.49,0.00,62.07,true
+2024-01-10,Wireless Headphones,Electronics,140,11179.00,93.94,15.00,93.82,false
+2024-01-10,Smart Home Speaker,Electronics,83,11045.64,133.08,0.00,91.99,true
+2024-01-10,Organic Coffee,Groceries,201,3246.15,16.15,0.00,119.16,true
+2024-01-10,Trail Backpack,Outdoor,42,3163.02,75.31,0.00,85.00,false
+2024-01-10,Camping Lantern,Outdoor,58,1869.34,36.84,12.50,56.67,false
+2024-01-11,Wireless Headphones,Electronics,85,7612.60,89.56,0.00,118.20,false
+2024-01-11,Smart Home Speaker,Electronics,65,7387.90,113.66,0.00,100.13,false
+2024-01-11,Organic Coffee,Groceries,171,2496.60,14.60,0.00,150.58,false
+2024-01-11,Trail Backpack,Outdoor,49,3619.63,73.87,0.00,64.94,false
+2024-01-11,Camping Lantern,Outdoor,44,1866.04,42.41,0.00,66.57,false
+2024-01-12,Wireless Headphones,Electronics,91,8756.93,96.23,0.00,86.02,false
+2024-01-12,Smart Home Speaker,Electronics,67,8019.23,119.69,0.00,101.50,false
+2024-01-12,Organic Coffee,Groceries,174,2582.16,14.84,0.00,149.70,false
+2024-01-12,Trail Backpack,Outdoor,58,4036.22,79.54,12.50,60.79,false
+2024-01-12,Camping Lantern,Outdoor,52,2154.88,41.44,0.00,84.31,false
+2024-01-13,Wireless Headphones,Electronics,120,9331.20,91.48,15.00,134.23,false
+2024-01-13,Smart Home Speaker,Electronics,62,7208.12,116.26,0.00,89.21,false
+2024-01-13,Organic Coffee,Groceries,178,2492.00,14.00,0.00,177.94,false
+2024-01-13,Trail Backpack,Outdoor,48,3413.28,71.11,0.00,89.19,false
+2024-01-13,Camping Lantern,Outdoor,52,1980.68,38.09,0.00,65.53,false
+2024-01-14,Wireless Headphones,Electronics,138,10116.78,91.64,20.00,119.70,false
+2024-01-14,Smart Home Speaker,Electronics,67,8146.53,121.59,0.00,106.03,false
+2024-01-14,Organic Coffee,Groceries,272,3990.24,14.67,0.00,123.13,true
+2024-01-14,Trail Backpack,Outdoor,50,3641.00,72.82,0.00,80.75,false
+2024-01-14,Camping Lantern,Outdoor,81,2642.22,38.37,15.00,58.61,false
+2024-01-15,Wireless Headphones,Electronics,133,10762.36,89.91,10.00,127.43,false
+2024-01-15,Smart Home Speaker,Electronics,64,8161.28,127.52,0.00,86.31,false
+2024-01-15,Organic Coffee,Groceries,178,2625.50,14.75,0.00,156.57,false
+2024-01-15,Trail Backpack,Outdoor,56,4103.12,73.27,0.00,71.56,false
+2024-01-15,Camping Lantern,Outdoor,69,2722.05,39.45,0.00,87.30,true
+2024-01-16,Wireless Headphones,Electronics,102,9561.48,93.74,0.00,133.17,false
+2024-01-16,Smart Home Speaker,Electronics,90,10894.50,131.58,8.00,73.94,false
+2024-01-16,Organic Coffee,Groceries,271,2994.55,13.81,20.00,134.20,false
+2024-01-16,Trail Backpack,Outdoor,51,4064.19,79.69,0.00,61.25,false
+2024-01-16,Camping Lantern,Outdoor,54,2343.06,43.39,0.00,61.26,true
+2024-01-17,Wireless Headphones,Electronics,102,9005.58,88.29,0.00,84.37,false
+2024-01-17,Smart Home Speaker,Electronics,74,8844.48,129.91,8.00,68.09,false
+2024-01-17,Organic Coffee,Groceries,155,2117.30,13.66,0.00,123.64,false
+2024-01-17,Trail Backpack,Outdoor,46,3665.74,79.69,0.00,59.87,false
+2024-01-17,Camping Lantern,Outdoor,45,1760.40,39.12,0.00,77.83,false
+2024-01-18,Wireless Headphones,Electronics,96,8750.40,91.15,0.00,98.81,false
+2024-01-18,Smart Home Speaker,Electronics,71,7709.89,118.03,8.00,66.75,false
+2024-01-18,Organic Coffee,Groceries,201,2902.44,15.20,5.00,202.92,false
+2024-01-18,Trail Backpack,Outdoor,43,3465.80,80.60,0.00,72.76,false
+2024-01-18,Camping Lantern,Outdoor,48,1974.72,41.14,0.00,79.98,false
+2024-01-19,Wireless Headphones,Electronics,96,8210.88,85.53,0.00,79.99,false
+2024-01-19,Smart Home Speaker,Electronics,56,7118.72,127.12,0.00,73.94,false
+2024-01-19,Organic Coffee,Groceries,164,2266.48,13.82,0.00,163.47,false
+2024-01-19,Trail Backpack,Outdoor,48,3784.80,78.85,0.00,88.08,false
+2024-01-19,Camping Lantern,Outdoor,57,2314.20,40.60,0.00,85.31,false
+2024-01-20,Wireless Headphones,Electronics,74,7044.06,95.19,0.00,93.53,false
+2024-01-20,Smart Home Speaker,Electronics,51,6480.06,127.06,0.00,94.79,false
+2024-01-20,Organic Coffee,Groceries,188,2842.56,15.12,0.00,159.69,false
+2024-01-20,Trail Backpack,Outdoor,72,4279.68,74.30,20.00,76.71,false
+2024-01-20,Camping Lantern,Outdoor,53,2172.47,40.99,0.00,74.60,false
+2024-01-21,Wireless Headphones,Electronics,84,8218.56,97.84,0.00,106.12,false
+2024-01-21,Smart Home Speaker,Electronics,79,9377.30,118.70,0.00,105.18,true
+2024-01-21,Organic Coffee,Groceries,280,3710.00,14.72,10.00,127.73,true
+2024-01-21,Trail Backpack,Outdoor,62,4206.70,79.82,15.00,86.43,false
+2024-01-21,Camping Lantern,Outdoor,54,2321.46,42.99,0.00,76.25,false
+2024-01-22,Wireless Headphones,Electronics,97,8329.39,85.87,0.00,124.49,false
+2024-01-22,Smart Home Speaker,Electronics,60,7556.40,125.94,0.00,74.59,false
+2024-01-22,Organic Coffee,Groceries,186,2804.88,15.08,0.00,195.46,false
+2024-01-22,Trail Backpack,Outdoor,52,3683.68,70.84,0.00,72.16,false
+2024-01-22,Camping Lantern,Outdoor,59,2490.98,42.22,0.00,70.24,false
+2024-01-23,Wireless Headphones,Electronics,92,9029.80,98.15,0.00,102.63,false
+2024-01-23,Smart Home Speaker,Electronics,69,7895.67,114.43,0.00,86.85,false
+2024-01-23,Organic Coffee,Groceries,187,3023.79,16.17,0.00,197.51,false
+2024-01-23,Trail Backpack,Outdoor,59,4157.73,70.47,0.00,87.72,false
+2024-01-23,Camping Lantern,Outdoor,67,2228.42,38.01,12.50,76.55,false
+2024-01-24,Wireless Headphones,Electronics,88,7897.12,89.74,0.00,109.57,false
+2024-01-24,Smart Home Speaker,Electronics,76,8840.32,116.32,0.00,93.30,false
+2024-01-24,Organic Coffee,Groceries,192,2895.36,15.08,0.00,188.59,false
+2024-01-24,Trail Backpack,Outdoor,47,3779.27,80.41,0.00,66.32,false
+2024-01-24,Camping Lantern,Outdoor,54,2065.50,38.25,0.00,83.12,false
+2024-01-25,Wireless Headphones,Electronics,102,9951.12,97.56,0.00,78.78,false
+2024-01-25,Smart Home Speaker,Electronics,63,8385.30,133.10,0.00,109.85,false
+2024-01-25,Organic Coffee,Groceries,228,2786.16,14.37,15.00,202.73,false
+2024-01-25,Trail Backpack,Outdoor,48,3359.04,77.76,10.00,74.46,false
+2024-01-25,Camping Lantern,Outdoor,54,2147.04,39.76,0.00,76.54,false
+2024-01-26,Wireless Headphones,Electronics,88,8411.92,95.59,0.00,112.34,false
+2024-01-26,Smart Home Speaker,Electronics,61,7813.49,128.09,0.00,108.87,false
+2024-01-26,Organic Coffee,Groceries,178,2419.02,13.59,0.00,214.33,false
+2024-01-26,Trail Backpack,Outdoor,50,3891.50,77.83,0.00,62.85,false
+2024-01-26,Camping Lantern,Outdoor,63,2485.35,42.88,8.00,85.07,false
+2024-01-27,Wireless Headphones,Electronics,88,8560.64,97.28,0.00,138.07,false
+2024-01-27,Smart Home Speaker,Electronics,60,7055.40,130.65,10.00,85.92,false
+2024-01-27,Organic Coffee,Groceries,212,3050.68,14.39,0.00,226.63,false
+2024-01-27,Trail Backpack,Outdoor,40,3240.80,81.02,0.00,76.03,false
+2024-01-27,Camping Lantern,Outdoor,68,2919.24,42.93,0.00,53.38,true
+2024-01-28,Wireless Headphones,Electronics,103,9025.89,87.63,0.00,135.46,false
+2024-01-28,Smart Home Speaker,Electronics,66,7331.28,120.73,8.00,77.82,false
+2024-01-28,Organic Coffee,Groceries,224,3270.40,14.60,0.00,189.15,false
+2024-01-28,Trail Backpack,Outdoor,49,3468.71,70.79,0.00,74.04,false
+2024-01-28,Camping Lantern,Outdoor,48,1926.24,40.13,0.00,70.61,false
+2024-01-29,Wireless Headphones,Electronics,104,10266.88,98.72,0.00,76.63,true
+2024-01-29,Smart Home Speaker,Electronics,75,9556.50,127.42,0.00,98.26,false
+2024-01-29,Organic Coffee,Groceries,172,2512.92,14.61,0.00,122.15,false
+2024-01-29,Trail Backpack,Outdoor,41,3143.88,76.68,0.00,72.55,false
+2024-01-29,Camping Lantern,Outdoor,60,2142.00,42.01,15.00,50.47,false
+2024-01-30,Wireless Headphones,Electronics,120,10414.80,94.34,8.00,114.07,false
+2024-01-30,Smart Home Speaker,Electronics,56,7273.28,129.88,0.00,105.62,false
+2024-01-30,Organic Coffee,Groceries,273,3082.17,14.11,20.00,131.33,false
+2024-01-30,Trail Backpack,Outdoor,44,3093.20,70.30,0.00,61.37,false
+2024-01-30,Camping Lantern,Outdoor,51,2180.25,42.75,0.00,48.07,false
+2024-01-31,Wireless Headphones,Electronics,116,10259.04,88.44,0.00,87.74,true
+2024-01-31,Smart Home Speaker,Electronics,75,8253.75,122.28,10.00,88.22,false
+2024-01-31,Organic Coffee,Groceries,246,3517.80,15.89,10.00,195.65,true
+2024-01-31,Trail Backpack,Outdoor,43,3393.99,78.93,0.00,81.47,false
+2024-01-31,Camping Lantern,Outdoor,42,1653.96,39.38,0.00,53.79,false
+2024-02-01,Wireless Headphones,Electronics,98,8759.24,99.32,10.00,93.98,false
+2024-02-01,Smart Home Speaker,Electronics,63,7869.33,124.91,0.00,72.24,false
+2024-02-01,Organic Coffee,Groceries,170,2432.70,14.31,0.00,227.63,true
+2024-02-01,Trail Backpack,Outdoor,63,3920.49,73.21,15.00,69.13,true
+2024-02-01,Camping Lantern,Outdoor,64,2443.52,38.18,0.00,77.48,true
+2024-02-02,Wireless Headphones,Electronics,121,10473.76,91.12,5.00,127.73,true
+2024-02-02,Smart Home Speaker,Electronics,59,7886.53,133.67,0.00,80.08,false
+2024-02-02,Organic Coffee,Groceries,150,2340.00,15.60,0.00,128.27,false
+2024-02-02,Trail Backpack,Outdoor,42,3221.82,76.71,0.00,64.84,false
+2024-02-02,Camping Lantern,Outdoor,54,2087.10,38.65,0.00,48.87,false
+2024-02-03,Wireless Headphones,Electronics,84,8074.08,96.12,0.00,86.20,false
+2024-02-03,Smart Home Speaker,Electronics,73,9636.00,132.00,0.00,87.84,true
+2024-02-03,Organic Coffee,Groceries,215,3229.30,15.02,0.00,216.21,false
+2024-02-03,Trail Backpack,Outdoor,46,3530.50,76.75,0.00,83.89,false
+2024-02-03,Camping Lantern,Outdoor,61,2086.81,37.18,8.00,51.53,false
+2024-02-04,Wireless Headphones,Electronics,100,9382.00,93.82,0.00,130.20,false
+2024-02-04,Smart Home Speaker,Electronics,75,10000.50,133.34,0.00,90.67,true
+2024-02-04,Organic Coffee,Groceries,308,4077.92,15.14,12.50,170.91,true
+2024-02-04,Trail Backpack,Outdoor,60,4049.40,71.05,5.00,61.91,false
+2024-02-04,Camping Lantern,Outdoor,52,2044.12,39.31,0.00,78.02,false
+2024-02-05,Wireless Headphones,Electronics,100,9369.00,93.69,0.00,104.48,false
+2024-02-05,Smart Home Speaker,Electronics,63,8295.84,131.68,0.00,106.27,false
+2024-02-05,Organic Coffee,Groceries,175,2345.00,13.40,0.00,175.35,false
+2024-02-05,Trail Backpack,Outdoor,55,4223.45,76.79,0.00,70.13,false
+2024-02-05,Camping Lantern,Outdoor,55,2273.15,41.33,0.00,83.60,false
+2024-02-06,Wireless Headphones,Electronics,118,9345.60,88.00,10.00,117.91,true
+2024-02-06,Smart Home Speaker,Electronics,91,10441.34,120.78,5.00,88.17,false
+2024-02-06,Organic Coffee,Groceries,157,2479.03,15.79,0.00,177.75,false
+2024-02-06,Trail Backpack,Outdoor,50,3760.50,75.21,0.00,74.05,false
+2024-02-06,Camping Lantern,Outdoor,48,1944.00,40.50,0.00,54.79,false
+2024-02-07,Wireless Headphones,Electronics,111,9931.17,97.25,8.00,104.92,false
+2024-02-07,Smart Home Speaker,Electronics,92,8875.24,113.50,15.00,96.77,false
+2024-02-07,Organic Coffee,Groceries,140,2066.40,14.76,0.00,168.65,false
+2024-02-07,Trail Backpack,Outdoor,50,3453.00,78.93,12.50,63.28,false
+2024-02-07,Camping Lantern,Outdoor,75,2410.50,36.73,12.50,77.14,true
+2024-02-08,Wireless Headphones,Electronics,109,9436.13,86.57,0.00,87.69,false
+2024-02-08,Smart Home Speaker,Electronics,83,8536.55,128.57,20.00,111.39,false
+2024-02-08,Organic Coffee,Groceries,184,2782.08,15.12,0.00,170.99,false
+2024-02-08,Trail Backpack,Outdoor,64,3812.48,74.47,20.00,70.94,false
+2024-02-08,Camping Lantern,Outdoor,42,1509.06,35.93,0.00,51.04,false
+2024-02-09,Wireless Headphones,Electronics,76,7302.08,96.08,0.00,90.89,false
+2024-02-09,Smart Home Speaker,Electronics,62,6979.34,112.57,0.00,87.68,false
+2024-02-09,Organic Coffee,Groceries,139,1879.28,13.52,0.00,202.19,false
+2024-02-09,Trail Backpack,Outdoor,52,4101.24,78.87,0.00,84.61,false
+2024-02-09,Camping Lantern,Outdoor,61,2211.86,36.26,0.00,74.31,false
+2024-02-10,Wireless Headphones,Electronics,76,7571.12,99.62,0.00,113.95,false
+2024-02-10,Smart Home Speaker,Electronics,53,6774.46,127.82,0.00,86.30,false
+2024-02-10,Organic Coffee,Groceries,192,2711.04,14.12,0.00,164.16,false
+2024-02-10,Trail Backpack,Outdoor,50,3704.00,74.08,0.00,55.67,false
+2024-02-10,Camping Lantern,Outdoor,79,2484.55,39.32,20.00,58.80,false
+2024-02-11,Wireless Headphones,Electronics,105,9418.50,99.67,10.00,135.68,true
+2024-02-11,Smart Home Speaker,Electronics,56,7426.16,132.61,0.00,91.37,false
+2024-02-11,Organic Coffee,Groceries,200,3060.00,15.30,0.00,224.56,false
+2024-02-11,Trail Backpack,Outdoor,46,3192.40,69.40,0.00,73.43,false
+2024-02-11,Camping Lantern,Outdoor,55,2104.30,38.26,0.00,70.08,false
+2024-02-12,Wireless Headphones,Electronics,121,9182.69,94.87,20.00,129.49,false
+2024-02-12,Smart Home Speaker,Electronics,73,9631.62,131.94,0.00,107.42,false
+2024-02-12,Organic Coffee,Groceries,206,2964.34,14.39,0.00,225.89,false
+2024-02-12,Trail Backpack,Outdoor,74,5032.74,77.73,12.50,64.11,true
+2024-02-12,Camping Lantern,Outdoor,62,2199.76,38.57,8.00,81.28,false
+2024-02-13,Wireless Headphones,Electronics,105,9856.35,93.87,0.00,133.62,false
+2024-02-13,Smart Home Speaker,Electronics,75,9794.25,130.59,0.00,80.53,false
+2024-02-13,Organic Coffee,Groceries,219,2963.07,13.53,0.00,153.89,true
+2024-02-13,Trail Backpack,Outdoor,46,3629.86,78.91,0.00,51.91,false
+2024-02-13,Camping Lantern,Outdoor,54,2012.04,37.26,0.00,65.25,false
+2024-02-14,Wireless Headphones,Electronics,101,9680.85,95.85,0.00,111.47,false
+2024-02-14,Smart Home Speaker,Electronics,67,8372.99,124.97,0.00,105.00,false
+2024-02-14,Organic Coffee,Groceries,242,2637.80,13.63,20.00,205.41,false
+2024-02-14,Trail Backpack,Outdoor,56,3582.88,79.98,20.00,67.94,false
+2024-02-14,Camping Lantern,Outdoor,42,1557.36,37.08,0.00,70.52,false
+2024-02-15,Wireless Headphones,Electronics,124,10547.44,85.06,0.00,141.29,false
+2024-02-15,Smart Home Speaker,Electronics,59,7244.61,122.79,0.00,77.09,false
+2024-02-15,Organic Coffee,Groceries,194,2721.82,14.03,0.00,218.86,false
+2024-02-15,Trail Backpack,Outdoor,33,2652.87,80.39,0.00,51.23,false
+2024-02-15,Camping Lantern,Outdoor,40,1672.80,41.82,0.00,52.61,false
+2024-02-16,Wireless Headphones,Electronics,78,7508.28,96.26,0.00,122.52,false
+2024-02-16,Smart Home Speaker,Electronics,58,7138.64,123.08,0.00,73.65,false
+2024-02-16,Organic Coffee,Groceries,176,2518.56,14.31,0.00,165.50,false
+2024-02-16,Trail Backpack,Outdoor,41,2845.81,69.41,0.00,59.74,false
+2024-02-16,Camping Lantern,Outdoor,43,1689.90,39.30,0.00,53.54,false
+2024-02-17,Wireless Headphones,Electronics,98,9366.84,95.58,0.00,82.07,false
+2024-02-17,Smart Home Speaker,Electronics,57,7424.25,130.25,0.00,105.06,false
+2024-02-17,Organic Coffee,Groceries,254,3131.82,13.70,10.00,161.45,false
+2024-02-17,Trail Backpack,Outdoor,46,3452.76,75.06,0.00,51.45,false
+2024-02-17,Camping Lantern,Outdoor,61,2520.52,41.32,0.00,67.96,false
+2024-02-18,Wireless Headphones,Electronics,96,9177.60,95.60,0.00,114.80,false
+2024-02-18,Smart Home Speaker,Electronics,71,8512.19,119.89,0.00,84.26,false
+2024-02-18,Organic Coffee,Groceries,250,3895.00,15.58,0.00,170.68,true
+2024-02-18,Trail Backpack,Outdoor,62,4297.22,69.31,0.00,52.46,false
+2024-02-18,Camping Lantern,Outdoor,51,2138.43,41.93,0.00,56.48,false
+2024-02-19,Wireless Headphones,Electronics,82,8058.96,98.28,0.00,102.25,false
+2024-02-19,Smart Home Speaker,Electronics,64,7439.36,116.24,0.00,85.51,false
+2024-02-19,Organic Coffee,Groceries,221,3206.71,14.51,0.00,214.60,false
+2024-02-19,Trail Backpack,Outdoor,47,3735.09,79.47,0.00,64.96,false
+2024-02-19,Camping Lantern,Outdoor,51,2118.03,41.53,0.00,57.33,false
+2024-02-20,Wireless Headphones,Electronics,103,9467.76,91.92,0.00,82.81,false
+2024-02-20,Smart Home Speaker,Electronics,80,8444.00,117.28,10.00,110.47,false
+2024-02-20,Organic Coffee,Groceries,221,3195.66,15.22,5.00,142.70,false
+2024-02-20,Trail Backpack,Outdoor,53,3684.56,69.52,0.00,77.80,false
+2024-02-20,Camping Lantern,Outdoor,63,2533.23,40.21,0.00,47.86,true
+2024-02-21,Wireless Headphones,Electronics,105,10447.50,99.50,0.00,139.60,false
+2024-02-21,Smart Home Speaker,Electronics,77,9411.71,128.67,5.00,97.68,false
+2024-02-21,Organic Coffee,Groceries,150,2166.00,14.44,0.00,139.53,false
+2024-02-21,Trail Backpack,Outdoor,58,3682.42,79.36,20.00,79.68,false
+2024-02-21,Camping Lantern,Outdoor,59,2192.44,37.16,0.00,62.26,true
+2024-02-22,Wireless Headphones,Electronics,115,11196.40,97.36,0.00,121.47,false
+2024-02-22,Smart Home Speaker,Electronics,72,8457.84,117.47,0.00,73.41,false
+2024-02-22,Organic Coffee,Groceries,175,2114.00,13.13,8.00,175.50,false
+2024-02-22,Trail Backpack,Outdoor,66,4336.86,77.31,15.00,57.23,true
+2024-02-22,Camping Lantern,Outdoor,61,1869.04,36.05,15.00,76.10,false
+2024-02-23,Wireless Headphones,Electronics,93,9009.84,96.88,0.00,83.87,false
+2024-02-23,Smart Home Speaker,Electronics,64,8145.28,127.27,0.00,69.34,false
+2024-02-23,Organic Coffee,Groceries,170,2589.10,15.23,0.00,153.01,false
+2024-02-23,Trail Backpack,Outdoor,45,3530.25,78.45,0.00,69.09,false
+2024-02-23,Camping Lantern,Outdoor,46,1654.16,35.96,0.00,52.60,false
+2024-02-24,Wireless Headphones,Electronics,84,7765.80,92.45,0.00,116.51,false
+2024-02-24,Smart Home Speaker,Electronics,61,6925.94,113.54,0.00,75.88,false
+2024-02-24,Organic Coffee,Groceries,190,2762.60,14.54,0.00,118.61,false
+2024-02-24,Trail Backpack,Outdoor,57,3359.58,69.34,15.00,79.19,false
+2024-02-24,Camping Lantern,Outdoor,40,1666.40,41.66,0.00,45.17,false
+2024-02-25,Wireless Headphones,Electronics,120,10276.80,85.64,0.00,81.71,false
+2024-02-25,Smart Home Speaker,Electronics,60,6979.20,116.32,0.00,102.46,false
+2024-02-25,Organic Coffee,Groceries,240,3326.40,13.86,0.00,158.12,true
+2024-02-25,Trail Backpack,Outdoor,43,3302.83,76.81,0.00,65.85,false
+2024-02-25,Camping Lantern,Outdoor,61,2597.38,42.58,0.00,53.05,true
+2024-02-26,Wireless Headphones,Electronics,91,8216.39,90.29,0.00,93.54,false
+2024-02-26,Smart Home Speaker,Electronics,87,8420.73,110.62,12.50,89.24,false
+2024-02-26,Organic Coffee,Groceries,233,3620.82,15.54,0.00,227.06,false
+2024-02-26,Trail Backpack,Outdoor,48,3267.36,68.07,0.00,58.90,false
+2024-02-26,Camping Lantern,Outdoor,60,2490.00,41.50,0.00,64.79,true
+2024-02-27,Wireless Headphones,Electronics,100,9609.00,96.09,0.00,105.29,false
+2024-02-27,Smart Home Speaker,Electronics,76,9354.84,123.09,0.00,73.02,false
+2024-02-27,Organic Coffee,Groceries,206,3077.64,14.94,0.00,158.64,false
+2024-02-27,Trail Backpack,Outdoor,44,3446.52,78.33,0.00,52.29,false
+2024-02-27,Camping Lantern,Outdoor,52,1890.72,36.36,0.00,49.48,false
+2024-02-28,Wireless Headphones,Electronics,121,10171.26,84.06,0.00,109.39,false
+2024-02-28,Smart Home Speaker,Electronics,71,8458.94,119.14,0.00,105.45,false
+2024-02-28,Organic Coffee,Groceries,181,2267.93,13.62,8.00,121.67,false
+2024-02-28,Trail Backpack,Outdoor,50,3544.50,70.89,0.00,65.72,false
+2024-02-28,Camping Lantern,Outdoor,49,1786.54,36.46,0.00,76.74,false
+2024-02-29,Wireless Headphones,Electronics,105,9618.00,91.60,0.00,116.17,false
+2024-02-29,Smart Home Speaker,Electronics,62,7390.40,119.20,0.00,95.53,false
+2024-02-29,Organic Coffee,Groceries,185,2645.50,14.30,0.00,210.34,false
+2024-02-29,Trail Backpack,Outdoor,44,3252.92,73.93,0.00,51.15,false
+2024-02-29,Camping Lantern,Outdoor,46,1727.30,37.55,0.00,71.20,false
+2024-03-01,Wireless Headphones,Electronics,83,7597.82,91.54,0.00,115.19,false
+2024-03-01,Smart Home Speaker,Electronics,63,6248.97,110.21,10.00,86.62,false
+2024-03-01,Organic Coffee,Groceries,152,2220.72,14.61,0.00,117.45,false
+2024-03-01,Trail Backpack,Outdoor,48,3365.28,70.11,0.00,71.77,false
+2024-03-01,Camping Lantern,Outdoor,55,1839.20,38.22,12.50,67.61,false
+2024-03-02,Wireless Headphones,Electronics,85,7869.30,92.58,0.00,144.59,false
+2024-03-02,Smart Home Speaker,Electronics,64,7223.68,112.87,0.00,92.79,false
+2024-03-02,Organic Coffee,Groceries,332,3486.00,13.13,20.00,134.02,true
+2024-03-02,Trail Backpack,Outdoor,35,2747.85,78.51,0.00,60.01,false
+2024-03-02,Camping Lantern,Outdoor,50,1934.50,38.69,0.00,43.19,false
+2024-03-03,Wireless Headphones,Electronics,110,9498.50,86.35,0.00,141.80,false
+2024-03-03,Smart Home Speaker,Electronics,69,7873.59,114.11,0.00,72.91,false
+2024-03-03,Organic Coffee,Groceries,268,3529.56,15.50,15.00,185.88,false
+2024-03-03,Trail Backpack,Outdoor,46,3198.38,69.53,0.00,48.43,false
+2024-03-03,Camping Lantern,Outdoor,57,2430.48,42.64,0.00,55.46,true
+2024-03-04,Wireless Headphones,Electronics,119,9088.03,83.01,8.00,95.88,false
+2024-03-04,Smart Home Speaker,Electronics,83,10160.86,128.86,5.00,98.39,false
+2024-03-04,Organic Coffee,Groceries,194,2941.04,15.16,0.00,113.83,false
+2024-03-04,Trail Backpack,Outdoor,54,4242.24,78.56,0.00,54.47,true
+2024-03-04,Camping Lantern,Outdoor,53,2046.86,40.65,5.00,55.88,false
+2024-03-05,Wireless Headphones,Electronics,137,12206.70,89.10,0.00,144.36,false
+2024-03-05,Smart Home Speaker,Electronics,79,9885.27,125.13,0.00,106.72,false
+2024-03-05,Organic Coffee,Groceries,211,3194.54,15.14,0.00,191.47,false
+2024-03-05,Trail Backpack,Outdoor,46,3628.48,78.88,0.00,58.14,false
+2024-03-05,Camping Lantern,Outdoor,47,1945.80,41.40,0.00,38.86,false
+2024-03-06,Wireless Headphones,Electronics,82,7893.32,96.26,0.00,107.05,false
+2024-03-06,Smart Home Speaker,Electronics,81,9758.07,120.47,0.00,78.06,true
+2024-03-06,Organic Coffee,Groceries,257,2844.99,13.03,15.00,212.42,true
+2024-03-06,Trail Backpack,Outdoor,42,3224.34,76.77,0.00,62.67,false
+2024-03-06,Camping Lantern,Outdoor,48,1602.72,37.10,10.00,39.52,false
+2024-03-07,Wireless Headphones,Electronics,124,11040.96,89.04,0.00,144.42,false
+2024-03-07,Smart Home Speaker,Electronics,74,8222.88,111.12,0.00,77.74,false
+2024-03-07,Organic Coffee,Groceries,204,2625.48,14.30,10.00,179.41,false
+2024-03-07,Trail Backpack,Outdoor,63,3630.06,67.79,15.00,65.19,false
+2024-03-07,Camping Lantern,Outdoor,40,1594.40,39.86,0.00,51.07,false
+2024-03-08,Wireless Headphones,Electronics,110,10186.00,97.47,5.00,102.01,false
+2024-03-08,Smart Home Speaker,Electronics,57,6716.31,117.83,0.00,81.71,false
+2024-03-08,Organic Coffee,Groceries,256,3102.72,15.15,20.00,145.46,true
+2024-03-08,Trail Backpack,Outdoor,45,3338.10,74.18,0.00,69.10,false
+2024-03-08,Camping Lantern,Outdoor,50,2094.50,41.89,0.00,57.01,false
+2024-03-09,Wireless Headphones,Electronics,118,10386.36,88.02,0.00,125.09,false
+2024-03-09,Smart Home Speaker,Electronics,77,6970.81,113.16,20.00,71.42,false
+2024-03-09,Organic Coffee,Groceries,220,2895.20,13.16,0.00,117.57,false
+2024-03-09,Trail Backpack,Outdoor,46,3211.26,69.81,0.00,66.92,false
+2024-03-09,Camping Lantern,Outdoor,51,2000.22,39.22,0.00,52.50,false
+2024-03-10,Wireless Headphones,Electronics,117,10209.42,87.26,0.00,102.74,false
+2024-03-10,Smart Home Speaker,Electronics,73,8518.37,116.69,0.00,87.57,false
+2024-03-10,Organic Coffee,Groceries,219,3076.95,14.05,0.00,208.70,false
+2024-03-10,Trail Backpack,Outdoor,56,4503.52,80.42,0.00,63.27,true
+2024-03-10,Camping Lantern,Outdoor,50,1862.50,37.25,0.00,63.49,false
+2024-03-11,Wireless Headphones,Electronics,130,9876.10,86.82,12.50,109.06,false
+2024-03-11,Smart Home Speaker,Electronics,72,8333.28,121.83,5.00,94.90,false
+2024-03-11,Organic Coffee,Groceries,199,2827.79,14.21,0.00,154.17,false
+2024-03-11,Trail Backpack,Outdoor,72,4332.24,70.78,15.00,75.20,false
+2024-03-11,Camping Lantern,Outdoor,49,1912.47,39.03,0.00,43.78,false
+2024-03-12,Wireless Headphones,Electronics,120,10246.80,85.39,0.00,93.56,false
+2024-03-12,Smart Home Speaker,Electronics,88,9728.40,120.16,8.00,105.95,false
+2024-03-12,Organic Coffee,Groceries,191,2486.82,14.88,12.50,136.01,false
+2024-03-12,Trail Backpack,Outdoor,45,3460.05,76.89,0.00,60.02,false
+2024-03-12,Camping Lantern,Outdoor,43,1645.18,38.26,0.00,37.11,false
+2024-03-13,Wireless Headphones,Electronics,200,13162.00,82.26,20.00,144.66,true
+2024-03-13,Smart Home Speaker,Electronics,75,9155.25,122.07,0.00,95.64,false
+2024-03-13,Organic Coffee,Groceries,186,2607.72,14.02,0.00,126.69,true
+2024-03-13,Trail Backpack,Outdoor,40,2707.60,73.58,8.00,45.02,false
+2024-03-13,Camping Lantern,Outdoor,41,1704.78,41.58,0.00,64.19,false
+2024-03-14,Wireless Headphones,Electronics,106,9901.46,93.41,0.00,106.56,false
+2024-03-14,Smart Home Speaker,Electronics,71,8469.59,119.29,0.00,77.10,false
+2024-03-14,Organic Coffee,Groceries,200,2738.00,15.21,10.00,183.16,false
+2024-03-14,Trail Backpack,Outdoor,51,3352.74,75.13,12.50,70.44,false
+2024-03-14,Camping Lantern,Outdoor,54,2100.06,42.27,8.00,63.07,false
+2024-03-15,Wireless Headphones,Electronics,103,9516.17,92.39,0.00,95.45,false
+2024-03-15,Smart Home Speaker,Electronics,65,7159.75,125.88,12.50,104.64,false
+2024-03-15,Organic Coffee,Groceries,137,2116.65,15.45,0.00,195.37,false
+2024-03-15,Trail Backpack,Outdoor,45,3114.45,81.42,15.00,42.34,false
+2024-03-15,Camping Lantern,Outdoor,55,2096.05,43.55,12.50,71.70,false
+2024-03-16,Wireless Headphones,Electronics,111,9153.06,82.46,0.00,99.70,true
+2024-03-16,Smart Home Speaker,Electronics,56,6450.08,115.18,0.00,75.69,false
+2024-03-16,Organic Coffee,Groceries,222,2905.98,13.09,0.00,175.51,true
+2024-03-16,Trail Backpack,Outdoor,46,3391.58,73.73,0.00,57.99,false
+2024-03-16,Camping Lantern,Outdoor,54,1995.84,36.96,0.00,65.99,false
+2024-03-17,Wireless Headphones,Electronics,97,8899.75,91.75,0.00,91.49,false
+2024-03-17,Smart Home Speaker,Electronics,67,8354.90,124.70,0.00,108.88,false
+2024-03-17,Organic Coffee,Groceries,265,3972.35,14.99,0.00,164.37,true
+2024-03-17,Trail Backpack,Outdoor,48,3279.36,68.32,0.00,61.89,false
+2024-03-17,Camping Lantern,Outdoor,53,1861.89,39.03,10.00,44.13,false
+2024-03-18,Wireless Headphones,Electronics,132,9360.12,83.42,15.00,104.42,false
+2024-03-18,Smart Home Speaker,Electronics,92,9641.60,113.91,8.00,84.73,false
+2024-03-18,Organic Coffee,Groceries,182,2679.04,14.72,0.00,199.92,false
+2024-03-18,Trail Backpack,Outdoor,65,4196.40,70.18,8.00,67.93,false
+2024-03-18,Camping Lantern,Outdoor,36,1516.32,42.12,0.00,60.21,false
+2024-03-19,Wireless Headphones,Electronics,123,10213.92,83.04,0.00,106.43,false
+2024-03-19,Smart Home Speaker,Electronics,104,9677.20,109.47,15.00,108.56,false
+2024-03-19,Organic Coffee,Groceries,163,2348.83,14.41,0.00,127.99,false
+2024-03-19,Trail Backpack,Outdoor,44,3545.52,80.58,0.00,60.71,false
+2024-03-19,Camping Lantern,Outdoor,42,1813.98,43.19,0.00,57.27,false
+2024-03-20,Wireless Headphones,Electronics,141,11804.52,83.72,0.00,127.29,false
+2024-03-20,Smart Home Speaker,Electronics,92,11627.88,126.39,0.00,81.02,true
+2024-03-20,Organic Coffee,Groceries,171,2394.00,14.00,0.00,134.81,false
+2024-03-20,Trail Backpack,Outdoor,39,2983.50,76.50,0.00,64.35,false
+2024-03-20,Camping Lantern,Outdoor,57,1968.21,40.63,15.00,37.52,false
+2024-03-21,Wireless Headphones,Electronics,135,11650.50,90.85,5.00,99.78,true
+2024-03-21,Smart Home Speaker,Electronics,73,8422.01,115.37,0.00,98.98,false
+2024-03-21,Organic Coffee,Groceries,150,2119.50,14.13,0.00,123.69,false
+2024-03-21,Trail Backpack,Outdoor,35,2778.30,79.38,0.00,68.02,false
+2024-03-21,Camping Lantern,Outdoor,44,1817.64,41.31,0.00,42.46,false
+2024-03-22,Wireless Headphones,Electronics,111,8986.56,80.96,0.00,121.57,false
+2024-03-22,Smart Home Speaker,Electronics,57,7289.73,127.89,0.00,83.44,false
+2024-03-22,Organic Coffee,Groceries,171,2366.64,13.84,0.00,212.74,false
+2024-03-22,Trail Backpack,Outdoor,46,3545.22,77.07,0.00,66.24,true
+2024-03-22,Camping Lantern,Outdoor,58,2187.18,37.71,0.00,66.10,true
+2024-03-23,Wireless Headphones,Electronics,105,8917.65,84.93,0.00,91.84,false
+2024-03-23,Smart Home Speaker,Electronics,77,9222.29,119.77,0.00,101.34,true
+2024-03-23,Organic Coffee,Groceries,277,3022.07,13.64,20.00,133.98,false
+2024-03-23,Trail Backpack,Outdoor,49,3253.11,72.16,8.00,70.27,false
+2024-03-23,Camping Lantern,Outdoor,39,1660.62,42.58,0.00,35.50,false
+2024-03-24,Wireless Headphones,Electronics,102,8644.50,84.75,0.00,113.46,false
+2024-03-24,Smart Home Speaker,Electronics,51,5758.92,118.86,5.00,93.63,false
+2024-03-24,Organic Coffee,Groceries,226,3335.76,14.76,0.00,193.37,false
+2024-03-24,Trail Backpack,Outdoor,49,3471.65,70.85,0.00,41.98,false
+2024-03-24,Camping Lantern,Outdoor,43,1680.44,39.08,0.00,42.47,false
+2024-03-25,Wireless Headphones,Electronics,123,9967.92,81.04,0.00,118.77,false
+2024-03-25,Smart Home Speaker,Electronics,89,8778.96,109.60,10.00,73.75,false
+2024-03-25,Organic Coffee,Groceries,207,2885.58,13.94,0.00,144.44,false
+2024-03-25,Trail Backpack,Outdoor,47,3814.99,81.17,0.00,49.64,false
+2024-03-25,Camping Lantern,Outdoor,47,1958.49,43.86,5.00,36.41,false
+2024-03-26,Wireless Headphones,Electronics,107,9407.44,87.92,0.00,113.07,false
+2024-03-26,Smart Home Speaker,Electronics,76,8543.92,112.42,0.00,71.32,false
+2024-03-26,Organic Coffee,Groceries,193,2900.79,15.03,0.00,158.68,false
+2024-03-26,Trail Backpack,Outdoor,50,3674.50,73.49,0.00,41.65,false
+2024-03-26,Camping Lantern,Outdoor,38,1613.86,42.47,0.00,53.18,false
+2024-03-27,Wireless Headphones,Electronics,116,10510.76,90.61,0.00,115.69,false
+2024-03-27,Smart Home Speaker,Electronics,99,9394.11,111.63,15.00,97.53,false
+2024-03-27,Organic Coffee,Groceries,234,2866.50,14.00,12.50,144.74,true
+2024-03-27,Trail Backpack,Outdoor,51,3855.09,75.59,0.00,53.75,true
+2024-03-27,Camping Lantern,Outdoor,46,1945.34,42.29,0.00,37.64,false
+2024-03-28,Wireless Headphones,Electronics,125,10230.00,81.84,0.00,112.38,true
+2024-03-28,Smart Home Speaker,Electronics,72,8019.36,111.38,0.00,109.08,false
+2024-03-28,Organic Coffee,Groceries,153,2265.93,15.59,5.00,154.55,false
+2024-03-28,Trail Backpack,Outdoor,40,2866.40,71.66,0.00,39.10,false
+2024-03-28,Camping Lantern,Outdoor,40,1605.60,40.14,0.00,52.61,false
+2024-03-29,Wireless Headphones,Electronics,112,10288.32,91.86,0.00,89.24,false
+2024-03-29,Smart Home Speaker,Electronics,57,7240.14,127.02,0.00,81.96,false
+2024-03-29,Organic Coffee,Groceries,159,2443.83,15.37,0.00,187.96,false
+2024-03-29,Trail Backpack,Outdoor,52,3523.00,79.71,15.00,43.31,false
+2024-03-29,Camping Lantern,Outdoor,42,1832.04,43.62,0.00,67.49,false
+2024-03-30,Wireless Headphones,Electronics,126,10587.78,91.34,8.00,137.06,true
+2024-03-30,Smart Home Speaker,Electronics,57,7185.99,126.07,0.00,100.87,false
+2024-03-30,Organic Coffee,Groceries,222,2790.54,14.36,12.50,187.30,false
+2024-03-30,Trail Backpack,Outdoor,40,2850.40,71.26,0.00,39.53,false
+2024-03-30,Camping Lantern,Outdoor,45,1890.00,44.21,5.00,54.38,false
+2024-03-31,Wireless Headphones,Electronics,147,12240.69,92.52,10.00,87.61,true
+2024-03-31,Smart Home Speaker,Electronics,69,8411.10,121.90,0.00,89.41,false
+2024-03-31,Organic Coffee,Groceries,238,2941.68,13.73,10.00,149.81,false
+2024-03-31,Trail Backpack,Outdoor,59,4004.92,79.85,15.00,55.41,false
+2024-03-31,Camping Lantern,Outdoor,57,2087.91,41.86,12.50,63.50,false
+2024-04-01,Wireless Headphones,Electronics,103,9606.81,93.27,0.00,137.54,false
+2024-04-01,Smart Home Speaker,Electronics,76,9183.08,120.83,0.00,96.65,false
+2024-04-01,Organic Coffee,Groceries,174,2648.28,15.22,0.00,159.29,false
+2024-04-01,Trail Backpack,Outdoor,53,3697.28,79.73,12.50,56.89,false
+2024-04-01,Camping Lantern,Outdoor,46,1757.66,38.21,0.00,35.49,false
+2024-04-02,Wireless Headphones,Electronics,117,9446.58,80.74,0.00,146.01,false
+2024-04-02,Smart Home Speaker,Electronics,83,9670.33,129.46,10.00,68.39,false
+2024-04-02,Organic Coffee,Groceries,343,3683.82,13.43,20.00,132.77,false
+2024-04-02,Trail Backpack,Outdoor,44,3071.20,69.80,0.00,41.67,false
+2024-04-02,Camping Lantern,Outdoor,45,1987.65,44.17,0.00,45.24,false
+2024-04-03,Wireless Headphones,Electronics,150,12408.00,82.72,0.00,111.42,false
+2024-04-03,Smart Home Speaker,Electronics,66,7805.82,118.27,0.00,79.40,false
+2024-04-03,Organic Coffee,Groceries,160,2300.80,14.38,0.00,122.18,false
+2024-04-03,Trail Backpack,Outdoor,55,3631.65,77.69,15.00,65.32,false
+2024-04-03,Camping Lantern,Outdoor,41,1763.82,43.02,0.00,67.57,false
+2024-04-04,Wireless Headphones,Electronics,118,10404.06,88.17,0.00,95.67,false
+2024-04-04,Smart Home Speaker,Electronics,74,9164.90,123.85,0.00,81.18,false
+2024-04-04,Organic Coffee,Groceries,151,2207.62,14.62,0.00,178.72,false
+2024-04-04,Trail Backpack,Outdoor,40,2798.00,69.95,0.00,59.42,false
+2024-04-04,Camping Lantern,Outdoor,50,1878.00,42.92,12.50,50.63,false
+2024-04-05,Wireless Headphones,Electronics,109,10292.87,94.43,0.00,146.39,false
+2024-04-05,Smart Home Speaker,Electronics,62,7755.58,125.09,0.00,85.36,false
+2024-04-05,Organic Coffee,Groceries,159,2129.01,13.39,0.00,159.94,false
+2024-04-05,Trail Backpack,Outdoor,36,2987.64,82.99,0.00,48.30,false
+2024-04-05,Camping Lantern,Outdoor,43,1874.80,43.60,0.00,50.17,false
+2024-04-06,Wireless Headphones,Electronics,98,8630.86,88.07,0.00,89.39,false
+2024-04-06,Smart Home Speaker,Electronics,65,7759.70,119.38,0.00,87.17,false
+2024-04-06,Organic Coffee,Groceries,191,2605.24,13.64,0.00,182.81,false
+2024-04-06,Trail Backpack,Outdoor,34,2600.66,76.49,0.00,56.60,false
+2024-04-06,Camping Lantern,Outdoor,44,1949.64,44.31,0.00,64.62,false
+2024-04-07,Wireless Headphones,Electronics,127,10499.09,89.86,8.00,145.56,false
+2024-04-07,Smart Home Speaker,Electronics,82,8921.60,127.99,15.00,72.49,false
+2024-04-07,Organic Coffee,Groceries,256,3246.08,13.35,5.00,161.36,false
+2024-04-07,Trail Backpack,Outdoor,43,3493.75,81.25,0.00,41.94,false
+2024-04-07,Camping Lantern,Outdoor,47,1874.83,39.89,0.00,47.78,false
+2024-04-08,Wireless Headphones,Electronics,118,9562.72,81.04,0.00,124.21,false
+2024-04-08,Smart Home Speaker,Electronics,106,11660.00,110.00,0.00,105.03,true
+2024-04-08,Organic Coffee,Groceries,193,2416.36,13.92,10.00,152.25,false
+2024-04-08,Trail Backpack,Outdoor,43,3592.65,83.55,0.00,40.90,false
+2024-04-08,Camping Lantern,Outdoor,51,1924.74,39.72,5.00,37.77,false
+2024-04-09,Wireless Headphones,Electronics,110,9770.20,88.82,0.00,106.25,false
+2024-04-09,Smart Home Speaker,Electronics,95,9368.90,109.57,10.00,87.15,false
+2024-04-09,Organic Coffee,Groceries,187,2689.06,14.38,0.00,206.94,false
+2024-04-09,Trail Backpack,Outdoor,44,3100.68,70.47,0.00,60.74,false
+2024-04-09,Camping Lantern,Outdoor,53,1844.40,37.82,8.00,48.82,false
+2024-04-10,Wireless Headphones,Electronics,116,9616.40,82.90,0.00,123.36,false
+2024-04-10,Smart Home Speaker,Electronics,83,9130.83,122.23,10.00,106.17,true
+2024-04-10,Organic Coffee,Groceries,166,2373.80,14.30,0.00,114.53,false
+2024-04-10,Trail Backpack,Outdoor,36,2958.48,82.18,0.00,63.83,false
+2024-04-10,Camping Lantern,Outdoor,41,1490.35,38.27,5.00,50.55,false
+2024-04-11,Wireless Headphones,Electronics,102,8812.80,86.40,0.00,132.39,false
+2024-04-11,Smart Home Speaker,Electronics,79,9258.80,117.20,0.00,82.64,false
+2024-04-11,Organic Coffee,Groceries,175,2453.50,14.02,0.00,169.06,false
+2024-04-11,Trail Backpack,Outdoor,37,2901.91,78.43,0.00,47.47,false
+2024-04-11,Camping Lantern,Outdoor,58,2033.48,41.25,15.00,56.76,false
+2024-04-12,Wireless Headphones,Electronics,119,9697.31,81.49,0.00,86.86,false
+2024-04-12,Smart Home Speaker,Electronics,68,8049.84,128.68,8.00,67.54,false
+2024-04-12,Organic Coffee,Groceries,153,2440.35,15.95,0.00,127.65,false
+2024-04-12,Trail Backpack,Outdoor,46,2922.84,70.60,10.00,47.35,false
+2024-04-12,Camping Lantern,Outdoor,51,2022.66,41.75,5.00,40.43,true
+2024-04-13,Wireless Headphones,Electronics,102,9491.10,93.05,0.00,120.01,false
+2024-04-13,Smart Home Speaker,Electronics,66,8325.90,126.15,0.00,104.07,false
+2024-04-13,Organic Coffee,Groceries,190,2992.50,15.75,0.00,167.43,false
+2024-04-13,Trail Backpack,Outdoor,42,2978.64,70.92,0.00,49.35,false
+2024-04-13,Camping Lantern,Outdoor,63,2228.31,41.61,15.00,64.80,false
+2024-04-14,Wireless Headphones,Electronics,99,9302.04,93.96,0.00,116.22,false
+2024-04-14,Smart Home Speaker,Electronics,60,6631.80,122.81,10.00,74.22,false
+2024-04-14,Organic Coffee,Groceries,217,3419.92,15.76,0.00,175.46,false
+2024-04-14,Trail Backpack,Outdoor,40,3163.20,79.08,0.00,47.42,false
+2024-04-14,Camping Lantern,Outdoor,50,1937.00,38.74,0.00,65.21,false
+2024-04-15,Wireless Headphones,Electronics,96,8408.64,87.59,0.00,140.57,false
+2024-04-15,Smart Home Speaker,Electronics,60,7613.40,126.89,0.00,80.47,false
+2024-04-15,Organic Coffee,Groceries,213,3184.35,15.74,5.00,168.64,false
+2024-04-15,Trail Backpack,Outdoor,45,3419.10,75.98,0.00,53.92,false
+2024-04-15,Camping Lantern,Outdoor,45,1801.35,40.03,0.00,65.63,false
+2024-04-16,Wireless Headphones,Electronics,130,11226.80,95.96,10.00,92.36,false
+2024-04-16,Smart Home Speaker,Electronics,102,9972.54,122.21,20.00,103.83,false
+2024-04-16,Organic Coffee,Groceries,175,2525.25,14.43,0.00,123.77,false
+2024-04-16,Trail Backpack,Outdoor,45,3317.40,73.72,0.00,45.68,false
+2024-04-16,Camping Lantern,Outdoor,44,1671.12,37.98,0.00,38.94,false
+2024-04-17,Wireless Headphones,Electronics,113,9955.30,88.10,0.00,117.96,false
+2024-04-17,Smart Home Speaker,Electronics,76,8658.68,113.93,0.00,100.28,false
+2024-04-17,Organic Coffee,Groceries,194,2714.06,15.20,8.00,169.77,false
+2024-04-17,Trail Backpack,Outdoor,36,2979.72,82.77,0.00,58.53,false
+2024-04-17,Camping Lantern,Outdoor,48,1942.08,40.46,0.00,56.07,false
+2024-04-18,Wireless Headphones,Electronics,128,9870.08,85.68,10.00,133.41,false
+2024-04-18,Smart Home Speaker,Electronics,68,8603.36,126.52,0.00,72.13,false
+2024-04-18,Organic Coffee,Groceries,194,2265.92,13.74,15.00,114.00,false
+2024-04-18,Trail Backpack,Outdoor,33,2356.20,71.40,0.00,53.67,false
+2024-04-18,Camping Lantern,Outdoor,58,2232.42,38.49,0.00,54.04,true
+2024-04-19,Wireless Headphones,Electronics,109,9309.69,85.41,0.00,105.95,false
+2024-04-19,Smart Home Speaker,Electronics,61,7216.91,118.31,0.00,70.46,false
+2024-04-19,Organic Coffee,Groceries,140,2167.20,15.48,0.00,186.42,false
+2024-04-19,Trail Backpack,Outdoor,40,3094.00,77.35,0.00,41.29,false
+2024-04-19,Camping Lantern,Outdoor,39,1710.93,43.87,0.00,41.71,false
+2024-04-20,Wireless Headphones,Electronics,114,9614.76,96.39,12.50,119.70,false
+2024-04-20,Smart Home Speaker,Electronics,72,8354.16,116.03,0.00,90.20,true
+2024-04-20,Organic Coffee,Groceries,165,2313.30,14.02,0.00,194.78,false
+2024-04-20,Trail Backpack,Outdoor,40,2836.40,70.91,0.00,63.21,false
+2024-04-20,Camping Lantern,Outdoor,40,1611.60,40.29,0.00,46.44,false
+2024-04-21,Wireless Headphones,Electronics,101,8511.27,84.27,0.00,84.37,false
+2024-04-21,Smart Home Speaker,Electronics,71,8688.98,122.38,0.00,78.07,false
+2024-04-21,Organic Coffee,Groceries,212,3408.96,16.08,0.00,161.16,false
+2024-04-21,Trail Backpack,Outdoor,43,3173.40,82.00,10.00,51.50,false
+2024-04-21,Camping Lantern,Outdoor,50,2232.50,44.65,0.00,67.17,false
+2024-04-22,Wireless Headphones,Electronics,105,9137.10,87.02,0.00,125.33,false
+2024-04-22,Smart Home Speaker,Electronics,99,9395.10,111.65,15.00,104.00,false
+2024-04-22,Organic Coffee,Groceries,172,2776.08,16.14,0.00,163.12,false
+2024-04-22,Trail Backpack,Outdoor,43,3046.55,80.97,12.50,45.10,false
+2024-04-22,Camping Lantern,Outdoor,48,1806.24,37.63,0.00,54.23,false
+2024-04-23,Wireless Headphones,Electronics,98,9591.26,97.87,0.00,132.31,false
+2024-04-23,Smart Home Speaker,Electronics,82,10855.98,132.39,0.00,71.11,false
+2024-04-23,Organic Coffee,Groceries,184,2530.00,13.75,0.00,194.70,false
+2024-04-23,Trail Backpack,Outdoor,37,2991.08,80.84,0.00,54.79,false
+2024-04-23,Camping Lantern,Outdoor,38,1535.96,40.42,0.00,44.31,false
+2024-04-24,Wireless Headphones,Electronics,191,13759.64,82.33,12.50,110.27,true
+2024-04-24,Smart Home Speaker,Electronics,68,8187.88,120.41,0.00,87.13,false
+2024-04-24,Organic Coffee,Groceries,153,2276.64,14.88,0.00,211.46,false
+2024-04-24,Trail Backpack,Outdoor,52,3409.12,74.93,12.50,56.07,true
+2024-04-24,Camping Lantern,Outdoor,41,1627.70,39.70,0.00,44.37,false
+2024-04-25,Wireless Headphones,Electronics,113,10629.91,94.07,0.00,95.93,false
+2024-04-25,Smart Home Speaker,Electronics,57,6829.74,119.82,0.00,77.37,false
+2024-04-25,Organic Coffee,Groceries,175,2576.00,16.00,8.00,148.32,false
+2024-04-25,Trail Backpack,Outdoor,42,2975.70,70.85,0.00,53.21,false
+2024-04-25,Camping Lantern,Outdoor,52,2053.48,42.92,8.00,58.39,false
+2024-04-26,Wireless Headphones,Electronics,82,6892.10,84.05,0.00,144.69,false
+2024-04-26,Smart Home Speaker,Electronics,57,6898.71,121.03,0.00,94.54,false
+2024-04-26,Organic Coffee,Groceries,149,2284.17,15.33,0.00,155.34,false
+2024-04-26,Trail Backpack,Outdoor,37,2962.59,80.07,0.00,59.34,false
+2024-04-26,Camping Lantern,Outdoor,43,1643.89,38.23,0.00,66.99,false
+2024-04-27,Wireless Headphones,Electronics,108,9089.28,84.16,0.00,106.47,false
+2024-04-27,Smart Home Speaker,Electronics,54,6914.16,128.04,0.00,73.17,false
+2024-04-27,Organic Coffee,Groceries,173,2498.12,14.44,0.00,121.93,false
+2024-04-27,Trail Backpack,Outdoor,36,2886.48,80.18,0.00,49.77,false
+2024-04-27,Camping Lantern,Outdoor,51,1974.21,38.71,0.00,43.29,false
+2024-04-28,Wireless Headphones,Electronics,84,7598.64,90.46,0.00,128.12,false
+2024-04-28,Smart Home Speaker,Electronics,80,9010.40,132.51,15.00,85.05,true
+2024-04-28,Organic Coffee,Groceries,199,2857.64,14.36,0.00,197.11,false
+2024-04-28,Trail Backpack,Outdoor,42,3104.64,73.92,0.00,44.84,false
+2024-04-28,Camping Lantern,Outdoor,57,1990.44,39.91,12.50,29.36,false
+2024-04-29,Wireless Headphones,Electronics,108,9027.72,83.59,0.00,114.85,false
+2024-04-29,Smart Home Speaker,Electronics,66,7475.16,113.26,0.00,69.96,false
+2024-04-29,Organic Coffee,Groceries,204,3064.08,15.02,0.00,154.30,false
+2024-04-29,Trail Backpack,Outdoor,41,3163.56,77.16,0.00,32.42,false
+2024-04-29,Camping Lantern,Outdoor,40,1618.80,40.47,0.00,37.41,false
+2024-04-30,Wireless Headphones,Electronics,117,10808.46,92.38,0.00,102.74,false
+2024-04-30,Smart Home Speaker,Electronics,66,8560.20,129.70,0.00,94.98,false
+2024-04-30,Organic Coffee,Groceries,185,2702.85,14.61,0.00,194.89,false
+2024-04-30,Trail Backpack,Outdoor,36,2856.24,79.34,0.00,35.53,false
+2024-04-30,Camping Lantern,Outdoor,58,2023.04,39.86,12.50,53.48,false
+2024-05-01,Wireless Headphones,Electronics,118,10872.52,92.14,0.00,125.47,false
+2024-05-01,Smart Home Speaker,Electronics,70,8510.60,121.58,0.00,81.15,false
+2024-05-01,Organic Coffee,Groceries,209,2905.10,15.89,12.50,121.08,false
+2024-05-01,Trail Backpack,Outdoor,48,3292.80,80.71,15.00,51.24,true
+2024-05-01,Camping Lantern,Outdoor,43,1647.33,38.31,0.00,42.92,false
+2024-05-02,Wireless Headphones,Electronics,125,10521.25,84.17,0.00,109.19,false
+2024-05-02,Smart Home Speaker,Electronics,59,6643.40,112.60,0.00,58.88,false
+2024-05-02,Organic Coffee,Groceries,172,2370.16,15.31,10.00,194.95,false
+2024-05-02,Trail Backpack,Outdoor,42,2990.82,71.21,0.00,53.61,true
+2024-05-02,Camping Lantern,Outdoor,33,1399.53,42.41,0.00,58.34,false
+2024-05-03,Wireless Headphones,Electronics,121,10437.46,86.26,0.00,145.68,false
+2024-05-03,Smart Home Speaker,Electronics,62,7065.52,123.87,8.00,91.28,false
+2024-05-03,Organic Coffee,Groceries,124,1780.64,14.36,0.00,120.51,false
+2024-05-03,Trail Backpack,Outdoor,33,2410.65,73.05,0.00,32.32,false
+2024-05-03,Camping Lantern,Outdoor,46,1983.98,43.13,0.00,49.97,false
+2024-05-04,Wireless Headphones,Electronics,103,8905.38,86.46,0.00,92.39,false
+2024-05-04,Smart Home Speaker,Electronics,60,6606.60,122.34,10.00,78.16,false
+2024-05-04,Organic Coffee,Groceries,189,2765.07,14.63,0.00,183.87,false
+2024-05-04,Trail Backpack,Outdoor,39,3108.30,79.70,0.00,41.90,false
+2024-05-04,Camping Lantern,Outdoor,80,2613.60,40.83,20.00,42.02,true
+2024-05-05,Wireless Headphones,Electronics,104,9183.20,88.30,0.00,125.98,false
+2024-05-05,Smart Home Speaker,Electronics,58,6763.38,116.61,0.00,86.37,false
+2024-05-05,Organic Coffee,Groceries,198,2720.52,13.74,0.00,184.79,false
+2024-05-05,Trail Backpack,Outdoor,37,2852.33,77.09,0.00,37.42,false
+2024-05-05,Camping Lantern,Outdoor,61,2141.10,43.87,20.00,60.37,false
+2024-05-06,Wireless Headphones,Electronics,116,9683.68,92.76,10.00,145.67,false
+2024-05-06,Smart Home Speaker,Electronics,68,7990.68,117.51,0.00,60.03,false
+2024-05-06,Organic Coffee,Groceries,165,2578.95,15.63,0.00,166.70,false
+2024-05-06,Trail Backpack,Outdoor,48,3389.28,70.61,0.00,60.56,false
+2024-05-06,Camping Lantern,Outdoor,52,1969.24,37.87,0.00,34.48,false
+2024-05-07,Wireless Headphones,Electronics,109,10333.20,94.80,0.00,91.69,false
+2024-05-07,Smart Home Speaker,Electronics,110,10222.30,116.16,20.00,65.62,false
+2024-05-07,Organic Coffee,Groceries,203,2902.90,15.88,10.00,148.38,false
+2024-05-07,Trail Backpack,Outdoor,57,3883.98,75.71,10.00,45.41,false
+2024-05-07,Camping Lantern,Outdoor,49,1730.68,37.17,5.00,42.21,false
+2024-05-08,Wireless Headphones,Electronics,129,12238.23,94.87,0.00,144.10,false
+2024-05-08,Smart Home Speaker,Electronics,65,8723.00,134.20,0.00,83.05,false
+2024-05-08,Organic Coffee,Groceries,158,2355.78,14.91,0.00,132.13,false
+2024-05-08,Trail Backpack,Outdoor,38,2786.92,73.34,0.00,49.48,false
+2024-05-08,Camping Lantern,Outdoor,40,1560.00,39.00,0.00,61.61,false
+2024-05-09,Wireless Headphones,Electronics,144,12101.76,84.04,0.00,94.98,true
+2024-05-09,Smart Home Speaker,Electronics,65,7162.35,122.44,10.00,73.36,false
+2024-05-09,Organic Coffee,Groceries,175,2612.75,14.93,0.00,105.95,true
+2024-05-09,Trail Backpack,Outdoor,34,2684.64,78.96,0.00,30.26,false
+2024-05-09,Camping Lantern,Outdoor,48,1843.68,38.41,0.00,44.31,false
+2024-05-10,Wireless Headphones,Electronics,109,9249.74,84.86,0.00,102.15,false
+2024-05-10,Smart Home Speaker,Electronics,59,7085.31,133.43,10.00,85.91,false
+2024-05-10,Organic Coffee,Groceries,136,2078.08,15.28,0.00,143.03,false
+2024-05-10,Trail Backpack,Outdoor,37,2629.59,71.07,0.00,39.14,false
+2024-05-10,Camping Lantern,Outdoor,43,1787.94,41.58,0.00,37.76,false
+2024-05-11,Wireless Headphones,Electronics,85,7641.50,89.90,0.00,125.77,false
+2024-05-11,Smart Home Speaker,Electronics,66,7580.10,114.85,0.00,69.00,false
+2024-05-11,Organic Coffee,Groceries,174,2716.14,15.61,0.00,172.23,false
+2024-05-11,Trail Backpack,Outdoor,36,2918.88,81.08,0.00,58.01,false
+2024-05-11,Camping Lantern,Outdoor,43,1713.98,39.86,0.00,32.73,false
+2024-05-12,Wireless Headphones,Electronics,99,9475.29,95.71,0.00,80.88,false
+2024-05-12,Smart Home Speaker,Electronics,80,9946.40,124.33,0.00,87.80,true
+2024-05-12,Organic Coffee,Groceries,225,3062.25,16.01,15.00,150.97,false
+2024-05-12,Trail Backpack,Outdoor,40,3092.40,77.31,0.00,35.67,false
+2024-05-12,Camping Lantern,Outdoor,57,2116.41,40.36,8.00,35.80,false
+2024-05-13,Wireless Headphones,Electronics,96,9179.52,95.62,0.00,129.77,false
+2024-05-13,Smart Home Speaker,Electronics,66,8660.52,131.22,0.00,72.25,false
+2024-05-13,Organic Coffee,Groceries,189,3001.32,15.88,0.00,160.08,false
+2024-05-13,Trail Backpack,Outdoor,53,3353.31,79.09,20.00,48.31,false
+2024-05-13,Camping Lantern,Outdoor,59,2239.05,43.37,12.50,32.19,false
+2024-05-14,Wireless Headphones,Electronics,115,11459.75,99.65,0.00,134.82,false
+2024-05-14,Smart Home Speaker,Electronics,116,11361.04,115.22,15.00,66.17,false
+2024-05-14,Organic Coffee,Groceries,144,2272.32,15.78,0.00,126.17,false
+2024-05-14,Trail Backpack,Outdoor,55,3507.35,79.71,20.00,36.46,false
+2024-05-14,Camping Lantern,Outdoor,48,1684.32,36.94,5.00,48.02,false
+2024-05-15,Wireless Headphones,Electronics,119,10438.68,87.72,0.00,111.01,false
+2024-05-15,Smart Home Speaker,Electronics,66,7963.56,120.66,0.00,59.20,false
+2024-05-15,Organic Coffee,Groceries,137,2174.19,15.87,0.00,154.31,false
+2024-05-15,Trail Backpack,Outdoor,53,3355.43,79.14,20.00,32.81,false
+2024-05-15,Camping Lantern,Outdoor,47,1992.33,42.39,0.00,50.11,true
+2024-05-16,Wireless Headphones,Electronics,104,8776.56,84.39,0.00,143.31,false
+2024-05-16,Smart Home Speaker,Electronics,75,9007.50,120.10,0.00,94.84,false
+2024-05-16,Organic Coffee,Groceries,138,2021.70,14.65,0.00,200.28,false
+2024-05-16,Trail Backpack,Outdoor,29,2208.06,76.14,0.00,46.75,false
+2024-05-16,Camping Lantern,Outdoor,40,1702.40,42.56,0.00,44.50,false
+2024-05-17,Wireless Headphones,Electronics,98,8348.62,100.22,15.00,87.75,false
+2024-05-17,Smart Home Speaker,Electronics,57,6740.25,118.25,0.00,66.24,false
+2024-05-17,Organic Coffee,Groceries,103,1658.30,16.10,0.00,137.66,false
+2024-05-17,Trail Backpack,Outdoor,56,3522.40,71.88,12.50,31.26,false
+2024-05-17,Camping Lantern,Outdoor,51,2107.83,41.33,0.00,63.01,false
+2024-05-18,Wireless Headphones,Electronics,103,9629.47,93.49,0.00,119.63,true
+2024-05-18,Smart Home Speaker,Electronics,81,8070.03,113.86,12.50,87.96,false
+2024-05-18,Organic Coffee,Groceries,165,2669.70,16.18,0.00,121.99,false
+2024-05-18,Trail Backpack,Outdoor,34,2819.62,82.93,0.00,31.69,true
+2024-05-18,Camping Lantern,Outdoor,85,2714.05,39.91,20.00,31.18,true
+2024-05-19,Wireless Headphones,Electronics,102,9806.28,96.14,0.00,132.80,false
+2024-05-19,Smart Home Speaker,Electronics,69,7023.51,116.33,12.50,71.37,false
+2024-05-19,Organic Coffee,Groceries,189,2869.02,15.18,0.00,97.25,false
+2024-05-19,Trail Backpack,Outdoor,36,2881.44,80.04,0.00,29.87,false
+2024-05-19,Camping Lantern,Outdoor,40,1741.60,43.54,0.00,46.38,false
+2024-05-20,Wireless Headphones,Electronics,80,7900.80,98.76,0.00,88.47,false
+2024-05-20,Smart Home Speaker,Electronics,55,7363.40,133.88,0.00,74.56,false
+2024-05-20,Organic Coffee,Groceries,205,2564.55,14.30,12.50,163.00,false
+2024-05-20,Trail Backpack,Outdoor,45,2948.85,81.91,20.00,55.16,false
+2024-05-20,Camping Lantern,Outdoor,43,1755.69,40.83,0.00,61.31,false
+2024-05-21,Wireless Headphones,Electronics,97,9437.13,97.29,0.00,110.29,false
+2024-05-21,Smart Home Speaker,Electronics,84,10808.28,128.67,0.00,77.33,false
+2024-05-21,Organic Coffee,Groceries,152,2164.48,14.24,0.00,95.07,false
+2024-05-21,Trail Backpack,Outdoor,37,2708.03,73.19,0.00,31.51,false
+2024-05-21,Camping Lantern,Outdoor,66,1972.08,37.36,20.00,37.28,false
+2024-05-22,Wireless Headphones,Electronics,129,10957.26,84.94,0.00,80.53,false
+2024-05-22,Smart Home Speaker,Electronics,67,8742.83,130.49,0.00,79.70,false
+2024-05-22,Organic Coffee,Groceries,159,2233.95,14.05,0.00,186.75,false
+2024-05-22,Trail Backpack,Outdoor,39,2735.07,70.13,0.00,28.86,false
+2024-05-22,Camping Lantern,Outdoor,46,1872.20,40.70,0.00,60.37,false
+2024-05-23,Wireless Headphones,Electronics,129,11072.07,85.83,0.00,134.26,true
+2024-05-23,Smart Home Speaker,Electronics,57,7573.59,132.87,0.00,60.24,false
+2024-05-23,Organic Coffee,Groceries,163,2464.56,15.12,0.00,116.97,false
+2024-05-23,Trail Backpack,Outdoor,35,2690.10,80.91,5.00,28.27,false
+2024-05-23,Camping Lantern,Outdoor,50,2014.00,40.28,0.00,37.24,false
+2024-05-24,Wireless Headphones,Electronics,95,9036.40,95.12,0.00,118.83,false
+2024-05-24,Smart Home Speaker,Electronics,58,7258.70,125.15,0.00,76.52,false
+2024-05-24,Organic Coffee,Groceries,145,2048.85,14.13,0.00,165.15,false
+2024-05-24,Trail Backpack,Outdoor,35,2695.70,77.02,0.00,44.81,false
+2024-05-24,Camping Lantern,Outdoor,55,1942.05,37.17,5.00,59.77,false
+2024-05-25,Wireless Headphones,Electronics,92,8315.88,90.39,0.00,86.29,false
+2024-05-25,Smart Home Speaker,Electronics,75,7801.50,115.57,10.00,68.11,false
+2024-05-25,Organic Coffee,Groceries,175,2717.75,15.53,0.00,127.36,false
+2024-05-25,Trail Backpack,Outdoor,34,2793.78,82.17,0.00,49.61,false
+2024-05-25,Camping Lantern,Outdoor,56,2280.32,40.72,0.00,63.11,true
+2024-05-26,Wireless Headphones,Electronics,105,8724.45,97.75,15.00,93.26,false
+2024-05-26,Smart Home Speaker,Electronics,52,6700.72,128.86,0.00,55.60,false
+2024-05-26,Organic Coffee,Groceries,198,2912.58,14.71,0.00,145.20,false
+2024-05-26,Trail Backpack,Outdoor,43,3049.13,70.91,0.00,57.66,false
+2024-05-26,Camping Lantern,Outdoor,44,1732.72,39.38,0.00,31.09,false
+2024-05-27,Wireless Headphones,Electronics,105,9686.25,92.25,0.00,137.11,false
+2024-05-27,Smart Home Speaker,Electronics,61,8079.45,132.45,0.00,70.76,false
+2024-05-27,Organic Coffee,Groceries,275,3192.75,14.51,20.00,179.73,false
+2024-05-27,Trail Backpack,Outdoor,40,3088.00,77.20,0.00,40.70,false
+2024-05-27,Camping Lantern,Outdoor,53,2122.12,40.04,0.00,34.77,true
+2024-05-28,Wireless Headphones,Electronics,115,11489.65,99.91,0.00,99.59,false
+2024-05-28,Smart Home Speaker,Electronics,71,9078.06,127.86,0.00,86.85,false
+2024-05-28,Organic Coffee,Groceries,162,2506.14,15.47,0.00,129.24,false
+2024-05-28,Trail Backpack,Outdoor,37,2775.74,75.02,0.00,35.17,false
+2024-05-28,Camping Lantern,Outdoor,44,1642.96,37.34,0.00,33.93,false
+2024-05-29,Wireless Headphones,Electronics,127,10787.38,84.94,0.00,96.81,false
+2024-05-29,Smart Home Speaker,Electronics,75,8889.00,131.69,10.00,73.57,false
+2024-05-29,Organic Coffee,Groceries,149,2066.63,13.87,0.00,104.80,false
+2024-05-29,Trail Backpack,Outdoor,44,3055.80,73.10,5.00,34.84,false
+2024-05-29,Camping Lantern,Outdoor,42,1800.12,42.86,0.00,42.01,false
+2024-05-30,Wireless Headphones,Electronics,81,8071.65,99.65,0.00,116.20,false
+2024-05-30,Smart Home Speaker,Electronics,65,6693.70,128.73,20.00,57.32,false
+2024-05-30,Organic Coffee,Groceries,130,1870.70,14.39,0.00,187.93,false
+2024-05-30,Trail Backpack,Outdoor,41,2976.60,72.60,0.00,32.04,false
+2024-05-30,Camping Lantern,Outdoor,41,1627.29,39.69,0.00,31.53,false
+2024-05-31,Wireless Headphones,Electronics,110,9553.50,86.85,0.00,127.98,false
+2024-05-31,Smart Home Speaker,Electronics,55,7191.80,130.76,0.00,52.66,false
+2024-05-31,Organic Coffee,Groceries,136,1972.00,14.50,0.00,183.70,false
+2024-05-31,Trail Backpack,Outdoor,34,2412.64,70.96,0.00,36.16,false
+2024-05-31,Camping Lantern,Outdoor,46,1700.62,36.97,0.00,60.98,false
+2024-06-01,Wireless Headphones,Electronics,97,9540.92,98.36,0.00,113.83,false
+2024-06-01,Smart Home Speaker,Electronics,70,8597.40,122.82,0.00,60.64,true
+2024-06-01,Organic Coffee,Groceries,243,2724.03,14.02,20.00,124.81,false
+2024-06-01,Trail Backpack,Outdoor,37,2646.61,71.53,0.00,54.73,false
+2024-06-01,Camping Lantern,Outdoor,60,2129.40,38.57,8.00,32.09,false
+2024-06-02,Wireless Headphones,Electronics,90,8639.10,95.99,0.00,76.07,false
+2024-06-02,Smart Home Speaker,Electronics,58,7288.28,125.66,0.00,60.71,false
+2024-06-02,Organic Coffee,Groceries,172,2497.44,14.52,0.00,128.86,false
+2024-06-02,Trail Backpack,Outdoor,55,3833.50,69.70,0.00,48.63,true
+2024-06-02,Camping Lantern,Outdoor,56,2163.28,38.63,0.00,33.35,false
+2024-06-03,Wireless Headphones,Electronics,122,9927.14,93.00,12.50,87.15,false
+2024-06-03,Smart Home Speaker,Electronics,62,8053.80,129.90,0.00,63.58,false
+2024-06-03,Organic Coffee,Groceries,226,2915.40,14.74,12.50,159.35,true
+2024-06-03,Trail Backpack,Outdoor,52,3906.24,75.12,0.00,51.70,false
+2024-06-03,Camping Lantern,Outdoor,43,1632.28,37.96,0.00,53.93,false
+2024-06-04,Wireless Headphones,Electronics,101,9919.21,98.21,0.00,84.80,false
+2024-06-04,Smart Home Speaker,Electronics,72,8248.32,114.56,0.00,75.11,true
+2024-06-04,Organic Coffee,Groceries,159,2305.50,14.50,0.00,148.07,false
+2024-06-04,Trail Backpack,Outdoor,68,3984.80,73.25,20.00,47.75,true
+2024-06-04,Camping Lantern,Outdoor,54,2019.60,37.40,0.00,65.88,false
+2024-06-05,Wireless Headphones,Electronics,139,10438.90,88.35,15.00,87.31,false
+2024-06-05,Smart Home Speaker,Electronics,74,7783.32,114.32,8.00,48.94,false
+2024-06-05,Organic Coffee,Groceries,177,2373.57,14.11,5.00,111.91,false
+2024-06-05,Trail Backpack,Outdoor,35,2818.55,80.53,0.00,51.29,false
+2024-06-05,Camping Lantern,Outdoor,73,2361.55,40.44,20.00,58.08,true
+2024-06-06,Wireless Headphones,Electronics,105,9002.70,95.26,10.00,138.32,false
+2024-06-06,Smart Home Speaker,Electronics,60,8014.20,133.57,0.00,61.70,false
+2024-06-06,Organic Coffee,Groceries,142,1966.70,13.85,0.00,190.02,false
+2024-06-06,Trail Backpack,Outdoor,51,3136.50,70.28,12.50,55.55,false
+2024-06-06,Camping Lantern,Outdoor,53,1708.72,37.93,15.00,52.45,false
+2024-06-07,Wireless Headphones,Electronics,86,8403.92,97.72,0.00,138.34,false
+2024-06-07,Smart Home Speaker,Electronics,55,6354.15,115.53,0.00,54.40,false
+2024-06-07,Organic Coffee,Groceries,164,2358.32,15.63,8.00,173.07,false
+2024-06-07,Trail Backpack,Outdoor,39,3055.65,78.35,0.00,41.41,false
+2024-06-07,Camping Lantern,Outdoor,57,1996.14,41.20,15.00,66.66,false
+2024-06-08,Wireless Headphones,Electronics,97,8325.51,85.83,0.00,108.18,false
+2024-06-08,Smart Home Speaker,Electronics,46,5843.84,127.04,0.00,87.75,false
+2024-06-08,Organic Coffee,Groceries,162,2483.46,15.33,0.00,196.45,false
+2024-06-08,Trail Backpack,Outdoor,38,2628.84,69.18,0.00,55.84,false
+2024-06-08,Camping Lantern,Outdoor,49,2062.90,42.10,0.00,67.97,false
+2024-06-09,Wireless Headphones,Electronics,129,11039.82,85.58,0.00,87.06,true
+2024-06-09,Smart Home Speaker,Electronics,89,8465.68,118.90,20.00,69.19,true
+2024-06-09,Organic Coffee,Groceries,175,2434.25,13.91,0.00,98.11,false
+2024-06-09,Trail Backpack,Outdoor,32,2371.84,74.12,0.00,37.85,false
+2024-06-09,Camping Lantern,Outdoor,61,2199.66,37.96,5.00,55.37,false
+2024-06-10,Wireless Headphones,Electronics,97,9352.74,96.42,0.00,92.53,false
+2024-06-10,Smart Home Speaker,Electronics,60,7982.40,133.04,0.00,50.54,false
+2024-06-10,Organic Coffee,Groceries,169,2244.32,13.28,0.00,184.57,false
+2024-06-10,Trail Backpack,Outdoor,49,3747.03,76.47,0.00,34.51,false
+2024-06-10,Camping Lantern,Outdoor,55,1805.65,38.62,15.00,49.92,false
+2024-06-11,Wireless Headphones,Electronics,105,9606.45,91.49,0.00,106.24,false
+2024-06-11,Smart Home Speaker,Electronics,68,8092.68,119.01,0.00,63.66,false
+2024-06-11,Organic Coffee,Groceries,160,2206.40,13.79,0.00,131.31,false
+2024-06-11,Trail Backpack,Outdoor,46,3208.50,69.75,0.00,49.45,true
+2024-06-11,Camping Lantern,Outdoor,46,1589.30,37.55,8.00,63.10,false
+2024-06-12,Wireless Headphones,Electronics,125,10931.25,87.45,0.00,124.04,false
+2024-06-12,Smart Home Speaker,Electronics,64,7695.36,120.24,0.00,53.07,false
+2024-06-12,Organic Coffee,Groceries,157,2260.80,14.40,0.00,107.54,false
+2024-06-12,Trail Backpack,Outdoor,40,2925.60,73.14,0.00,38.85,false
+2024-06-12,Camping Lantern,Outdoor,47,1795.87,38.21,0.00,51.03,false
+2024-06-13,Wireless Headphones,Electronics,103,8747.79,84.93,0.00,121.94,false
+2024-06-13,Smart Home Speaker,Electronics,56,7024.08,125.43,0.00,61.52,false
+2024-06-13,Organic Coffee,Groceries,138,2136.24,15.48,0.00,161.55,false
+2024-06-13,Trail Backpack,Outdoor,46,2902.60,72.12,12.50,40.33,false
+2024-06-13,Camping Lantern,Outdoor,57,1838.82,36.87,12.50,69.02,false
+2024-06-14,Wireless Headphones,Electronics,128,10260.48,100.20,20.00,76.68,false
+2024-06-14,Smart Home Speaker,Electronics,57,6478.62,113.66,0.00,76.89,false
+2024-06-14,Organic Coffee,Groceries,196,2402.96,15.32,20.00,136.31,false
+2024-06-14,Trail Backpack,Outdoor,29,2137.30,73.70,0.00,45.68,false
+2024-06-14,Camping Lantern,Outdoor,51,1920.66,39.64,5.00,64.92,false
+2024-06-15,Wireless Headphones,Electronics,87,8597.34,98.82,0.00,97.02,false
+2024-06-15,Smart Home Speaker,Electronics,63,7129.71,113.17,0.00,58.55,true
+2024-06-15,Organic Coffee,Groceries,150,2050.50,13.67,0.00,130.21,false
+2024-06-15,Trail Backpack,Outdoor,32,2259.20,70.60,0.00,27.27,false
+2024-06-15,Camping Lantern,Outdoor,46,1891.98,41.13,0.00,64.44,false
+2024-06-16,Wireless Headphones,Electronics,85,7620.25,89.65,0.00,104.87,false
+2024-06-16,Smart Home Speaker,Electronics,49,6455.26,131.74,0.00,44.51,false
+2024-06-16,Organic Coffee,Groceries,191,2672.09,13.99,0.00,136.41,false
+2024-06-16,Trail Backpack,Outdoor,38,3011.12,79.24,0.00,35.25,false
+2024-06-16,Camping Lantern,Outdoor,52,2056.60,39.55,0.00,42.00,false
+2024-06-17,Wireless Headphones,Electronics,88,7509.92,85.34,0.00,83.52,false
+2024-06-17,Smart Home Speaker,Electronics,82,8825.66,119.59,10.00,78.88,false
+2024-06-17,Organic Coffee,Groceries,160,2147.20,13.42,0.00,110.66,false
+2024-06-17,Trail Backpack,Outdoor,43,3414.63,79.41,0.00,39.30,false
+2024-06-17,Camping Lantern,Outdoor,61,2338.74,38.34,0.00,70.48,false
+2024-06-18,Wireless Headphones,Electronics,91,8273.72,90.92,0.00,89.67,false
+2024-06-18,Smart Home Speaker,Electronics,78,8796.06,112.77,0.00,44.02,false
+2024-06-18,Organic Coffee,Groceries,146,2061.52,14.12,0.00,96.42,false
+2024-06-18,Trail Backpack,Outdoor,36,2627.64,72.99,0.00,35.49,false
+2024-06-18,Camping Lantern,Outdoor,53,1892.63,37.59,5.00,65.66,false
+2024-06-19,Wireless Headphones,Electronics,109,9811.09,90.01,0.00,85.18,false
+2024-06-19,Smart Home Speaker,Electronics,61,7660.38,125.58,0.00,65.02,false
+2024-06-19,Organic Coffee,Groceries,153,2070.09,13.53,0.00,191.85,false
+2024-06-19,Trail Backpack,Outdoor,44,3039.96,69.09,0.00,50.45,false
+2024-06-19,Camping Lantern,Outdoor,53,1914.36,36.12,0.00,50.92,true
+2024-06-20,Wireless Headphones,Electronics,91,8205.47,90.17,0.00,78.10,false
+2024-06-20,Smart Home Speaker,Electronics,52,6530.68,125.59,0.00,50.56,false
+2024-06-20,Organic Coffee,Groceries,144,1915.20,13.30,0.00,160.25,false
+2024-06-20,Trail Backpack,Outdoor,34,2501.04,73.56,0.00,45.58,false
+2024-06-20,Camping Lantern,Outdoor,50,1967.50,39.35,0.00,62.66,false
+2024-06-21,Wireless Headphones,Electronics,89,7566.78,85.02,0.00,113.32,false
+2024-06-21,Smart Home Speaker,Electronics,49,6396.95,130.55,0.00,46.37,false
+2024-06-21,Organic Coffee,Groceries,133,1756.93,14.68,10.00,96.55,false
+2024-06-21,Trail Backpack,Outdoor,39,2683.20,68.80,0.00,33.56,false
+2024-06-21,Camping Lantern,Outdoor,44,1651.32,37.53,0.00,38.10,false
+2024-06-22,Wireless Headphones,Electronics,96,9259.20,96.45,0.00,125.69,false
+2024-06-22,Smart Home Speaker,Electronics,51,6322.98,123.98,0.00,61.63,false
+2024-06-22,Organic Coffee,Groceries,165,2090.55,13.77,8.00,139.79,false
+2024-06-22,Trail Backpack,Outdoor,57,3299.73,72.36,20.00,51.58,false
+2024-06-22,Camping Lantern,Outdoor,44,1870.44,42.51,0.00,66.54,false
+2024-06-23,Wireless Headphones,Electronics,88,8718.16,99.07,0.00,100.39,false
+2024-06-23,Smart Home Speaker,Electronics,69,7107.69,114.46,10.00,64.80,false
+2024-06-23,Organic Coffee,Groceries,263,3250.68,14.54,15.00,196.50,false
+2024-06-23,Trail Backpack,Outdoor,39,2946.45,75.55,0.00,33.08,false
+2024-06-23,Camping Lantern,Outdoor,49,1946.28,39.72,0.00,66.23,false
+2024-06-24,Wireless Headphones,Electronics,92,9055.56,98.43,0.00,117.08,false
+2024-06-24,Smart Home Speaker,Electronics,64,7516.16,117.44,0.00,75.47,false
+2024-06-24,Organic Coffee,Groceries,190,2521.30,13.27,0.00,124.35,false
+2024-06-24,Trail Backpack,Outdoor,48,3561.12,74.19,0.00,44.78,false
+2024-06-24,Camping Lantern,Outdoor,61,2246.02,36.82,0.00,44.82,false
+2024-06-25,Wireless Headphones,Electronics,84,8289.12,98.68,0.00,108.10,false
+2024-06-25,Smart Home Speaker,Electronics,61,7662.82,125.62,0.00,65.11,false
+2024-06-25,Organic Coffee,Groceries,197,2235.95,13.35,15.00,138.58,false
+2024-06-25,Trail Backpack,Outdoor,44,3224.76,77.15,5.00,31.85,false
+2024-06-25,Camping Lantern,Outdoor,46,1774.68,38.58,0.00,56.99,false
+2024-06-26,Wireless Headphones,Electronics,124,10809.08,87.17,0.00,117.15,false
+2024-06-26,Smart Home Speaker,Electronics,73,8543.19,123.19,5.00,70.69,true
+2024-06-26,Organic Coffee,Groceries,148,2027.60,13.70,0.00,195.05,false
+2024-06-26,Trail Backpack,Outdoor,44,3506.36,79.69,0.00,40.90,true
+2024-06-26,Camping Lantern,Outdoor,40,1520.40,38.01,0.00,43.58,false
+2024-06-27,Wireless Headphones,Electronics,93,8166.33,87.81,0.00,111.66,false
+2024-06-27,Smart Home Speaker,Electronics,60,7350.60,122.51,0.00,68.93,false
+2024-06-27,Organic Coffee,Groceries,140,1957.20,13.98,0.00,146.18,false
+2024-06-27,Trail Backpack,Outdoor,35,2447.55,69.93,0.00,26.92,false
+2024-06-27,Camping Lantern,Outdoor,51,2131.29,41.79,0.00,59.02,false
+2024-06-28,Wireless Headphones,Electronics,139,11360.47,96.15,15.00,78.59,true
+2024-06-28,Smart Home Speaker,Electronics,56,6493.20,115.95,0.00,77.78,false
+2024-06-28,Organic Coffee,Groceries,152,2015.52,13.26,0.00,103.02,false
+2024-06-28,Trail Backpack,Outdoor,40,3082.40,77.06,0.00,54.67,false
+2024-06-28,Camping Lantern,Outdoor,46,1866.22,40.57,0.00,38.84,false
+2024-06-29,Wireless Headphones,Electronics,103,8985.72,87.24,0.00,93.97,false
+2024-06-29,Smart Home Speaker,Electronics,54,6492.42,126.56,5.00,59.64,false
+2024-06-29,Organic Coffee,Groceries,194,2250.40,14.50,20.00,116.16,false
+2024-06-29,Trail Backpack,Outdoor,43,2801.45,72.39,10.00,50.04,false
+2024-06-29,Camping Lantern,Outdoor,55,2080.10,37.82,0.00,47.29,false
+2024-06-30,Wireless Headphones,Electronics,93,8578.32,92.24,0.00,92.21,false
+2024-06-30,Smart Home Speaker,Electronics,62,7539.82,121.61,0.00,53.16,false
+2024-06-30,Organic Coffee,Groceries,174,2352.48,13.52,0.00,91.30,false
+2024-06-30,Trail Backpack,Outdoor,42,3018.54,79.86,10.00,58.11,false
+2024-06-30,Camping Lantern,Outdoor,51,2058.87,40.37,0.00,45.79,false
+2024-07-01,Wireless Headphones,Electronics,97,8665.98,89.34,0.00,79.74,false
+2024-07-01,Smart Home Speaker,Electronics,61,6882.02,112.82,0.00,52.83,false
+2024-07-01,Organic Coffee,Groceries,173,2581.16,14.92,0.00,190.20,false
+2024-07-01,Trail Backpack,Outdoor,44,3218.60,73.15,0.00,35.10,false
+2024-07-01,Camping Lantern,Outdoor,59,2340.53,39.67,0.00,70.78,false
+2024-07-02,Wireless Headphones,Electronics,90,8747.10,97.19,0.00,105.83,false
+2024-07-02,Smart Home Speaker,Electronics,73,7965.03,118.60,8.00,59.84,false
+2024-07-02,Organic Coffee,Groceries,160,2376.00,14.85,0.00,107.59,false
+2024-07-02,Trail Backpack,Outdoor,58,4130.76,71.22,0.00,53.49,false
+2024-07-02,Camping Lantern,Outdoor,51,2094.57,43.24,5.00,54.22,false
+2024-07-03,Wireless Headphones,Electronics,147,11051.46,93.97,20.00,108.08,true
+2024-07-03,Smart Home Speaker,Electronics,74,9093.12,122.88,0.00,77.59,false
+2024-07-03,Organic Coffee,Groceries,168,2079.84,13.75,10.00,112.17,false
+2024-07-03,Trail Backpack,Outdoor,34,2338.52,68.78,0.00,28.15,false
+2024-07-03,Camping Lantern,Outdoor,43,1678.72,39.04,0.00,52.23,false
+2024-07-04,Wireless Headphones,Electronics,111,9645.90,86.90,0.00,116.27,false
+2024-07-04,Smart Home Speaker,Electronics,53,6413.53,121.01,0.00,77.44,false
+2024-07-04,Organic Coffee,Groceries,135,1935.90,14.34,0.00,159.71,false
+2024-07-04,Trail Backpack,Outdoor,31,2390.72,77.12,0.00,38.49,false
+2024-07-04,Camping Lantern,Outdoor,56,1872.08,38.21,12.50,58.46,false
+2024-07-05,Wireless Headphones,Electronics,83,7850.14,94.58,0.00,117.55,false
+2024-07-05,Smart Home Speaker,Electronics,54,6220.26,115.19,0.00,67.41,false
+2024-07-05,Organic Coffee,Groceries,135,2093.85,15.51,0.00,147.38,false
+2024-07-05,Trail Backpack,Outdoor,35,2696.75,77.05,0.00,42.22,false
+2024-07-05,Camping Lantern,Outdoor,55,1995.40,40.31,10.00,61.26,false
+2024-07-06,Wireless Headphones,Electronics,109,7491.57,85.92,20.00,120.04,false
+2024-07-06,Smart Home Speaker,Electronics,49,5769.75,117.75,0.00,42.99,false
+2024-07-06,Organic Coffee,Groceries,183,2679.12,14.64,0.00,160.54,false
+2024-07-06,Trail Backpack,Outdoor,46,3575.12,77.72,0.00,27.90,true
+2024-07-06,Camping Lantern,Outdoor,48,1884.00,39.25,0.00,61.87,false
+2024-07-07,Wireless Headphones,Electronics,112,9214.24,89.42,8.00,122.65,false
+2024-07-07,Smart Home Speaker,Electronics,54,6324.48,117.12,0.00,68.56,false
+2024-07-07,Organic Coffee,Groceries,161,2223.41,13.81,0.00,131.27,false
+2024-07-07,Trail Backpack,Outdoor,42,3083.64,77.29,5.00,52.15,false
+2024-07-07,Camping Lantern,Outdoor,64,2644.48,43.49,5.00,60.06,true
+2024-07-08,Wireless Headphones,Electronics,86,7329.78,85.23,0.00,94.88,false
+2024-07-08,Smart Home Speaker,Electronics,70,7746.90,122.97,10.00,61.67,false
+2024-07-08,Organic Coffee,Groceries,170,2414.00,15.43,8.00,157.50,false
+2024-07-08,Trail Backpack,Outdoor,44,3545.08,80.57,0.00,35.55,false
+2024-07-08,Camping Lantern,Outdoor,44,1825.56,41.49,0.00,71.46,true
+2024-07-09,Wireless Headphones,Electronics,103,9291.63,90.21,0.00,76.38,false
+2024-07-09,Smart Home Speaker,Electronics,66,7700.22,116.67,0.00,66.32,false
+2024-07-09,Organic Coffee,Groceries,166,2211.12,13.32,0.00,145.35,false
+2024-07-09,Trail Backpack,Outdoor,40,2820.00,74.21,5.00,50.67,false
+2024-07-09,Camping Lantern,Outdoor,50,2097.50,41.95,0.00,60.66,false
+2024-07-10,Wireless Headphones,Electronics,120,11032.80,91.94,0.00,77.63,false
+2024-07-10,Smart Home Speaker,Electronics,68,7595.60,127.65,12.50,58.82,false
+2024-07-10,Organic Coffee,Groceries,136,2008.72,14.77,0.00,107.72,false
+2024-07-10,Trail Backpack,Outdoor,42,3323.88,79.14,0.00,53.61,false
+2024-07-10,Camping Lantern,Outdoor,50,1800.00,39.13,8.00,72.22,false
+2024-07-11,Wireless Headphones,Electronics,106,9260.16,87.36,0.00,107.18,false
+2024-07-11,Smart Home Speaker,Electronics,85,7651.70,112.52,20.00,80.14,false
+2024-07-11,Organic Coffee,Groceries,121,1771.44,15.41,5.00,111.59,false
+2024-07-11,Trail Backpack,Outdoor,35,2469.60,70.56,0.00,58.68,false
+2024-07-11,Camping Lantern,Outdoor,48,1977.60,41.20,0.00,62.16,false
+2024-07-12,Wireless Headphones,Electronics,112,8665.44,85.97,10.00,123.64,true
+2024-07-12,Smart Home Speaker,Electronics,56,6699.28,119.63,0.00,63.43,false
+2024-07-12,Organic Coffee,Groceries,155,2354.45,15.19,0.00,170.54,true
+2024-07-12,Trail Backpack,Outdoor,35,2562.70,73.22,0.00,40.48,false
+2024-07-12,Camping Lantern,Outdoor,52,2146.04,41.27,0.00,71.38,false
+2024-07-13,Wireless Headphones,Electronics,72,6726.24,93.42,0.00,93.97,false
+2024-07-13,Smart Home Speaker,Electronics,47,5542.24,117.92,0.00,39.40,false
+2024-07-13,Organic Coffee,Groceries,206,2616.20,14.11,10.00,163.48,true
+2024-07-13,Trail Backpack,Outdoor,42,3097.50,73.75,0.00,34.14,false
+2024-07-13,Camping Lantern,Outdoor,63,2525.04,40.08,0.00,75.56,true
+2024-07-14,Wireless Headphones,Electronics,73,6490.43,88.91,0.00,96.02,false
+2024-07-14,Smart Home Speaker,Electronics,56,6291.04,112.34,0.00,66.74,false
+2024-07-14,Organic Coffee,Groceries,153,2056.32,13.44,0.00,99.32,false
+2024-07-14,Trail Backpack,Outdoor,48,3290.40,68.55,0.00,32.27,false
+2024-07-14,Camping Lantern,Outdoor,51,1897.20,37.20,0.00,76.20,false
+2024-07-15,Wireless Headphones,Electronics,82,7501.36,91.48,0.00,103.15,false
+2024-07-15,Smart Home Speaker,Electronics,54,6476.76,119.94,0.00,75.99,false
+2024-07-15,Organic Coffee,Groceries,175,2021.25,13.20,12.50,185.44,false
+2024-07-15,Trail Backpack,Outdoor,51,3785.22,74.22,0.00,58.30,true
+2024-07-15,Camping Lantern,Outdoor,49,2151.10,43.90,0.00,75.94,false
+2024-07-16,Wireless Headphones,Electronics,112,9907.52,88.46,0.00,107.80,false
+2024-07-16,Smart Home Speaker,Electronics,65,8310.25,127.85,0.00,76.65,true
+2024-07-16,Organic Coffee,Groceries,234,2599.74,13.88,20.00,118.81,false
+2024-07-16,Trail Backpack,Outdoor,45,3270.15,78.98,8.00,55.78,false
+2024-07-16,Camping Lantern,Outdoor,62,2438.46,39.33,0.00,61.00,false
+2024-07-17,Wireless Headphones,Electronics,134,11079.12,97.27,15.00,113.59,false
+2024-07-17,Smart Home Speaker,Electronics,103,10064.13,122.14,20.00,48.55,true
+2024-07-17,Organic Coffee,Groceries,214,2542.32,13.58,12.50,176.94,false
+2024-07-17,Trail Backpack,Outdoor,35,2858.45,81.67,0.00,60.51,false
+2024-07-17,Camping Lantern,Outdoor,40,1707.60,42.69,0.00,53.59,false
+2024-07-18,Wireless Headphones,Electronics,86,7989.40,92.90,0.00,88.00,false
+2024-07-18,Smart Home Speaker,Electronics,51,5672.73,111.23,0.00,49.01,false
+2024-07-18,Organic Coffee,Groceries,154,2206.82,15.57,8.00,122.61,false
+2024-07-18,Trail Backpack,Outdoor,39,2788.11,71.49,0.00,46.54,false
+2024-07-18,Camping Lantern,Outdoor,60,2193.00,38.48,5.00,75.59,false
+2024-07-19,Wireless Headphones,Electronics,114,9229.44,95.25,15.00,92.93,false
+2024-07-19,Smart Home Speaker,Electronics,45,5086.35,113.03,0.00,47.16,false
+2024-07-19,Organic Coffee,Groceries,150,1971.00,15.46,15.00,104.24,false
+2024-07-19,Trail Backpack,Outdoor,33,2611.95,79.15,0.00,39.52,false
+2024-07-19,Camping Lantern,Outdoor,56,2174.48,38.83,0.00,74.52,false
+2024-07-20,Wireless Headphones,Electronics,74,6805.04,91.96,0.00,74.22,false
+2024-07-20,Smart Home Speaker,Electronics,49,5798.17,118.33,0.00,68.89,false
+2024-07-20,Organic Coffee,Groceries,189,2749.95,14.55,0.00,168.30,true
+2024-07-20,Trail Backpack,Outdoor,48,3394.56,70.72,0.00,40.17,false
+2024-07-20,Camping Lantern,Outdoor,76,2550.56,41.95,20.00,70.29,false
+2024-07-21,Wireless Headphones,Electronics,110,8272.00,88.47,15.00,68.88,false
+2024-07-21,Smart Home Speaker,Electronics,57,6896.43,120.99,0.00,46.17,false
+2024-07-21,Organic Coffee,Groceries,207,2759.31,13.33,0.00,186.36,false
+2024-07-21,Trail Backpack,Outdoor,39,2787.33,81.68,12.50,30.03,false
+2024-07-21,Camping Lantern,Outdoor,58,2364.66,40.77,0.00,45.87,false
+2024-07-22,Wireless Headphones,Electronics,91,8204.56,90.16,0.00,89.19,false
+2024-07-22,Smart Home Speaker,Electronics,53,6455.93,121.81,0.00,67.96,false
+2024-07-22,Organic Coffee,Groceries,194,2822.70,14.55,0.00,193.75,true
+2024-07-22,Trail Backpack,Outdoor,52,4001.92,76.96,0.00,46.19,false
+2024-07-22,Camping Lantern,Outdoor,82,2669.10,40.68,20.00,52.29,false
+2024-07-23,Wireless Headphones,Electronics,110,9199.30,83.63,0.00,74.20,false
+2024-07-23,Smart Home Speaker,Electronics,61,7349.28,120.48,0.00,70.38,false
+2024-07-23,Organic Coffee,Groceries,203,2620.73,14.03,8.00,165.59,false
+2024-07-23,Trail Backpack,Outdoor,51,3879.57,80.08,5.00,46.64,false
+2024-07-23,Camping Lantern,Outdoor,52,1951.56,37.53,0.00,59.50,false
+2024-07-24,Wireless Headphones,Electronics,99,8789.22,88.78,0.00,102.79,true
+2024-07-24,Smart Home Speaker,Electronics,82,8278.72,115.39,12.50,65.44,false
+2024-07-24,Organic Coffee,Groceries,178,2472.42,13.89,0.00,115.92,false
+2024-07-24,Trail Backpack,Outdoor,42,3176.04,75.62,0.00,61.38,false
+2024-07-24,Camping Lantern,Outdoor,35,1493.80,42.68,0.00,68.32,false
+2024-07-25,Wireless Headphones,Electronics,112,8727.04,89.05,12.50,81.25,false
+2024-07-25,Smart Home Speaker,Electronics,58,6732.64,116.08,0.00,49.61,false
+2024-07-25,Organic Coffee,Groceries,170,1958.40,14.40,20.00,114.98,false
+2024-07-25,Trail Backpack,Outdoor,42,3069.36,73.08,0.00,46.30,false
+2024-07-25,Camping Lantern,Outdoor,49,1960.98,40.02,0.00,74.15,false
+2024-07-26,Wireless Headphones,Electronics,96,7694.40,94.29,15.00,111.22,false
+2024-07-26,Smart Home Speaker,Electronics,54,5982.66,110.79,0.00,48.01,false
+2024-07-26,Organic Coffee,Groceries,122,1860.50,15.25,0.00,94.30,false
+2024-07-26,Trail Backpack,Outdoor,47,3581.87,76.21,0.00,41.66,false
+2024-07-26,Camping Lantern,Outdoor,56,2330.72,41.62,0.00,82.52,false
+2024-07-27,Wireless Headphones,Electronics,96,7934.40,82.65,0.00,78.78,true
+2024-07-27,Smart Home Speaker,Electronics,61,7499.34,122.94,0.00,44.72,false
+2024-07-27,Organic Coffee,Groceries,180,2374.20,13.19,0.00,158.93,false
+2024-07-27,Trail Backpack,Outdoor,29,2389.02,82.38,0.00,36.13,false
+2024-07-27,Camping Lantern,Outdoor,53,2286.95,43.15,0.00,51.83,false
+2024-07-28,Wireless Headphones,Electronics,112,9654.40,86.20,0.00,106.47,false
+2024-07-28,Smart Home Speaker,Electronics,50,6299.50,125.99,0.00,51.32,false
+2024-07-28,Organic Coffee,Groceries,167,2575.14,15.42,0.00,143.38,false
+2024-07-28,Trail Backpack,Outdoor,44,3199.68,72.72,0.00,59.95,false
+2024-07-28,Camping Lantern,Outdoor,72,2760.48,38.34,0.00,59.77,false
+2024-07-29,Wireless Headphones,Electronics,97,8578.68,88.44,0.00,82.01,false
+2024-07-29,Smart Home Speaker,Electronics,53,5707.04,117.05,8.00,39.67,false
+2024-07-29,Organic Coffee,Groceries,213,2619.90,15.37,20.00,144.64,false
+2024-07-29,Trail Backpack,Outdoor,43,3102.45,72.15,0.00,44.56,false
+2024-07-29,Camping Lantern,Outdoor,54,2394.90,44.35,0.00,56.57,true
+2024-07-30,Wireless Headphones,Electronics,85,8120.05,95.53,0.00,65.64,false
+2024-07-30,Smart Home Speaker,Electronics,71,6897.65,107.94,10.00,37.29,false
+2024-07-30,Organic Coffee,Groceries,166,2596.24,15.64,0.00,114.50,false
+2024-07-30,Trail Backpack,Outdoor,47,3433.35,73.05,0.00,61.30,false
+2024-07-30,Camping Lantern,Outdoor,49,1873.76,38.24,0.00,81.79,false
+2024-07-31,Wireless Headphones,Electronics,115,9093.05,87.85,10.00,118.81,false
+2024-07-31,Smart Home Speaker,Electronics,53,6127.33,115.61,0.00,38.90,false
+2024-07-31,Organic Coffee,Groceries,153,2290.41,14.97,0.00,117.90,false
+2024-07-31,Trail Backpack,Outdoor,38,2723.08,71.66,0.00,57.21,false
+2024-07-31,Camping Lantern,Outdoor,41,1825.32,44.52,0.00,65.02,false
+2024-08-01,Wireless Headphones,Electronics,98,9088.52,92.74,0.00,115.26,false
+2024-08-01,Smart Home Speaker,Electronics,55,6822.20,124.04,0.00,73.73,false
+2024-08-01,Organic Coffee,Groceries,149,1993.62,13.38,0.00,175.57,false
+2024-08-01,Trail Backpack,Outdoor,34,2550.68,75.02,0.00,35.91,false
+2024-08-01,Camping Lantern,Outdoor,55,2094.40,38.08,0.00,67.46,false
+2024-08-02,Wireless Headphones,Electronics,88,7593.52,86.29,0.00,92.86,false
+2024-08-02,Smart Home Speaker,Electronics,34,4265.64,125.46,0.00,66.56,false
+2024-08-02,Organic Coffee,Groceries,140,2024.40,14.46,0.00,106.27,false
+2024-08-02,Trail Backpack,Outdoor,33,2634.06,79.82,0.00,39.01,false
+2024-08-02,Camping Lantern,Outdoor,50,2125.50,42.51,0.00,51.98,false
+2024-08-03,Wireless Headphones,Electronics,66,6029.76,91.36,0.00,83.31,false
+2024-08-03,Smart Home Speaker,Electronics,47,5413.46,115.18,0.00,70.73,false
+2024-08-03,Organic Coffee,Groceries,185,2477.15,13.39,0.00,157.58,true
+2024-08-03,Trail Backpack,Outdoor,39,2954.25,75.75,0.00,61.89,false
+2024-08-03,Camping Lantern,Outdoor,55,2206.05,43.60,8.00,63.77,false
+2024-08-04,Wireless Headphones,Electronics,84,7650.72,91.08,0.00,79.51,false
+2024-08-04,Smart Home Speaker,Electronics,52,5671.12,118.55,8.00,61.03,false
+2024-08-04,Organic Coffee,Groceries,197,2771.79,14.07,0.00,139.83,false
+2024-08-04,Trail Backpack,Outdoor,48,3396.96,70.77,0.00,44.57,false
+2024-08-04,Camping Lantern,Outdoor,63,2462.04,39.08,0.00,83.44,false
+2024-08-05,Wireless Headphones,Electronics,115,9274.75,94.89,15.00,80.58,false
+2024-08-05,Smart Home Speaker,Electronics,49,6188.70,126.30,0.00,76.06,false
+2024-08-05,Organic Coffee,Groceries,175,2392.25,13.67,0.00,140.19,false
+2024-08-05,Trail Backpack,Outdoor,64,4601.60,71.90,0.00,59.82,true
+2024-08-05,Camping Lantern,Outdoor,53,2282.18,43.06,0.00,80.07,false
+2024-08-06,Wireless Headphones,Electronics,159,11829.60,93.00,20.00,57.94,true
+2024-08-06,Smart Home Speaker,Electronics,77,9163.77,119.01,0.00,60.78,true
+2024-08-06,Organic Coffee,Groceries,166,2378.78,14.33,0.00,135.79,false
+2024-08-06,Trail Backpack,Outdoor,43,3018.60,70.20,0.00,60.28,false
+2024-08-06,Camping Lantern,Outdoor,51,2172.09,42.59,0.00,51.33,false
+2024-08-07,Wireless Headphones,Electronics,97,8920.12,91.96,0.00,109.66,false
+2024-08-07,Smart Home Speaker,Electronics,50,6411.00,128.22,0.00,74.57,false
+2024-08-07,Organic Coffee,Groceries,158,2321.02,14.69,0.00,185.49,true
+2024-08-07,Trail Backpack,Outdoor,49,2877.77,73.41,20.00,55.63,false
+2024-08-07,Camping Lantern,Outdoor,68,2712.52,39.89,0.00,71.16,true
+2024-08-08,Wireless Headphones,Electronics,96,9158.40,95.40,0.00,91.69,false
+2024-08-08,Smart Home Speaker,Electronics,53,6664.75,125.75,0.00,40.87,false
+2024-08-08,Organic Coffee,Groceries,165,1953.60,13.54,12.50,159.16,false
+2024-08-08,Trail Backpack,Outdoor,46,3375.94,73.39,0.00,38.25,false
+2024-08-08,Camping Lantern,Outdoor,53,1904.29,37.82,5.00,60.64,false
+2024-08-09,Wireless Headphones,Electronics,97,8369.16,86.28,0.00,94.45,false
+2024-08-09,Smart Home Speaker,Electronics,60,6786.00,113.10,0.00,76.16,false
+2024-08-09,Organic Coffee,Groceries,142,2144.20,15.10,0.00,120.07,false
+2024-08-09,Trail Backpack,Outdoor,39,3263.13,83.67,0.00,45.54,false
+2024-08-09,Camping Lantern,Outdoor,59,2495.11,42.29,0.00,68.65,false
+2024-08-10,Wireless Headphones,Electronics,92,8816.36,95.83,0.00,92.30,true
+2024-08-10,Smart Home Speaker,Electronics,49,5395.88,110.12,0.00,65.33,false
+2024-08-10,Organic Coffee,Groceries,200,2884.00,14.42,0.00,87.32,true
+2024-08-10,Trail Backpack,Outdoor,35,2877.00,82.20,0.00,43.08,false
+2024-08-10,Camping Lantern,Outdoor,54,2276.64,42.16,0.00,61.75,false
+2024-08-11,Wireless Headphones,Electronics,103,8831.22,85.74,0.00,59.57,true
+2024-08-11,Smart Home Speaker,Electronics,44,5509.68,125.22,0.00,50.60,false
+2024-08-11,Organic Coffee,Groceries,188,2695.92,14.34,0.00,185.81,false
+2024-08-11,Trail Backpack,Outdoor,42,3173.10,79.52,5.00,36.94,true
+2024-08-11,Camping Lantern,Outdoor,51,2155.26,42.26,0.00,87.55,false
+2024-08-12,Wireless Headphones,Electronics,75,7266.00,96.88,0.00,78.52,false
+2024-08-12,Smart Home Speaker,Electronics,71,7884.55,111.05,0.00,52.74,false
+2024-08-12,Organic Coffee,Groceries,157,2350.29,14.97,0.00,113.90,false
+2024-08-12,Trail Backpack,Outdoor,54,4111.02,76.13,0.00,63.70,false
+2024-08-12,Camping Lantern,Outdoor,54,2317.14,42.91,0.00,83.55,false
+2024-08-13,Wireless Headphones,Electronics,130,9439.30,85.43,15.00,78.21,false
+2024-08-13,Smart Home Speaker,Electronics,85,8185.50,120.38,20.00,67.33,false
+2024-08-13,Organic Coffee,Groceries,157,2515.14,16.02,0.00,191.01,false
+2024-08-13,Trail Backpack,Outdoor,45,3442.05,76.49,0.00,50.42,false
+2024-08-13,Camping Lantern,Outdoor,52,2107.04,40.52,0.00,79.81,false
+2024-08-14,Wireless Headphones,Electronics,87,8425.08,96.84,0.00,98.09,false
+2024-08-14,Smart Home Speaker,Electronics,59,7206.26,122.14,0.00,62.91,false
+2024-08-14,Organic Coffee,Groceries,136,2090.32,15.37,0.00,189.15,false
+2024-08-14,Trail Backpack,Outdoor,56,4042.64,72.19,0.00,48.80,true
+2024-08-14,Camping Lantern,Outdoor,48,1886.88,39.31,0.00,76.20,false
+2024-08-15,Wireless Headphones,Electronics,91,8247.33,90.63,0.00,80.37,false
+2024-08-15,Smart Home Speaker,Electronics,58,7364.26,126.97,0.00,47.96,false
+2024-08-15,Organic Coffee,Groceries,170,2516.00,14.80,0.00,190.64,true
+2024-08-15,Trail Backpack,Outdoor,46,3753.14,81.59,0.00,61.97,true
+2024-08-15,Camping Lantern,Outdoor,70,2363.20,42.19,20.00,76.79,false
+2024-08-16,Wireless Headphones,Electronics,75,6927.00,92.36,0.00,66.41,false
+2024-08-16,Smart Home Speaker,Electronics,65,7422.35,114.19,0.00,74.47,false
+2024-08-16,Organic Coffee,Groceries,151,2043.03,13.53,0.00,120.66,false
+2024-08-16,Trail Backpack,Outdoor,47,3948.94,84.02,0.00,39.65,false
+2024-08-16,Camping Lantern,Outdoor,62,2440.94,39.37,0.00,68.77,false
+2024-08-17,Wireless Headphones,Electronics,74,7052.20,95.30,0.00,83.52,false
+2024-08-17,Smart Home Speaker,Electronics,48,5282.88,110.06,0.00,61.53,false
+2024-08-17,Organic Coffee,Groceries,177,2755.89,15.57,0.00,115.91,false
+2024-08-17,Trail Backpack,Outdoor,54,3989.52,73.88,0.00,52.75,true
+2024-08-17,Camping Lantern,Outdoor,64,2465.28,38.52,0.00,67.58,false
+2024-08-18,Wireless Headphones,Electronics,124,9732.76,89.70,12.50,116.88,true
+2024-08-18,Smart Home Speaker,Electronics,49,5691.84,116.16,0.00,46.73,false
+2024-08-18,Organic Coffee,Groceries,182,2702.70,16.14,8.00,195.53,false
+2024-08-18,Trail Backpack,Outdoor,47,3415.02,72.66,0.00,53.06,false
+2024-08-18,Camping Lantern,Outdoor,65,2451.15,37.71,0.00,78.07,false
+2024-08-19,Wireless Headphones,Electronics,119,9976.96,83.84,0.00,91.48,true
+2024-08-19,Smart Home Speaker,Electronics,55,6095.10,110.82,0.00,35.73,false
+2024-08-19,Organic Coffee,Groceries,230,3236.10,15.30,8.00,149.75,true
+2024-08-19,Trail Backpack,Outdoor,53,4093.72,77.24,0.00,55.45,true
+2024-08-19,Camping Lantern,Outdoor,56,2245.60,40.10,0.00,71.24,false
+2024-08-20,Wireless Headphones,Electronics,82,7871.18,95.99,0.00,88.86,false
+2024-08-20,Smart Home Speaker,Electronics,60,7581.60,126.36,0.00,55.98,false
+2024-08-20,Organic Coffee,Groceries,179,2507.79,14.01,0.00,165.13,false
+2024-08-20,Trail Backpack,Outdoor,41,3426.78,83.58,0.00,53.27,false
+2024-08-20,Camping Lantern,Outdoor,48,2118.24,44.13,0.00,67.86,false
+2024-08-21,Wireless Headphones,Electronics,121,8549.86,83.13,15.00,75.36,false
+2024-08-21,Smart Home Speaker,Electronics,57,6823.47,119.71,0.00,57.15,false
+2024-08-21,Organic Coffee,Groceries,128,1994.24,15.58,0.00,197.99,false
+2024-08-21,Trail Backpack,Outdoor,42,3181.92,79.75,5.00,44.85,false
+2024-08-21,Camping Lantern,Outdoor,52,2223.00,42.75,0.00,80.06,false
+2024-08-22,Wireless Headphones,Electronics,86,8310.18,96.63,0.00,81.27,false
+2024-08-22,Smart Home Speaker,Electronics,45,5603.40,124.52,0.00,76.25,false
+2024-08-22,Organic Coffee,Groceries,134,2005.98,14.97,0.00,110.99,false
+2024-08-22,Trail Backpack,Outdoor,48,3426.72,71.39,0.00,44.73,false
+2024-08-22,Camping Lantern,Outdoor,53,2089.79,39.43,0.00,89.53,false
+2024-08-23,Wireless Headphones,Electronics,86,8024.66,93.31,0.00,72.20,false
+2024-08-23,Smart Home Speaker,Electronics,53,5619.59,132.54,20.00,55.49,false
+2024-08-23,Organic Coffee,Groceries,153,2449.53,16.01,0.00,121.71,false
+2024-08-23,Trail Backpack,Outdoor,45,3316.95,73.71,0.00,49.70,false
+2024-08-23,Camping Lantern,Outdoor,51,2236.35,43.85,0.00,58.98,false
+2024-08-24,Wireless Headphones,Electronics,111,8482.62,95.53,20.00,55.96,false
+2024-08-24,Smart Home Speaker,Electronics,53,6568.29,123.93,0.00,54.62,false
+2024-08-24,Organic Coffee,Groceries,188,2626.36,13.97,0.00,147.46,false
+2024-08-24,Trail Backpack,Outdoor,54,3295.08,71.79,15.00,48.71,false
+2024-08-24,Camping Lantern,Outdoor,55,2411.75,43.85,0.00,63.49,false
+2024-08-25,Wireless Headphones,Electronics,77,7050.12,91.56,0.00,72.99,false
+2024-08-25,Smart Home Speaker,Electronics,42,5336.52,127.06,0.00,38.89,false
+2024-08-25,Organic Coffee,Groceries,180,2700.00,15.00,0.00,128.98,true
+2024-08-25,Trail Backpack,Outdoor,55,3736.70,75.48,10.00,67.81,false
+2024-08-25,Camping Lantern,Outdoor,62,2506.66,40.43,0.00,74.44,false
+2024-08-26,Wireless Headphones,Electronics,118,9166.24,88.78,12.50,111.14,true
+2024-08-26,Smart Home Speaker,Electronics,65,8433.10,129.74,0.00,43.58,true
+2024-08-26,Organic Coffee,Groceries,168,2429.28,14.46,0.00,110.42,false
+2024-08-26,Trail Backpack,Outdoor,37,3042.88,82.24,0.00,67.31,false
+2024-08-26,Camping Lantern,Outdoor,64,2728.96,42.64,0.00,69.31,false
+2024-08-27,Wireless Headphones,Electronics,94,8336.86,88.69,0.00,107.31,false
+2024-08-27,Smart Home Speaker,Electronics,72,7374.96,128.04,20.00,45.23,false
+2024-08-27,Organic Coffee,Groceries,198,2534.40,14.23,10.00,142.75,false
+2024-08-27,Trail Backpack,Outdoor,57,3824.13,76.67,12.50,47.73,false
+2024-08-27,Camping Lantern,Outdoor,60,2455.20,40.92,0.00,58.76,false
+2024-08-28,Wireless Headphones,Electronics,91,8114.47,89.17,0.00,114.80,false
+2024-08-28,Smart Home Speaker,Electronics,54,6861.24,127.06,0.00,61.53,false
+2024-08-28,Organic Coffee,Groceries,176,2412.96,13.71,0.00,93.65,false
+2024-08-28,Trail Backpack,Outdoor,41,3083.20,75.20,0.00,40.97,false
+2024-08-28,Camping Lantern,Outdoor,55,2292.40,41.68,0.00,79.01,false
+2024-08-29,Wireless Headphones,Electronics,128,9871.36,83.83,8.00,64.36,true
+2024-08-29,Smart Home Speaker,Electronics,53,5920.10,121.41,8.00,66.20,false
+2024-08-29,Organic Coffee,Groceries,132,2118.60,16.05,0.00,159.93,false
+2024-08-29,Trail Backpack,Outdoor,53,3300.84,71.18,12.50,53.26,true
+2024-08-29,Camping Lantern,Outdoor,86,3183.72,43.56,15.00,74.75,true
+2024-08-30,Wireless Headphones,Electronics,76,7453.32,98.07,0.00,97.88,false
+2024-08-30,Smart Home Speaker,Electronics,48,6137.28,127.86,0.00,40.90,false
+2024-08-30,Organic Coffee,Groceries,138,2024.46,14.67,0.00,155.87,false
+2024-08-30,Trail Backpack,Outdoor,42,3434.34,81.77,0.00,64.11,false
+2024-08-30,Camping Lantern,Outdoor,51,2197.08,43.08,0.00,64.09,false
+2024-08-31,Wireless Headphones,Electronics,102,8398.68,96.87,15.00,65.62,true
+2024-08-31,Smart Home Speaker,Electronics,54,6801.84,125.96,0.00,70.03,false
+2024-08-31,Organic Coffee,Groceries,183,2754.15,15.05,0.00,120.38,false
+2024-08-31,Trail Backpack,Outdoor,52,3609.32,77.12,10.00,48.65,false
+2024-08-31,Camping Lantern,Outdoor,55,2311.65,42.03,0.00,67.93,false
+2024-09-01,Wireless Headphones,Electronics,85,7916.90,93.14,0.00,106.48,false
+2024-09-01,Smart Home Speaker,Electronics,68,7800.28,114.71,0.00,42.48,true
+2024-09-01,Organic Coffee,Groceries,228,3016.44,15.56,15.00,162.25,false
+2024-09-01,Trail Backpack,Outdoor,38,2831.38,74.51,0.00,63.79,false
+2024-09-01,Camping Lantern,Outdoor,72,2844.00,39.50,0.00,76.82,false
+2024-09-02,Wireless Headphones,Electronics,83,7605.29,91.63,0.00,74.37,false
+2024-09-02,Smart Home Speaker,Electronics,65,6797.05,123.02,15.00,56.61,false
+2024-09-02,Organic Coffee,Groceries,139,2023.84,14.56,0.00,135.96,false
+2024-09-02,Trail Backpack,Outdoor,56,4029.20,71.95,0.00,61.50,false
+2024-09-02,Camping Lantern,Outdoor,63,2738.61,43.47,0.00,70.19,false
+2024-09-03,Wireless Headphones,Electronics,96,8035.20,83.70,0.00,83.77,false
+2024-09-03,Smart Home Speaker,Electronics,70,7620.20,128.07,15.00,75.70,false
+2024-09-03,Organic Coffee,Groceries,140,1995.00,14.25,0.00,141.93,false
+2024-09-03,Trail Backpack,Outdoor,46,3262.78,70.93,0.00,67.77,false
+2024-09-03,Camping Lantern,Outdoor,65,2577.25,39.65,0.00,61.91,false
+2024-09-04,Wireless Headphones,Electronics,94,8087.76,86.04,0.00,93.56,false
+2024-09-04,Smart Home Speaker,Electronics,50,5748.00,114.96,0.00,57.36,false
+2024-09-04,Organic Coffee,Groceries,177,2244.36,14.49,12.50,161.10,false
+2024-09-04,Trail Backpack,Outdoor,37,2803.86,75.78,0.00,48.05,false
+2024-09-04,Camping Lantern,Outdoor,59,2376.52,43.79,8.00,87.67,false
+2024-09-05,Wireless Headphones,Electronics,90,8586.00,95.40,0.00,62.97,false
+2024-09-05,Smart Home Speaker,Electronics,59,6866.42,116.38,0.00,67.73,false
+2024-09-05,Organic Coffee,Groceries,145,1989.40,13.72,0.00,183.41,false
+2024-09-05,Trail Backpack,Outdoor,41,3106.98,75.78,0.00,50.36,false
+2024-09-05,Camping Lantern,Outdoor,56,2364.32,42.22,0.00,61.77,false
+2024-09-06,Wireless Headphones,Electronics,71,6264.33,88.23,0.00,54.74,false
+2024-09-06,Smart Home Speaker,Electronics,45,5671.35,126.03,0.00,64.89,false
+2024-09-06,Organic Coffee,Groceries,143,2196.48,15.36,0.00,103.18,false
+2024-09-06,Trail Backpack,Outdoor,45,3359.25,74.65,0.00,65.72,false
+2024-09-06,Camping Lantern,Outdoor,84,3213.00,38.25,0.00,67.55,true
+2024-09-07,Wireless Headphones,Electronics,76,7420.64,97.64,0.00,93.50,false
+2024-09-07,Smart Home Speaker,Electronics,65,6385.60,115.57,15.00,74.27,false
+2024-09-07,Organic Coffee,Groceries,225,2837.25,14.83,15.00,122.30,false
+2024-09-07,Trail Backpack,Outdoor,48,3360.00,73.68,5.00,67.58,false
+2024-09-07,Camping Lantern,Outdoor,76,2851.52,37.52,0.00,70.02,false
+2024-09-08,Wireless Headphones,Electronics,108,8297.64,87.80,12.50,67.79,false
+2024-09-08,Smart Home Speaker,Electronics,50,5891.00,117.82,0.00,63.80,false
+2024-09-08,Organic Coffee,Groceries,197,2505.84,14.13,10.00,173.76,false
+2024-09-08,Trail Backpack,Outdoor,45,3547.80,78.84,0.00,59.38,true
+2024-09-08,Camping Lantern,Outdoor,51,2009.40,39.40,0.00,69.02,false
+2024-09-09,Wireless Headphones,Electronics,70,6668.20,95.26,0.00,86.88,false
+2024-09-09,Smart Home Speaker,Electronics,96,8859.84,115.37,20.00,64.52,true
+2024-09-09,Organic Coffee,Groceries,170,2364.70,13.91,0.00,194.77,false
+2024-09-09,Trail Backpack,Outdoor,60,4507.20,75.12,0.00,62.07,false
+2024-09-09,Camping Lantern,Outdoor,78,2873.52,36.84,0.00,65.77,true
+2024-09-10,Wireless Headphones,Electronics,94,7783.20,94.63,12.50,63.95,false
+2024-09-10,Smart Home Speaker,Electronics,58,6975.08,120.26,0.00,65.59,false
+2024-09-10,Organic Coffee,Groceries,177,2878.02,16.26,0.00,183.24,false
+2024-09-10,Trail Backpack,Outdoor,74,4633.88,78.27,20.00,51.73,false
+2024-09-10,Camping Lantern,Outdoor,58,2171.52,37.44,0.00,62.66,false
+2024-09-11,Wireless Headphones,Electronics,100,8706.00,87.06,0.00,114.62,false
+2024-09-11,Smart Home Speaker,Electronics,62,7233.54,116.67,0.00,55.46,false
+2024-09-11,Organic Coffee,Groceries,143,1970.54,13.78,0.00,198.13,false
+2024-09-11,Trail Backpack,Outdoor,41,3017.19,73.59,0.00,69.44,false
+2024-09-11,Camping Lantern,Outdoor,57,2430.48,42.64,0.00,72.90,false
+2024-09-12,Wireless Headphones,Electronics,88,8373.20,95.15,0.00,64.36,false
+2024-09-12,Smart Home Speaker,Electronics,71,6636.37,116.84,20.00,51.53,false
+2024-09-12,Organic Coffee,Groceries,138,2209.38,16.01,0.00,109.15,false
+2024-09-12,Trail Backpack,Outdoor,46,3155.14,76.22,10.00,56.50,false
+2024-09-12,Camping Lantern,Outdoor,56,2320.64,41.44,0.00,77.96,false
+2024-09-13,Wireless Headphones,Electronics,80,7685.60,96.07,0.00,108.09,false
+2024-09-13,Smart Home Speaker,Electronics,60,7723.20,128.72,0.00,46.23,true
+2024-09-13,Organic Coffee,Groceries,156,2134.08,13.68,0.00,143.62,false
+2024-09-13,Trail Backpack,Outdoor,51,3906.60,76.60,0.00,75.48,false
+2024-09-13,Camping Lantern,Outdoor,64,2404.48,37.57,0.00,93.73,false
+2024-09-14,Wireless Headphones,Electronics,79,7730.94,97.86,0.00,102.06,false
+2024-09-14,Smart Home Speaker,Electronics,44,5076.72,115.38,0.00,65.77,false
+2024-09-14,Organic Coffee,Groceries,148,2304.36,15.57,0.00,127.12,false
+2024-09-14,Trail Backpack,Outdoor,44,3621.64,82.31,0.00,45.27,false
+2024-09-14,Camping Lantern,Outdoor,79,2448.21,38.73,20.00,63.17,false
+2024-09-15,Wireless Headphones,Electronics,77,6992.37,90.81,0.00,85.06,false
+2024-09-15,Smart Home Speaker,Electronics,55,6657.75,121.05,0.00,38.28,false
+2024-09-15,Organic Coffee,Groceries,167,2448.22,14.66,0.00,191.36,false
+2024-09-15,Trail Backpack,Outdoor,55,3884.10,70.62,0.00,54.06,false
+2024-09-15,Camping Lantern,Outdoor,73,2725.09,39.30,5.00,69.19,false
+2024-09-16,Wireless Headphones,Electronics,108,8549.28,87.96,10.00,75.97,true
+2024-09-16,Smart Home Speaker,Electronics,56,6763.68,120.78,0.00,44.63,false
+2024-09-16,Organic Coffee,Groceries,186,2724.90,15.42,5.00,125.23,false
+2024-09-16,Trail Backpack,Outdoor,47,3693.26,78.58,0.00,56.78,false
+2024-09-16,Camping Lantern,Outdoor,79,3190.81,40.39,0.00,80.54,false
+2024-09-17,Wireless Headphones,Electronics,102,8905.62,87.31,0.00,86.31,false
+2024-09-17,Smart Home Speaker,Electronics,58,7368.32,127.04,0.00,65.79,false
+2024-09-17,Organic Coffee,Groceries,180,2739.60,15.22,0.00,123.13,false
+2024-09-17,Trail Backpack,Outdoor,79,4393.98,69.53,20.00,56.43,true
+2024-09-17,Camping Lantern,Outdoor,59,2555.88,43.32,0.00,69.49,false
+2024-09-18,Wireless Headphones,Electronics,149,10361.46,86.93,20.00,87.16,false
+2024-09-18,Smart Home Speaker,Electronics,52,6655.48,127.99,0.00,42.64,false
+2024-09-18,Organic Coffee,Groceries,161,2051.14,14.56,12.50,123.53,false
+2024-09-18,Trail Backpack,Outdoor,60,4227.00,82.88,15.00,65.83,false
+2024-09-18,Camping Lantern,Outdoor,76,2591.60,40.12,15.00,93.50,false
+2024-09-19,Wireless Headphones,Electronics,112,9655.52,95.79,10.00,78.95,true
+2024-09-19,Smart Home Speaker,Electronics,55,6631.35,120.57,0.00,75.67,false
+2024-09-19,Organic Coffee,Groceries,182,2427.88,15.25,12.50,102.45,false
+2024-09-19,Trail Backpack,Outdoor,48,3354.72,69.89,0.00,71.84,false
+2024-09-19,Camping Lantern,Outdoor,86,2610.10,37.94,20.00,67.51,false
+2024-09-20,Wireless Headphones,Electronics,85,7610.05,89.53,0.00,97.10,false
+2024-09-20,Smart Home Speaker,Electronics,57,6809.79,119.47,0.00,43.44,false
+2024-09-20,Organic Coffee,Groceries,139,1946.00,14.00,0.00,183.69,false
+2024-09-20,Trail Backpack,Outdoor,43,3432.26,79.82,0.00,79.12,false
+2024-09-20,Camping Lantern,Outdoor,64,2459.52,38.43,0.00,83.06,false
+2024-09-21,Wireless Headphones,Electronics,76,6865.84,90.34,0.00,87.87,false
+2024-09-21,Smart Home Speaker,Electronics,43,5464.44,127.08,0.00,63.59,false
+2024-09-21,Organic Coffee,Groceries,190,3041.90,16.01,0.00,155.04,false
+2024-09-21,Trail Backpack,Outdoor,51,3771.45,82.16,10.00,58.83,false
+2024-09-21,Camping Lantern,Outdoor,68,2741.08,40.31,0.00,90.22,false
+2024-09-22,Wireless Headphones,Electronics,73,7047.42,96.54,0.00,50.81,false
+2024-09-22,Smart Home Speaker,Electronics,44,5642.56,128.24,0.00,60.74,false
+2024-09-22,Organic Coffee,Groceries,191,2624.34,13.74,0.00,116.20,false
+2024-09-22,Trail Backpack,Outdoor,46,3714.04,80.74,0.00,77.68,false
+2024-09-22,Camping Lantern,Outdoor,79,2873.23,36.37,0.00,84.01,false
+2024-09-23,Wireless Headphones,Electronics,76,7441.92,97.92,0.00,72.31,false
+2024-09-23,Smart Home Speaker,Electronics,64,7686.40,120.10,0.00,35.87,false
+2024-09-23,Organic Coffee,Groceries,159,2494.71,15.69,0.00,167.18,false
+2024-09-23,Trail Backpack,Outdoor,60,4021.20,76.60,12.50,48.46,false
+2024-09-23,Camping Lantern,Outdoor,79,2864.54,39.42,8.00,84.35,false
+2024-09-24,Wireless Headphones,Electronics,94,9172.52,97.58,0.00,58.89,false
+2024-09-24,Smart Home Speaker,Electronics,79,8355.83,124.43,15.00,36.49,false
+2024-09-24,Organic Coffee,Groceries,192,3095.04,16.12,0.00,200.29,false
+2024-09-24,Trail Backpack,Outdoor,51,3620.49,70.99,0.00,71.56,false
+2024-09-24,Camping Lantern,Outdoor,68,2462.96,36.22,0.00,65.88,true
+2024-09-25,Wireless Headphones,Electronics,76,7311.20,96.20,0.00,106.38,false
+2024-09-25,Smart Home Speaker,Electronics,65,8654.75,133.15,0.00,64.17,true
+2024-09-25,Organic Coffee,Groceries,194,2345.46,14.22,15.00,165.75,false
+2024-09-25,Trail Backpack,Outdoor,42,3194.94,76.07,0.00,63.60,false
+2024-09-25,Camping Lantern,Outdoor,71,2830.06,41.96,5.00,89.14,true
+2024-09-26,Wireless Headphones,Electronics,84,7857.36,93.54,0.00,59.87,false
+2024-09-26,Smart Home Speaker,Electronics,57,7385.49,129.57,0.00,75.28,false
+2024-09-26,Organic Coffee,Groceries,147,2153.55,14.65,0.00,201.33,false
+2024-09-26,Trail Backpack,Outdoor,49,3542.21,76.09,5.00,54.94,false
+2024-09-26,Camping Lantern,Outdoor,67,2753.70,41.10,0.00,81.11,false
+2024-09-27,Wireless Headphones,Electronics,89,8695.30,97.70,0.00,84.79,false
+2024-09-27,Smart Home Speaker,Electronics,58,6993.64,120.58,0.00,66.74,false
+2024-09-27,Organic Coffee,Groceries,150,2166.00,14.44,0.00,203.07,false
+2024-09-27,Trail Backpack,Outdoor,56,4131.12,73.77,0.00,71.78,true
+2024-09-27,Camping Lantern,Outdoor,60,2557.80,42.63,0.00,96.58,false
+2024-09-28,Wireless Headphones,Electronics,79,7557.93,95.67,0.00,67.80,false
+2024-09-28,Smart Home Speaker,Electronics,67,6567.34,115.32,15.00,38.38,false
+2024-09-28,Organic Coffee,Groceries,181,2497.80,13.80,0.00,103.04,false
+2024-09-28,Trail Backpack,Outdoor,52,3503.24,70.92,5.00,76.20,false
+2024-09-28,Camping Lantern,Outdoor,78,2975.70,42.39,10.00,96.18,false
+2024-09-29,Wireless Headphones,Electronics,122,9142.68,88.17,15.00,101.32,true
+2024-09-29,Smart Home Speaker,Electronics,55,6248.55,113.61,0.00,38.89,false
+2024-09-29,Organic Coffee,Groceries,213,2999.04,14.08,0.00,130.29,false
+2024-09-29,Trail Backpack,Outdoor,58,3994.46,68.87,0.00,69.84,false
+2024-09-29,Camping Lantern,Outdoor,72,2734.56,37.98,0.00,73.42,false
+2024-09-30,Wireless Headphones,Electronics,112,8559.04,95.52,20.00,68.60,false
+2024-09-30,Smart Home Speaker,Electronics,73,8065.77,126.28,12.50,54.91,false
+2024-09-30,Organic Coffee,Groceries,181,2456.17,13.57,0.00,196.45,false
+2024-09-30,Trail Backpack,Outdoor,58,4705.54,81.13,0.00,50.35,false
+2024-09-30,Camping Lantern,Outdoor,72,2619.36,41.58,12.50,78.25,false
+2024-10-01,Wireless Headphones,Electronics,80,8014.40,100.18,0.00,85.66,false
+2024-10-01,Smart Home Speaker,Electronics,63,7755.93,123.11,0.00,72.12,false
+2024-10-01,Organic Coffee,Groceries,203,2569.98,13.76,8.00,122.82,false
+2024-10-01,Trail Backpack,Outdoor,58,3992.14,78.67,12.50,79.23,false
+2024-10-01,Camping Lantern,Outdoor,84,3029.04,36.06,0.00,69.80,false
+2024-10-02,Wireless Headphones,Electronics,80,7544.00,94.30,0.00,69.64,false
+2024-10-02,Smart Home Speaker,Electronics,61,7275.47,119.27,0.00,65.81,false
+2024-10-02,Organic Coffee,Groceries,169,2411.63,14.27,0.00,181.31,false
+2024-10-02,Trail Backpack,Outdoor,55,4141.50,75.30,0.00,50.78,true
+2024-10-02,Camping Lantern,Outdoor,80,2672.00,38.17,12.50,91.08,false
+2024-10-03,Wireless Headphones,Electronics,82,6865.86,93.03,10.00,65.45,false
+2024-10-03,Smart Home Speaker,Electronics,57,6943.17,121.81,0.00,57.66,false
+2024-10-03,Organic Coffee,Groceries,156,2269.80,15.32,5.00,132.34,false
+2024-10-03,Trail Backpack,Outdoor,46,3675.86,79.91,0.00,60.54,false
+2024-10-03,Camping Lantern,Outdoor,58,2292.74,42.97,8.00,93.86,false
+2024-10-04,Wireless Headphones,Electronics,73,7357.67,100.79,0.00,80.11,false
+2024-10-04,Smart Home Speaker,Electronics,59,7110.09,120.51,0.00,75.81,false
+2024-10-04,Organic Coffee,Groceries,148,2171.16,14.67,0.00,195.14,false
+2024-10-04,Trail Backpack,Outdoor,65,4855.50,74.70,0.00,71.28,true
+2024-10-04,Camping Lantern,Outdoor,84,2853.48,42.46,20.00,99.00,false
+2024-10-05,Wireless Headphones,Electronics,87,7430.67,85.41,0.00,57.78,false
+2024-10-05,Smart Home Speaker,Electronics,65,7177.95,126.20,12.50,49.71,false
+2024-10-05,Organic Coffee,Groceries,178,2792.82,15.69,0.00,203.90,false
+2024-10-05,Trail Backpack,Outdoor,50,3611.50,72.23,0.00,79.98,false
+2024-10-05,Camping Lantern,Outdoor,84,2922.36,39.77,12.50,92.63,false
+2024-10-06,Wireless Headphones,Electronics,81,7594.56,93.76,0.00,81.62,false
+2024-10-06,Smart Home Speaker,Electronics,48,6169.92,128.54,0.00,75.27,false
+2024-10-06,Organic Coffee,Groceries,196,3120.32,15.92,0.00,105.53,false
+2024-10-06,Trail Backpack,Outdoor,67,4337.58,71.93,10.00,64.33,false
+2024-10-06,Camping Lantern,Outdoor,75,2998.50,39.98,0.00,81.17,false
+2024-10-07,Wireless Headphones,Electronics,70,6670.30,95.29,0.00,79.86,false
+2024-10-07,Smart Home Speaker,Electronics,59,7767.35,131.65,0.00,72.21,false
+2024-10-07,Organic Coffee,Groceries,222,3172.38,14.29,0.00,119.04,true
+2024-10-07,Trail Backpack,Outdoor,70,4617.20,77.60,15.00,67.25,false
+2024-10-07,Camping Lantern,Outdoor,77,3093.09,40.17,0.00,69.52,false
+2024-10-08,Wireless Headphones,Electronics,109,8798.48,84.97,5.00,111.60,false
+2024-10-08,Smart Home Speaker,Electronics,66,7488.36,113.46,0.00,38.83,false
+2024-10-08,Organic Coffee,Groceries,215,3040.10,14.14,0.00,146.00,false
+2024-10-08,Trail Backpack,Outdoor,79,5575.03,78.41,10.00,82.53,true
+2024-10-08,Camping Lantern,Outdoor,83,2974.72,35.84,0.00,92.33,false
+2024-10-09,Wireless Headphones,Electronics,89,7848.02,88.18,0.00,63.08,false
+2024-10-09,Smart Home Speaker,Electronics,55,6512.00,118.40,0.00,58.18,false
+2024-10-09,Organic Coffee,Groceries,179,2761.97,15.43,0.00,147.71,false
+2024-10-09,Trail Backpack,Outdoor,48,3600.00,75.00,0.00,63.24,false
+2024-10-09,Camping Lantern,Outdoor,60,2202.60,36.71,0.00,91.99,false
+2024-10-10,Wireless Headphones,Electronics,90,8576.10,95.29,0.00,74.08,false
+2024-10-10,Smart Home Speaker,Electronics,59,7733.13,131.07,0.00,39.89,false
+2024-10-10,Organic Coffee,Groceries,162,2342.52,14.46,0.00,119.01,false
+2024-10-10,Trail Backpack,Outdoor,44,3174.16,72.14,0.00,75.85,false
+2024-10-10,Camping Lantern,Outdoor,68,2499.68,40.84,10.00,75.05,false
+2024-10-11,Wireless Headphones,Electronics,105,9177.00,87.40,0.00,96.31,true
+2024-10-11,Smart Home Speaker,Electronics,70,8002.40,120.34,5.00,59.05,false
+2024-10-11,Organic Coffee,Groceries,152,2354.48,15.49,0.00,192.77,false
+2024-10-11,Trail Backpack,Outdoor,51,3808.17,74.67,0.00,70.62,false
+2024-10-11,Camping Lantern,Outdoor,96,2948.16,38.39,20.00,69.30,false
+2024-10-12,Wireless Headphones,Electronics,77,7024.71,91.23,0.00,104.00,false
+2024-10-12,Smart Home Speaker,Electronics,49,6424.39,131.11,0.00,77.88,false
+2024-10-12,Organic Coffee,Groceries,213,2935.14,13.78,0.00,101.63,true
+2024-10-12,Trail Backpack,Outdoor,51,3685.26,72.26,0.00,57.83,false
+2024-10-12,Camping Lantern,Outdoor,72,2588.40,35.95,0.00,71.25,false
+2024-10-13,Wireless Headphones,Electronics,78,7131.54,91.43,0.00,99.11,false
+2024-10-13,Smart Home Speaker,Electronics,71,7611.20,112.84,5.00,64.64,false
+2024-10-13,Organic Coffee,Groceries,257,3911.54,15.22,0.00,115.67,false
+2024-10-13,Trail Backpack,Outdoor,68,4727.36,69.52,0.00,76.92,false
+2024-10-13,Camping Lantern,Outdoor,72,2648.16,39.98,8.00,66.95,false
+2024-10-14,Wireless Headphones,Electronics,82,7703.90,93.95,0.00,54.76,false
+2024-10-14,Smart Home Speaker,Electronics,87,8561.67,112.47,12.50,59.21,false
+2024-10-14,Organic Coffee,Groceries,171,2371.77,13.87,0.00,175.89,false
+2024-10-14,Trail Backpack,Outdoor,78,5059.86,72.07,10.00,84.07,false
+2024-10-14,Camping Lantern,Outdoor,85,2794.80,35.74,8.00,75.40,false
+2024-10-15,Wireless Headphones,Electronics,107,8480.82,88.07,10.00,96.79,false
+2024-10-15,Smart Home Speaker,Electronics,66,8659.20,131.20,0.00,71.48,false
+2024-10-15,Organic Coffee,Groceries,252,3664.08,14.54,0.00,163.72,true
+2024-10-15,Trail Backpack,Outdoor,58,4601.14,79.33,0.00,77.49,false
+2024-10-15,Camping Lantern,Outdoor,70,2672.60,38.18,0.00,71.89,false
+2024-10-16,Wireless Headphones,Electronics,92,8445.60,91.80,0.00,78.93,true
+2024-10-16,Smart Home Speaker,Electronics,68,7519.44,120.19,8.00,77.89,false
+2024-10-16,Organic Coffee,Groceries,177,2359.41,13.33,0.00,187.29,false
+2024-10-16,Trail Backpack,Outdoor,42,2844.24,73.60,8.00,84.42,false
+2024-10-16,Camping Lantern,Outdoor,66,2410.98,36.53,0.00,72.43,true
+2024-10-17,Wireless Headphones,Electronics,121,11902.77,98.37,0.00,70.80,true
+2024-10-17,Smart Home Speaker,Electronics,72,9510.48,132.09,0.00,57.85,true
+2024-10-17,Organic Coffee,Groceries,203,2714.11,13.37,0.00,197.37,true
+2024-10-17,Trail Backpack,Outdoor,55,4372.50,79.50,0.00,58.72,false
+2024-10-17,Camping Lantern,Outdoor,65,2541.50,39.10,0.00,91.19,false
+2024-10-18,Wireless Headphones,Electronics,81,7535.43,93.03,0.00,86.04,false
+2024-10-18,Smart Home Speaker,Electronics,45,5635.80,125.24,0.00,71.10,false
+2024-10-18,Organic Coffee,Groceries,153,2198.61,14.37,0.00,115.55,false
+2024-10-18,Trail Backpack,Outdoor,51,3934.14,77.14,0.00,81.02,false
+2024-10-18,Camping Lantern,Outdoor,50,1828.50,36.57,0.00,85.17,false
+2024-10-19,Wireless Headphones,Electronics,74,7144.70,96.55,0.00,109.15,false
+2024-10-19,Smart Home Speaker,Electronics,47,6132.09,130.47,0.00,42.66,false
+2024-10-19,Organic Coffee,Groceries,198,3084.84,15.58,0.00,149.72,false
+2024-10-19,Trail Backpack,Outdoor,46,3666.66,79.71,0.00,58.40,false
+2024-10-19,Camping Lantern,Outdoor,68,2800.92,41.19,0.00,88.38,true
+2024-10-20,Wireless Headphones,Electronics,67,6626.97,98.91,0.00,62.95,false
+2024-10-20,Smart Home Speaker,Electronics,49,6448.40,131.60,0.00,41.52,false
+2024-10-20,Organic Coffee,Groceries,242,3458.18,14.29,0.00,185.41,false
+2024-10-20,Trail Backpack,Outdoor,60,4284.00,71.40,0.00,83.57,false
+2024-10-20,Camping Lantern,Outdoor,75,2840.25,37.87,0.00,69.23,false
+2024-10-21,Wireless Headphones,Electronics,69,6454.95,93.55,0.00,74.65,false
+2024-10-21,Smart Home Speaker,Electronics,71,7924.31,111.61,0.00,67.16,false
+2024-10-21,Organic Coffee,Groceries,190,2561.20,13.48,0.00,108.79,false
+2024-10-21,Trail Backpack,Outdoor,56,4191.04,74.84,0.00,57.94,false
+2024-10-21,Camping Lantern,Outdoor,78,2898.48,37.16,0.00,72.57,false
+2024-10-22,Wireless Headphones,Electronics,72,6416.64,89.12,0.00,77.22,false
+2024-10-22,Smart Home Speaker,Electronics,53,6901.66,130.22,0.00,81.06,false
+2024-10-22,Organic Coffee,Groceries,192,2570.88,13.39,0.00,183.94,false
+2024-10-22,Trail Backpack,Outdoor,86,5375.86,69.46,10.00,80.47,true
+2024-10-22,Camping Lantern,Outdoor,96,3042.24,39.61,20.00,83.26,false
+2024-10-23,Wireless Headphones,Electronics,100,9542.00,95.42,0.00,64.95,false
+2024-10-23,Smart Home Speaker,Electronics,99,9168.39,115.77,20.00,61.39,false
+2024-10-23,Organic Coffee,Groceries,169,2443.74,14.46,0.00,198.04,false
+2024-10-23,Trail Backpack,Outdoor,51,3631.20,71.20,0.00,81.83,false
+2024-10-23,Camping Lantern,Outdoor,58,2273.02,39.19,0.00,68.04,false
+2024-10-24,Wireless Headphones,Electronics,100,8327.00,97.97,15.00,93.23,false
+2024-10-24,Smart Home Speaker,Electronics,57,7340.46,128.78,0.00,70.94,false
+2024-10-24,Organic Coffee,Groceries,181,2448.93,13.53,0.00,122.07,false
+2024-10-24,Trail Backpack,Outdoor,52,3850.08,80.48,8.00,58.74,false
+2024-10-24,Camping Lantern,Outdoor,81,3060.99,37.79,0.00,94.95,true
+2024-10-25,Wireless Headphones,Electronics,88,7502.00,85.25,0.00,109.73,true
+2024-10-25,Smart Home Speaker,Electronics,55,6784.80,123.36,0.00,66.92,false
+2024-10-25,Organic Coffee,Groceries,191,2857.36,14.96,0.00,203.94,false
+2024-10-25,Trail Backpack,Outdoor,58,4184.70,72.15,0.00,83.92,false
+2024-10-25,Camping Lantern,Outdoor,63,2673.72,42.44,0.00,98.85,false
+2024-10-26,Wireless Headphones,Electronics,94,8380.10,93.84,5.00,108.22,true
+2024-10-26,Smart Home Speaker,Electronics,61,6411.10,114.24,8.00,81.56,false
+2024-10-26,Organic Coffee,Groceries,192,2799.36,14.58,0.00,158.71,false
+2024-10-26,Trail Backpack,Outdoor,64,4737.92,80.46,8.00,62.84,false
+2024-10-26,Camping Lantern,Outdoor,88,3097.60,41.41,15.00,99.44,false
+2024-10-27,Wireless Headphones,Electronics,92,8126.36,88.33,0.00,109.56,false
+2024-10-27,Smart Home Speaker,Electronics,71,6674.71,117.52,20.00,60.45,true
+2024-10-27,Organic Coffee,Groceries,241,3557.16,14.76,0.00,123.64,false
+2024-10-27,Trail Backpack,Outdoor,56,4233.04,75.59,0.00,76.00,false
+2024-10-27,Camping Lantern,Outdoor,77,2855.16,37.08,0.00,86.55,false
+2024-10-28,Wireless Headphones,Electronics,91,7999.81,87.91,0.00,101.36,false
+2024-10-28,Smart Home Speaker,Electronics,59,6849.90,116.10,0.00,76.27,false
+2024-10-28,Organic Coffee,Groceries,190,2483.30,13.07,0.00,137.15,false
+2024-10-28,Trail Backpack,Outdoor,55,4030.95,73.29,0.00,60.75,false
+2024-10-28,Camping Lantern,Outdoor,67,2752.36,41.08,0.00,96.25,false
+2024-10-29,Wireless Headphones,Electronics,118,8870.06,85.91,12.50,70.68,false
+2024-10-29,Smart Home Speaker,Electronics,70,9041.20,129.16,0.00,85.76,false
+2024-10-29,Organic Coffee,Groceries,192,2843.52,14.81,0.00,141.85,false
+2024-10-29,Trail Backpack,Outdoor,74,4864.02,75.12,12.50,77.59,true
+2024-10-29,Camping Lantern,Outdoor,59,2513.99,42.61,0.00,93.75,false
+2024-10-30,Wireless Headphones,Electronics,118,9821.14,97.91,15.00,93.18,false
+2024-10-30,Smart Home Speaker,Electronics,87,8238.03,111.40,15.00,52.16,false
+2024-10-30,Organic Coffee,Groceries,198,2908.62,14.69,0.00,137.76,false
+2024-10-30,Trail Backpack,Outdoor,55,4078.80,74.16,0.00,85.99,false
+2024-10-30,Camping Lantern,Outdoor,62,2476.28,39.94,0.00,89.97,false
+2024-10-31,Wireless Headphones,Electronics,74,7229.80,97.70,0.00,65.09,false
+2024-10-31,Smart Home Speaker,Electronics,61,6774.05,111.05,0.00,59.17,false
+2024-10-31,Organic Coffee,Groceries,204,2547.96,14.28,12.50,197.72,false
+2024-10-31,Trail Backpack,Outdoor,53,4023.76,75.92,0.00,58.65,false
+2024-10-31,Camping Lantern,Outdoor,78,2627.04,38.50,12.50,96.06,false
+2024-11-01,Wireless Headphones,Electronics,81,7463.34,92.14,0.00,108.15,false
+2024-11-01,Smart Home Speaker,Electronics,77,7914.83,128.48,20.00,69.75,true
+2024-11-01,Organic Coffee,Groceries,157,2108.51,13.43,0.00,145.26,false
+2024-11-01,Trail Backpack,Outdoor,49,3928.33,80.17,0.00,74.84,false
+2024-11-01,Camping Lantern,Outdoor,71,2533.99,38.79,8.00,76.13,false
+2024-11-02,Wireless Headphones,Electronics,85,7398.40,87.04,0.00,94.36,false
+2024-11-02,Smart Home Speaker,Electronics,61,6689.87,109.67,0.00,69.61,false
+2024-11-02,Organic Coffee,Groceries,213,3067.20,14.40,0.00,218.21,false
+2024-11-02,Trail Backpack,Outdoor,61,4340.76,71.16,0.00,90.25,false
+2024-11-02,Camping Lantern,Outdoor,58,2478.92,42.74,0.00,65.66,false
+2024-11-03,Wireless Headphones,Electronics,87,7619.46,87.58,0.00,67.57,false
+2024-11-03,Smart Home Speaker,Electronics,66,7637.52,115.72,0.00,54.28,false
+2024-11-03,Organic Coffee,Groceries,203,3022.67,14.89,0.00,185.11,false
+2024-11-03,Trail Backpack,Outdoor,57,4466.52,78.36,0.00,72.20,false
+2024-11-03,Camping Lantern,Outdoor,73,2912.70,39.90,0.00,90.88,false
+2024-11-04,Wireless Headphones,Electronics,87,7374.12,84.76,0.00,80.86,false
+2024-11-04,Smart Home Speaker,Electronics,72,8278.56,114.98,0.00,58.51,false
+2024-11-04,Organic Coffee,Groceries,181,2640.79,14.59,0.00,217.37,false
+2024-11-04,Trail Backpack,Outdoor,62,4379.06,70.63,0.00,64.02,false
+2024-11-04,Camping Lantern,Outdoor,72,3088.80,42.90,0.00,92.05,false
+2024-11-05,Wireless Headphones,Electronics,108,8705.88,92.13,12.50,110.02,false
+2024-11-05,Smart Home Speaker,Electronics,82,9377.52,114.36,0.00,80.30,false
+2024-11-05,Organic Coffee,Groceries,291,4332.99,14.89,0.00,212.37,true
+2024-11-05,Trail Backpack,Outdoor,74,4169.90,70.44,20.00,62.05,false
+2024-11-05,Camping Lantern,Outdoor,72,2720.88,37.79,0.00,83.18,false
+2024-11-06,Wireless Headphones,Electronics,114,10020.60,87.90,0.00,89.24,false
+2024-11-06,Smart Home Speaker,Electronics,73,8818.40,120.80,0.00,58.39,false
+2024-11-06,Organic Coffee,Groceries,201,2836.11,14.11,0.00,187.40,false
+2024-11-06,Trail Backpack,Outdoor,49,3475.08,70.92,0.00,68.71,false
+2024-11-06,Camping Lantern,Outdoor,65,2280.20,38.98,10.00,74.35,false
+2024-11-07,Wireless Headphones,Electronics,95,8625.05,90.79,0.00,94.65,false
+2024-11-07,Smart Home Speaker,Electronics,80,8524.00,125.35,15.00,57.75,false
+2024-11-07,Organic Coffee,Groceries,177,2329.32,13.16,0.00,135.61,false
+2024-11-07,Trail Backpack,Outdoor,68,4475.08,71.54,8.00,72.29,true
+2024-11-07,Camping Lantern,Outdoor,54,2329.56,43.14,0.00,80.13,false
+2024-11-08,Wireless Headphones,Electronics,86,7375.36,85.76,0.00,58.51,false
+2024-11-08,Smart Home Speaker,Electronics,58,6554.00,113.00,0.00,57.97,false
+2024-11-08,Organic Coffee,Groceries,172,2499.16,14.53,0.00,206.39,false
+2024-11-08,Trail Backpack,Outdoor,48,3692.64,76.93,0.00,74.53,false
+2024-11-08,Camping Lantern,Outdoor,71,2722.85,38.35,0.00,76.92,false
+2024-11-09,Wireless Headphones,Electronics,77,6323.24,82.12,0.00,72.94,false
+2024-11-09,Smart Home Speaker,Electronics,57,6748.23,118.39,0.00,47.27,false
+2024-11-09,Organic Coffee,Groceries,218,3167.54,14.53,0.00,198.30,false
+2024-11-09,Trail Backpack,Outdoor,61,4809.24,78.84,0.00,69.38,true
+2024-11-09,Camping Lantern,Outdoor,74,2752.06,42.50,12.50,75.05,false
+2024-11-10,Wireless Headphones,Electronics,86,7838.04,91.14,0.00,59.69,false
+2024-11-10,Smart Home Speaker,Electronics,66,7628.28,121.66,5.00,54.70,false
+2024-11-10,Organic Coffee,Groceries,236,3516.40,14.90,0.00,200.81,false
+2024-11-10,Trail Backpack,Outdoor,53,4150.96,78.32,0.00,79.72,false
+2024-11-10,Camping Lantern,Outdoor,64,2682.88,41.92,0.00,86.90,false
+2024-11-11,Wireless Headphones,Electronics,97,7959.82,82.06,0.00,83.50,false
+2024-11-11,Smart Home Speaker,Electronics,67,8346.19,124.57,0.00,88.76,false
+2024-11-11,Organic Coffee,Groceries,197,2976.67,15.11,0.00,113.41,false
+2024-11-11,Trail Backpack,Outdoor,55,4246.00,77.20,0.00,85.56,false
+2024-11-11,Camping Lantern,Outdoor,73,2709.03,43.66,15.00,93.11,false
+2024-11-12,Wireless Headphones,Electronics,88,7645.44,86.88,0.00,115.27,false
+2024-11-12,Smart Home Speaker,Electronics,73,9399.48,128.76,0.00,77.22,false
+2024-11-12,Organic Coffee,Groceries,205,2494.85,13.90,12.50,205.36,false
+2024-11-12,Trail Backpack,Outdoor,54,3722.76,72.56,5.00,88.17,false
+2024-11-12,Camping Lantern,Outdoor,73,2812.69,38.53,0.00,95.68,false
+2024-11-13,Wireless Headphones,Electronics,126,10449.18,82.93,0.00,67.27,true
+2024-11-13,Smart Home Speaker,Electronics,64,7539.20,117.80,0.00,50.52,false
+2024-11-13,Organic Coffee,Groceries,211,2673.37,13.34,5.00,143.13,false
+2024-11-13,Trail Backpack,Outdoor,69,4712.01,75.88,10.00,90.71,true
+2024-11-13,Camping Lantern,Outdoor,76,3114.48,40.98,0.00,77.43,false
+2024-11-14,Wireless Headphones,Electronics,118,10517.34,89.13,0.00,56.93,true
+2024-11-14,Smart Home Speaker,Electronics,71,7792.25,109.75,0.00,58.46,false
+2024-11-14,Organic Coffee,Groceries,199,2917.34,14.66,0.00,169.64,true
+2024-11-14,Trail Backpack,Outdoor,50,3716.50,74.33,0.00,73.31,false
+2024-11-14,Camping Lantern,Outdoor,65,2688.40,41.36,0.00,87.46,false
+2024-11-15,Wireless Headphones,Electronics,80,7338.40,91.73,0.00,78.96,false
+2024-11-15,Smart Home Speaker,Electronics,61,7560.34,123.94,0.00,69.75,false
+2024-11-15,Organic Coffee,Groceries,183,2569.32,14.78,5.00,183.78,false
+2024-11-15,Trail Backpack,Outdoor,53,3997.79,75.43,0.00,75.76,false
+2024-11-15,Camping Lantern,Outdoor,102,3683.22,40.12,10.00,93.32,true
+2024-11-16,Wireless Headphones,Electronics,81,7834.32,96.72,0.00,111.37,false
+2024-11-16,Smart Home Speaker,Electronics,63,6791.40,107.80,0.00,89.38,false
+2024-11-16,Organic Coffee,Groceries,189,2545.83,13.47,0.00,208.33,false
+2024-11-16,Trail Backpack,Outdoor,51,3720.96,79.30,8.00,62.98,false
+2024-11-16,Camping Lantern,Outdoor,73,2953.58,40.46,0.00,96.84,false
+2024-11-17,Wireless Headphones,Electronics,101,9175.85,90.85,0.00,83.43,false
+2024-11-17,Smart Home Speaker,Electronics,68,7523.52,122.93,10.00,80.28,false
+2024-11-17,Organic Coffee,Groceries,312,3875.04,13.07,5.00,219.54,true
+2024-11-17,Trail Backpack,Outdoor,56,4347.84,77.64,0.00,91.78,false
+2024-11-17,Camping Lantern,Outdoor,96,3322.56,39.55,12.50,82.63,false
+2024-11-18,Wireless Headphones,Electronics,100,8455.00,84.55,0.00,115.00,false
+2024-11-18,Smart Home Speaker,Electronics,65,7846.80,120.72,0.00,85.96,false
+2024-11-18,Organic Coffee,Groceries,250,3152.50,14.01,10.00,207.87,false
+2024-11-18,Trail Backpack,Outdoor,61,4393.22,72.02,0.00,92.26,false
+2024-11-18,Camping Lantern,Outdoor,68,2622.08,38.56,0.00,89.72,false
+2024-11-19,Wireless Headphones,Electronics,128,11368.96,96.54,8.00,107.66,true
+2024-11-19,Smart Home Speaker,Electronics,80,9640.00,126.84,5.00,59.36,false
+2024-11-19,Organic Coffee,Groceries,214,3100.86,14.49,0.00,185.33,false
+2024-11-19,Trail Backpack,Outdoor,84,5135.76,71.92,15.00,61.68,false
+2024-11-19,Camping Lantern,Outdoor,80,3081.60,40.54,5.00,90.17,false
+2024-11-20,Wireless Headphones,Electronics,107,8961.25,91.03,8.00,118.18,false
+2024-11-20,Smart Home Speaker,Electronics,64,8214.40,128.35,0.00,79.24,false
+2024-11-20,Organic Coffee,Groceries,205,2990.95,14.59,0.00,189.42,false
+2024-11-20,Trail Backpack,Outdoor,48,3700.32,77.09,0.00,66.31,false
+2024-11-20,Camping Lantern,Outdoor,54,2222.64,41.16,0.00,89.75,false
+2024-11-21,Wireless Headphones,Electronics,82,7201.24,87.82,0.00,99.67,false
+2024-11-21,Smart Home Speaker,Electronics,61,7649.40,125.40,0.00,58.99,false
+2024-11-21,Organic Coffee,Groceries,262,2769.34,13.21,20.00,139.40,false
+2024-11-21,Trail Backpack,Outdoor,55,3897.30,70.86,0.00,92.12,false
+2024-11-21,Camping Lantern,Outdoor,60,2370.60,39.51,0.00,68.08,false
+2024-11-22,Wireless Headphones,Electronics,103,8355.36,81.12,0.00,62.43,false
+2024-11-22,Smart Home Speaker,Electronics,63,7419.51,128.01,8.00,77.55,false
+2024-11-22,Organic Coffee,Groceries,136,1943.44,14.29,0.00,147.69,false
+2024-11-22,Trail Backpack,Outdoor,55,4363.15,79.33,0.00,85.71,false
+2024-11-22,Camping Lantern,Outdoor,72,2986.56,41.48,0.00,64.78,false
+2024-11-23,Wireless Headphones,Electronics,114,8337.96,83.59,12.50,84.62,false
+2024-11-23,Smart Home Speaker,Electronics,55,7068.05,128.51,0.00,53.89,false
+2024-11-23,Organic Coffee,Groceries,213,2800.95,13.15,0.00,114.54,false
+2024-11-23,Trail Backpack,Outdoor,52,4250.48,81.74,0.00,68.38,false
+2024-11-23,Camping Lantern,Outdoor,78,3066.18,41.37,5.00,91.07,false
+2024-11-24,Wireless Headphones,Electronics,99,8011.08,80.92,0.00,59.80,false
+2024-11-24,Smart Home Speaker,Electronics,59,7001.53,118.67,0.00,52.69,false
+2024-11-24,Organic Coffee,Groceries,382,4446.48,14.55,20.00,130.44,true
+2024-11-24,Trail Backpack,Outdoor,52,4103.32,78.91,0.00,70.27,false
+2024-11-24,Camping Lantern,Outdoor,72,2887.20,40.10,0.00,83.61,false
+2024-11-25,Wireless Headphones,Electronics,93,8667.60,93.20,0.00,86.29,false
+2024-11-25,Smart Home Speaker,Electronics,55,6596.15,119.93,0.00,89.60,false
+2024-11-25,Organic Coffee,Groceries,211,3192.43,15.13,0.00,169.82,false
+2024-11-25,Trail Backpack,Outdoor,73,5283.74,72.38,0.00,73.03,true
+2024-11-25,Camping Lantern,Outdoor,62,2597.18,41.89,0.00,101.35,false
+2024-11-26,Wireless Headphones,Electronics,128,10746.88,93.29,10.00,115.93,true
+2024-11-26,Smart Home Speaker,Electronics,75,8859.00,118.12,0.00,53.61,false
+2024-11-26,Organic Coffee,Groceries,173,2567.32,14.84,0.00,146.20,false
+2024-11-26,Trail Backpack,Outdoor,59,4367.18,74.02,0.00,78.44,false
+2024-11-26,Camping Lantern,Outdoor,72,2564.64,41.91,15.00,89.54,false
+2024-11-27,Wireless Headphones,Electronics,152,10940.96,82.26,12.50,64.90,true
+2024-11-27,Smart Home Speaker,Electronics,76,8600.16,119.11,5.00,83.65,false
+2024-11-27,Organic Coffee,Groceries,178,2627.28,14.76,0.00,116.56,false
+2024-11-27,Trail Backpack,Outdoor,54,3986.28,73.82,0.00,70.07,false
+2024-11-27,Camping Lantern,Outdoor,76,3087.88,40.63,0.00,101.29,true
+2024-11-28,Wireless Headphones,Electronics,118,8352.04,80.89,12.50,93.90,false
+2024-11-28,Smart Home Speaker,Electronics,94,9458.28,109.37,8.00,94.07,true
+2024-11-28,Organic Coffee,Groceries,160,2528.00,15.80,0.00,118.69,false
+2024-11-28,Trail Backpack,Outdoor,43,3516.54,81.78,0.00,72.65,false
+2024-11-28,Camping Lantern,Outdoor,64,2498.56,42.43,8.00,68.01,false
+2024-11-29,Wireless Headphones,Electronics,96,7691.52,89.02,10.00,88.04,false
+2024-11-29,Smart Home Speaker,Electronics,55,6932.20,126.04,0.00,88.82,false
+2024-11-29,Organic Coffee,Groceries,244,3203.72,13.82,5.00,115.10,true
+2024-11-29,Trail Backpack,Outdoor,65,5007.60,77.04,0.00,80.39,true
+2024-11-29,Camping Lantern,Outdoor,58,2434.26,41.97,0.00,66.83,false
+2024-11-30,Wireless Headphones,Electronics,104,9033.44,91.43,5.00,116.77,true
+2024-11-30,Smart Home Speaker,Electronics,81,8058.69,113.70,12.50,95.86,false
+2024-11-30,Organic Coffee,Groceries,342,4148.46,13.86,12.50,220.64,true
+2024-11-30,Trail Backpack,Outdoor,69,4301.46,77.93,20.00,79.26,false
+2024-11-30,Camping Lantern,Outdoor,65,2717.00,41.80,0.00,95.60,false
+2024-12-01,Wireless Headphones,Electronics,79,7379.39,93.41,0.00,69.41,false
+2024-12-01,Smart Home Speaker,Electronics,92,10001.32,108.71,0.00,69.44,true
+2024-12-01,Organic Coffee,Groceries,234,3423.42,14.63,0.00,122.77,false
+2024-12-01,Trail Backpack,Outdoor,51,3921.90,76.90,0.00,66.66,false
+2024-12-01,Camping Lantern,Outdoor,70,2816.10,40.23,0.00,99.75,false
+2024-12-02,Wireless Headphones,Electronics,119,9520.00,88.89,10.00,62.40,false
+2024-12-02,Smart Home Speaker,Electronics,87,10147.68,116.64,0.00,94.87,false
+2024-12-02,Organic Coffee,Groceries,252,3749.76,14.88,0.00,203.03,false
+2024-12-02,Trail Backpack,Outdoor,63,4270.14,75.31,10.00,70.64,false
+2024-12-02,Camping Lantern,Outdoor,56,2388.40,42.65,0.00,72.11,false
+2024-12-03,Wireless Headphones,Electronics,85,7988.30,93.98,0.00,88.78,false
+2024-12-03,Smart Home Speaker,Electronics,71,9168.94,129.14,0.00,61.44,false
+2024-12-03,Organic Coffee,Groceries,217,3411.24,15.72,0.00,215.23,false
+2024-12-03,Trail Backpack,Outdoor,56,4305.84,76.89,0.00,91.12,false
+2024-12-03,Camping Lantern,Outdoor,53,2283.24,43.08,0.00,67.34,false
+2024-12-04,Wireless Headphones,Electronics,141,10283.13,91.17,20.00,100.81,false
+2024-12-04,Smart Home Speaker,Electronics,77,9404.78,122.14,0.00,66.51,false
+2024-12-04,Organic Coffee,Groceries,288,3617.28,15.70,20.00,196.21,false
+2024-12-04,Trail Backpack,Outdoor,57,4455.69,78.17,0.00,68.71,false
+2024-12-04,Camping Lantern,Outdoor,68,2766.24,40.68,0.00,63.73,false
+2024-12-05,Wireless Headphones,Electronics,97,8340.06,95.54,10.00,68.29,false
+2024-12-05,Smart Home Speaker,Electronics,70,8619.10,123.13,0.00,97.40,false
+2024-12-05,Organic Coffee,Groceries,174,2547.36,14.64,0.00,142.52,false
+2024-12-05,Trail Backpack,Outdoor,63,5229.00,83.00,0.00,76.23,true
+2024-12-05,Camping Lantern,Outdoor,72,3175.92,44.11,0.00,72.94,true
+2024-12-06,Wireless Headphones,Electronics,134,9422.88,82.73,15.00,60.89,false
+2024-12-06,Smart Home Speaker,Electronics,81,8357.58,114.65,10.00,71.75,false
+2024-12-06,Organic Coffee,Groceries,223,3400.75,15.25,0.00,128.02,false
+2024-12-06,Trail Backpack,Outdoor,50,3836.50,76.73,0.00,62.19,false
+2024-12-06,Camping Lantern,Outdoor,72,2666.88,43.58,15.00,68.91,false
+2024-12-07,Wireless Headphones,Electronics,88,8006.24,90.98,0.00,86.87,false
+2024-12-07,Smart Home Speaker,Electronics,76,8265.00,108.75,0.00,87.19,false
+2024-12-07,Organic Coffee,Groceries,286,3257.54,14.24,20.00,123.84,false
+2024-12-07,Trail Backpack,Outdoor,56,4036.48,72.08,0.00,81.98,false
+2024-12-07,Camping Lantern,Outdoor,81,2903.04,39.83,10.00,69.39,false
+2024-12-08,Wireless Headphones,Electronics,84,8064.84,96.01,0.00,98.93,false
+2024-12-08,Smart Home Speaker,Electronics,75,8772.00,116.96,0.00,91.48,false
+2024-12-08,Organic Coffee,Groceries,241,3571.62,14.82,0.00,220.81,false
+2024-12-08,Trail Backpack,Outdoor,57,4328.01,75.93,0.00,93.74,false
+2024-12-08,Camping Lantern,Outdoor,70,2872.10,41.03,0.00,66.40,false
+2024-12-09,Wireless Headphones,Electronics,91,7590.31,83.41,0.00,115.61,false
+2024-12-09,Smart Home Speaker,Electronics,92,10522.04,114.37,0.00,80.64,true
+2024-12-09,Organic Coffee,Groceries,237,3476.79,14.67,0.00,183.62,false
+2024-12-09,Trail Backpack,Outdoor,63,4695.39,82.81,10.00,65.80,true
+2024-12-09,Camping Lantern,Outdoor,64,2702.72,42.23,0.00,83.02,false
+2024-12-10,Wireless Headphones,Electronics,107,10340.48,96.64,0.00,114.43,false
+2024-12-10,Smart Home Speaker,Electronics,86,9802.28,113.98,0.00,79.09,false
+2024-12-10,Organic Coffee,Groceries,170,2667.30,15.69,0.00,171.29,false
+2024-12-10,Trail Backpack,Outdoor,71,5381.09,75.79,0.00,64.09,false
+2024-12-10,Camping Lantern,Outdoor,54,2396.52,44.38,0.00,74.22,false
+2024-12-11,Wireless Headphones,Electronics,102,9788.94,95.97,0.00,119.96,false
+2024-12-11,Smart Home Speaker,Electronics,65,8054.15,123.91,0.00,71.02,false
+2024-12-11,Organic Coffee,Groceries,242,3809.08,15.74,0.00,145.14,true
+2024-12-11,Trail Backpack,Outdoor,56,4445.84,79.39,0.00,79.22,false
+2024-12-11,Camping Lantern,Outdoor,61,2602.26,42.66,0.00,91.10,false
+2024-12-12,Wireless Headphones,Electronics,102,9472.74,92.87,0.00,117.74,false
+2024-12-12,Smart Home Speaker,Electronics,67,8270.48,123.44,0.00,66.77,false
+2024-12-12,Organic Coffee,Groceries,192,3025.92,15.76,0.00,151.18,false
+2024-12-12,Trail Backpack,Outdoor,49,3820.53,77.97,0.00,85.00,false
+2024-12-12,Camping Lantern,Outdoor,59,2558.24,43.36,0.00,69.97,false
+2024-12-13,Wireless Headphones,Electronics,74,6892.36,93.14,0.00,77.90,false
+2024-12-13,Smart Home Speaker,Electronics,69,7124.94,114.73,10.00,69.71,false
+2024-12-13,Organic Coffee,Groceries,179,2445.14,13.66,0.00,182.75,false
+2024-12-13,Trail Backpack,Outdoor,44,3565.76,81.04,0.00,82.63,false
+2024-12-13,Camping Lantern,Outdoor,97,3582.21,41.03,10.00,88.89,true
+2024-12-14,Wireless Headphones,Electronics,81,6953.04,85.84,0.00,75.02,false
+2024-12-14,Smart Home Speaker,Electronics,62,7719.62,124.51,0.00,62.93,false
+2024-12-14,Organic Coffee,Groceries,211,3274.72,15.52,0.00,133.86,false
+2024-12-14,Trail Backpack,Outdoor,58,4177.74,72.03,0.00,84.22,false
+2024-12-14,Camping Lantern,Outdoor,61,2443.05,40.05,0.00,82.52,false
+2024-12-15,Wireless Headphones,Electronics,113,8591.39,84.48,10.00,120.80,false
+2024-12-15,Smart Home Speaker,Electronics,62,8002.34,129.07,0.00,75.97,false
+2024-12-15,Organic Coffee,Groceries,257,3962.94,15.42,0.00,222.90,false
+2024-12-15,Trail Backpack,Outdoor,48,3627.36,75.57,0.00,72.54,false
+2024-12-15,Camping Lantern,Outdoor,62,2365.92,38.16,0.00,61.28,false
+2024-12-16,Wireless Headphones,Electronics,152,11348.32,81.15,8.00,88.88,true
+2024-12-16,Smart Home Speaker,Electronics,72,8521.92,118.36,0.00,83.35,false
+2024-12-16,Organic Coffee,Groceries,197,2933.33,14.89,0.00,152.54,false
+2024-12-16,Trail Backpack,Outdoor,53,4051.32,76.44,0.00,69.62,false
+2024-12-16,Camping Lantern,Outdoor,67,2761.07,41.21,0.00,76.80,false
+2024-12-17,Wireless Headphones,Electronics,104,9744.80,93.70,0.00,76.97,false
+2024-12-17,Smart Home Speaker,Electronics,59,7706.58,130.62,0.00,75.08,false
+2024-12-17,Organic Coffee,Groceries,302,3669.30,14.29,15.00,175.19,false
+2024-12-17,Trail Backpack,Outdoor,50,3744.50,74.89,0.00,87.47,false
+2024-12-17,Camping Lantern,Outdoor,67,2735.61,40.83,0.00,76.36,false
+2024-12-18,Wireless Headphones,Electronics,112,10366.72,92.56,0.00,95.21,true
+2024-12-18,Smart Home Speaker,Electronics,88,10283.68,116.86,0.00,75.94,true
+2024-12-18,Organic Coffee,Groceries,223,3427.51,15.37,0.00,147.15,false
+2024-12-18,Trail Backpack,Outdoor,46,3611.92,78.52,0.00,74.33,false
+2024-12-18,Camping Lantern,Outdoor,80,2844.80,44.45,20.00,63.75,false
+2024-12-19,Wireless Headphones,Electronics,116,9574.64,82.54,0.00,124.89,false
+2024-12-19,Smart Home Speaker,Electronics,74,8869.64,119.86,0.00,94.26,false
+2024-12-19,Organic Coffee,Groceries,175,2637.25,15.07,0.00,128.22,false
+2024-12-19,Trail Backpack,Outdoor,43,3542.34,82.38,0.00,63.87,false
+2024-12-19,Camping Lantern,Outdoor,58,2543.88,43.86,0.00,94.61,false
+2024-12-20,Wireless Headphones,Electronics,88,8359.12,94.99,0.00,68.19,false
+2024-12-20,Smart Home Speaker,Electronics,62,7030.18,119.35,5.00,82.07,false
+2024-12-20,Organic Coffee,Groceries,194,2873.14,14.81,0.00,226.75,false
+2024-12-20,Trail Backpack,Outdoor,47,3854.47,82.01,0.00,69.81,false
+2024-12-20,Camping Lantern,Outdoor,80,3459.20,43.24,0.00,74.57,true
+2024-12-21,Wireless Headphones,Electronics,94,8199.62,87.23,0.00,65.09,false
+2024-12-21,Smart Home Speaker,Electronics,57,6340.11,111.23,0.00,70.25,false
+2024-12-21,Organic Coffee,Groceries,218,3326.68,15.26,0.00,124.16,false
+2024-12-21,Trail Backpack,Outdoor,58,4116.26,70.97,0.00,74.38,false
+2024-12-21,Camping Lantern,Outdoor,82,2790.46,38.89,12.50,95.52,false
+2024-12-22,Wireless Headphones,Electronics,102,8165.10,88.94,10.00,65.43,false
+2024-12-22,Smart Home Speaker,Electronics,85,10855.35,127.71,0.00,73.63,true
+2024-12-22,Organic Coffee,Groceries,236,3396.04,14.39,0.00,141.15,false
+2024-12-22,Trail Backpack,Outdoor,55,4262.50,77.50,0.00,76.22,false
+2024-12-22,Camping Lantern,Outdoor,71,2847.81,40.11,0.00,61.66,false
+2024-12-23,Wireless Headphones,Electronics,95,9156.10,96.38,0.00,120.38,false
+2024-12-23,Smart Home Speaker,Electronics,119,11896.43,117.62,15.00,80.55,true
+2024-12-23,Organic Coffee,Groceries,294,4051.32,13.78,0.00,229.79,true
+2024-12-23,Trail Backpack,Outdoor,66,4693.26,83.65,15.00,64.58,false
+2024-12-23,Camping Lantern,Outdoor,73,2767.43,37.91,0.00,69.51,false
+2024-12-24,Wireless Headphones,Electronics,117,10480.86,97.37,8.00,70.74,false
+2024-12-24,Smart Home Speaker,Electronics,69,9130.08,132.32,0.00,68.21,false
+2024-12-24,Organic Coffee,Groceries,166,2654.34,15.99,0.00,222.24,false
+2024-12-24,Trail Backpack,Outdoor,50,3980.00,79.60,0.00,64.41,false
+2024-12-24,Camping Lantern,Outdoor,54,2276.64,42.16,0.00,93.52,false
+2024-12-25,Wireless Headphones,Electronics,88,8400.48,95.46,0.00,73.00,false
+2024-12-25,Smart Home Speaker,Electronics,102,9704.28,118.93,20.00,71.79,false
+2024-12-25,Organic Coffee,Groceries,285,3288.90,14.43,20.00,145.03,false
+2024-12-25,Trail Backpack,Outdoor,47,3824.39,81.37,0.00,92.12,false
+2024-12-25,Camping Lantern,Outdoor,57,2151.18,37.74,0.00,80.98,false
+2024-12-26,Wireless Headphones,Electronics,90,8073.90,89.71,0.00,118.34,false
+2024-12-26,Smart Home Speaker,Electronics,75,9965.25,132.87,0.00,92.86,false
+2024-12-26,Organic Coffee,Groceries,207,2920.77,14.11,0.00,212.80,false
+2024-12-26,Trail Backpack,Outdoor,61,4524.98,74.18,0.00,62.41,true
+2024-12-26,Camping Lantern,Outdoor,69,2606.13,37.77,0.00,84.55,false
+2024-12-27,Wireless Headphones,Electronics,96,8744.64,91.09,0.00,92.21,false
+2024-12-27,Smart Home Speaker,Electronics,76,8523.40,112.15,0.00,70.60,false
+2024-12-27,Organic Coffee,Groceries,169,2629.64,15.56,0.00,200.65,false
+2024-12-27,Trail Backpack,Outdoor,55,4215.75,76.65,0.00,70.00,false
+2024-12-27,Camping Lantern,Outdoor,71,2840.71,40.01,0.00,82.86,true
+2024-12-28,Wireless Headphones,Electronics,125,9380.00,93.79,20.00,117.33,false
+2024-12-28,Smart Home Speaker,Electronics,59,7405.09,125.51,0.00,84.44,false
+2024-12-28,Organic Coffee,Groceries,205,2829.00,13.80,0.00,135.97,false
+2024-12-28,Trail Backpack,Outdoor,61,4296.84,78.27,10.00,62.94,false
+2024-12-28,Camping Lantern,Outdoor,55,2407.90,43.78,0.00,59.58,false
+2024-12-29,Wireless Headphones,Electronics,98,9283.54,94.73,0.00,125.63,false
+2024-12-29,Smart Home Speaker,Electronics,70,8198.40,117.12,0.00,76.11,false
+2024-12-29,Organic Coffee,Groceries,370,5316.90,14.37,0.00,229.58,true
+2024-12-29,Trail Backpack,Outdoor,57,4153.59,72.87,0.00,76.81,false
+2024-12-29,Camping Lantern,Outdoor,53,2298.61,43.37,0.00,65.96,false
+2024-12-30,Wireless Headphones,Electronics,91,8074.43,88.73,0.00,97.33,false
+2024-12-30,Smart Home Speaker,Electronics,98,11251.38,124.80,8.00,89.80,false
+2024-12-30,Organic Coffee,Groceries,243,3530.79,14.53,0.00,163.36,false
+2024-12-30,Trail Backpack,Outdoor,70,5235.30,74.79,0.00,83.83,false
+2024-12-30,Camping Lantern,Outdoor,93,3154.56,42.40,20.00,65.73,false

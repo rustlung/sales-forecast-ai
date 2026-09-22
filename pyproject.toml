@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "sales-forecast-ai"
 version = "0.1.0"
-description = "Infrastructure foundation for Sales Forecast AI"
+description = "Sales data import foundation for Sales Forecast AI"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
