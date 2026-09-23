@@ -105,6 +105,20 @@ The full structured result is stored in `analysis_runs.result_json`. To addition
 
 Pearson correlation is descriptive only: it measures co-movement in the imported records and does not establish causation.
 
+## M4 forecasting
+
+M4 compares two daily time-series models for `revenue` (default) or `units_sold`: a weekly Seasonal Naive baseline and Prophet. The final validation tail is held out from training; random splitting is not used because it would leak future observations into a time-series training set.
+
+Metrics are MAE, RMSE and MAPE. MAPE excludes zero actuals and falls back to MAE for model selection when more than half of validation actuals are zero. The lower MAPE otherwise selects the model; the selected model is refit on all available history before forecasting.
+
+```powershell
+docker compose run --rm --no-deps app python -m sales_forecast.scripts.forecast_dataset 1 --target revenue --horizon 30
+```
+
+Forecasting requires at least 90 continuous calendar days. Missing dates are rejected rather than silently filled: import an explicit zero-sales date only when it is valid for the source data. Forecast values are clipped at zero; Prophet intervals are retained, while Seasonal Naive intentionally has no artificial confidence interval.
+
+A forecast is a statistical estimate, not a guarantee of future sales or revenue.
+
 ## Tests
 
 ```powershell

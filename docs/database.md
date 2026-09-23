@@ -77,6 +77,8 @@ Purpose: metadata and JSON results of a future forecast run.
 
 Indexes: `ix_forecasts_dataset_created_at (dataset_id, created_at)`, `ix_forecasts_target (target)`.
 
+M4 writes one row only after a successful model comparison and final forecast. `metrics_json` contains validation dates, both models' metrics and selection criterion; `forecast_json` contains the full JSON-safe result and daily forecast points.
+
 ## Relationships
 
 ```text
@@ -174,6 +176,36 @@ WHERE id = :analysis_run_id;
 SELECT id, dataset_id, created_at, analysis_type, error_message
 FROM analysis_runs
 WHERE status = 'failed'
+ORDER BY created_at DESC;
+
+-- Latest forecasts and selected models.
+SELECT id, dataset_id, created_at, target, model_name, horizon_days
+FROM forecasts
+ORDER BY created_at DESC
+LIMIT 20;
+
+-- Forecast metric JSON for one result.
+SELECT metrics_json
+FROM forecasts
+WHERE id = :forecast_id;
+
+-- Extract selected validation MAPE from JSONB.
+SELECT id, metrics_json #>> '{model_comparison,prophet,mape}' AS prophet_mape,
+       metrics_json #>> '{model_comparison,seasonal_naive,mape}' AS seasonal_naive_mape
+FROM forecasts
+WHERE id = :forecast_id;
+
+-- First forecast points for one run.
+SELECT point
+FROM forecasts
+CROSS JOIN LATERAL jsonb_array_elements(forecast_json->'forecast_points') AS point
+WHERE id = :forecast_id
+LIMIT 10;
+
+-- Forecasts belonging to a selected dataset.
+SELECT id, target, model_name, horizon_days, created_at
+FROM forecasts
+WHERE dataset_id = :dataset_id
 ORDER BY created_at DESC;
 
 -- Safe pre-delete check: inspect the dataset and dependent row counts first.
