@@ -127,6 +127,16 @@ Scenario modeling uses `RandomForestRegressor` to estimate revenue for one produ
 python -m sales_forecast.scripts.run_scenario 1 --product "Wireless Headphones" --category "Electronics" --date 2025-01-15 --price 79.99 --discount 10 --ad-spend 150 --promo true
 ```
 
+## M6 AI insights
+
+Python and ML calculate all metrics; the LLM only interprets compact saved results through ProxyAPI. The request uses strict JSON Schema Structured Outputs derived from the `AIInsights` Pydantic model; `scenario_commentary` is nullable when no saved scenario exists. It requires `OPENAI_API_KEY`, `OPENAI_BASE_URL`, and `OPENAI_MODEL` in the existing `.env`.
+
+```powershell
+python -m sales_forecast.scripts.generate_ai_insights 1 --target revenue
+```
+
+AI output is constrained to supplied data and does not replace business analysis.
+
 ## Tests
 
 ```powershell

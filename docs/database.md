@@ -81,6 +81,8 @@ M4 writes one row only after a successful model comparison and final forecast. `
 
 M5 stores scenario modeling in `analysis_runs` with `analysis_type = 'scenario'`; no new table is needed.
 
+M6 stores validated ProxyAPI results in `analysis_runs` with `analysis_type = 'ai_insights'`; API credentials are never persisted.
+
 ## Relationships
 
 ```text
