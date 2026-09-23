@@ -8,8 +8,8 @@ from sales_forecast.database.models import AnalysisRun
 
 
 class AnalysisRunRepository:
-    def create_running(self, session: Session, dataset_id: int) -> AnalysisRun:
-        run = AnalysisRun(dataset_id=dataset_id, analysis_type="descriptive", status="running")
+    def create_running(self, session: Session, dataset_id: int, analysis_type: str = "descriptive") -> AnalysisRun:
+        run = AnalysisRun(dataset_id=dataset_id, analysis_type=analysis_type, status="running")
         session.add(run)
         session.flush()
         return run

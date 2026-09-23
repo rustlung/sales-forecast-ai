@@ -119,6 +119,14 @@ Forecasting requires at least 90 continuous calendar days. Missing dates are rej
 
 A forecast is a statistical estimate, not a guarantee of future sales or revenue.
 
+## M5 scenario modeling
+
+Scenario modeling uses `RandomForestRegressor` to estimate revenue for one product/date row from price, discount, ad spend, promo, weekday, month, product and category. It is distinct from time-series forecasting: it evaluates a supplied factor combination rather than extending a future series. Training/test data are split chronologically by whole dates. Feature importance and scenario results do not establish causation.
+
+```powershell
+python -m sales_forecast.scripts.run_scenario 1 --product "Wireless Headphones" --category "Electronics" --date 2025-01-15 --price 79.99 --discount 10 --ad-spend 150 --promo true
+```
+
 ## Tests
 
 ```powershell

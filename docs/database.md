@@ -79,6 +79,8 @@ Indexes: `ix_forecasts_dataset_created_at (dataset_id, created_at)`, `ix_forecas
 
 M4 writes one row only after a successful model comparison and final forecast. `metrics_json` contains validation dates, both models' metrics and selection criterion; `forecast_json` contains the full JSON-safe result and daily forecast points.
 
+M5 stores scenario modeling in `analysis_runs` with `analysis_type = 'scenario'`; no new table is needed.
+
 ## Relationships
 
 ```text
