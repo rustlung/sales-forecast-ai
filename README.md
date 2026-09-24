@@ -173,6 +173,30 @@ Open [http://localhost:8501](http://localhost:8501). The existing `.env` is used
 
 All visible numbers use Russian formatting (spaces for thousands and commas for decimals). The dashboard localizes weekdays, months, and sklearn feature names only for display; calculations and saved source results retain their canonical values. New AI-insights requests receive a compact, human-readable rounded payload, while saved analytics, forecasting, and scenario results remain unchanged.
 
+### Upload a CSV in the dashboard
+
+1. Start the dashboard and open [http://localhost:8501](http://localhost:8501).
+2. Open **«Загрузить новый датасет»** in the sidebar.
+3. Select one UTF-8 CSV file, optionally enter a display name, and click **«Импортировать»**.
+4. Select the newly imported dataset (it is selected automatically after a successful import).
+5. Run descriptive analysis, then build a forecast; calculate a scenario and AI-insights only when needed.
+
+Required CSV columns are:
+
+```text
+date,product,category,units_sold,revenue,price,discount_pct,ad_spend,promo
+```
+
+The dashboard reuses the same validation and atomic `DatasetImportService` as the CLI. Uploaded files exist only as a temporary file during import and are deleted afterwards. A failed validation does not create a dataset.
+
+For manual browser acceptance, generate but do not pre-import the separate sports-goods profile:
+
+```powershell
+python -m sales_forecast.scripts.generate_demo_data --profile manual-acceptance-ru
+```
+
+It writes `demo_data/manual_acceptance_sales_ru.csv` with 455 daily dates and 2,730 rows.
+
 ## Tests
 
 ```powershell

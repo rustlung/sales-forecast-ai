@@ -23,6 +23,8 @@ from sales_forecast.services.ai_insights import AIInsightsService
 from sales_forecast.services.dataset_analysis import DatasetAnalysisService
 from sales_forecast.services.dataset_forecast import DatasetForecastService
 from sales_forecast.services.dataset_scenario import DatasetScenarioService
+from sales_forecast.services.csv_validation import CsvValidationError
+from sales_forecast.services.dataset_import import DatasetImportService
 from sales_forecast.ui.presentation import (
     forecast_dataframe,
     format_currency,
@@ -36,6 +38,7 @@ from sales_forecast.ui.presentation import (
     optional_text,
     russian_time_axis_ticks,
 )
+from sales_forecast.ui.uploads import import_uploaded_csv, validation_error_message
 
 
 logger = logging.getLogger(__name__)
@@ -92,6 +95,37 @@ def product_records(factory, dataset_id: int) -> list[dict[str, Any]]:
             }
             for record in DatasetRepository().get_sales_records(session, dataset_id)
         ]
+
+
+def render_dataset_upload(factory) -> None:
+    """Render an explicit sidebar action; imports never run during ordinary reruns."""
+    success = st.session_state.pop("dataset_import_success", None)
+    if success:
+        st.sidebar.success(success)
+    with st.sidebar.expander("Загрузить новый датасет"):
+        uploaded = st.file_uploader("CSV-файл", type=["csv"], key="dataset_upload")
+        name = st.text_input("Название датасета", key="dataset_upload_name")
+        if st.button("Импортировать", type="primary", key="dataset_import_button"):
+            if uploaded is None:
+                st.warning("Выберите CSV-файл для импорта.")
+                return
+            try:
+                summary = import_uploaded_csv(uploaded, name, DatasetImportService(factory))
+            except CsvValidationError as error:
+                st.error(validation_error_message(error))
+                return
+            except OSError:
+                logger.exception("Dashboard CSV upload failed")
+                st.error("Не удалось прочитать загруженный файл.")
+                return
+            except Exception:
+                logger.exception("Dashboard dataset import failed")
+                st.error("Импорт не выполнен. Проверьте CSV и логи приложения.")
+                return
+            st.session_state["dataset_id"] = summary.dataset_id
+            st.session_state["dataset_import_success"] = summary.success_message()
+            st.cache_data.clear()
+            st.rerun()
 
 
 def show_error(error: Exception) -> None:
@@ -303,6 +337,9 @@ def render_ai_insights(factory, settings, dataset_id: int) -> None:
     insights = latest_result(factory, dataset_id, "ai_insights")
     if insights is None:
         st.info("Сохранённых AI-инсайтов пока нет.")
+        if latest_result(factory, dataset_id, "descriptive") is None or latest_forecast(factory, dataset_id, "revenue") is None:
+            st.info("Для AI-инсайтов сначала запустите описательный анализ и постройте прогноз выручки.")
+            return
         if st.button("Сгенерировать AI-инсайты", type="primary", key="run_ai"):
             try:
                 with st.spinner("ProxyAPI формирует AI-инсайты…"):
@@ -335,6 +372,7 @@ def main() -> None:
     st.title("Sales Forecast AI")
     st.caption("Детерминированная аналитика, прогноз и сценарии на исторических продажах.")
 
+    render_dataset_upload(factory)
     try:
         datasets = dataset_options(settings.database_url)
     except Exception:
@@ -343,7 +381,7 @@ def main() -> None:
         return
     if not datasets:
         st.sidebar.warning("Датасеты пока отсутствуют.")
-        st.info("Импортируйте CSV существующей CLI-командой, затем обновите страницу.")
+        st.info("Загрузите первый CSV через sidebar, затем выберите его для анализа.")
         return
 
     by_id = {int(item["id"]): item for item in datasets}

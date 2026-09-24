@@ -13,6 +13,7 @@ from pathlib import Path
 
 DEFAULT_DEMO_SEED = 20260922
 RU_DEMO_SEED = 20260924
+MANUAL_ACCEPTANCE_RU_SEED = 20260925
 DEFAULT_DEMO_START = date(2024, 1, 1)
 DEFAULT_DEMO_DAYS = 365
 CSV_COLUMNS = (
@@ -44,6 +45,15 @@ RU_PRODUCTS = (
     ("Фен", "Красота", 38.0, 4290.0, 0.91, 1.05),
 )
 
+MANUAL_ACCEPTANCE_RU_PRODUCTS = (
+    ("Беговая дорожка", "Фитнес", 11.0, 48990.0, 1.20, 1.04),
+    ("Гантели разборные", "Фитнес", 52.0, 6990.0, 0.62, 1.08),
+    ("Палатка туристическая", "Туризм", 18.0, 15990.0, 1.05, 1.28),
+    ("Спальный мешок", "Туризм", 31.0, 7490.0, 0.84, 1.16),
+    ("Велосипед городской", "Велоспорт", 14.0, 32990.0, 1.16, 1.14),
+    ("Лыжный комплект", "Зимний спорт", 12.0, 21990.0, 1.10, 0.92),
+)
+
 
 @dataclass(frozen=True)
 class DemoProfile:
@@ -65,6 +75,8 @@ class DemoProfile:
     promo_uplift: float
     noise_floor: float
     noise_sigma: float
+    start_date: date = DEFAULT_DEMO_START
+    days: int = DEFAULT_DEMO_DAYS
 
 
 DEFAULT_PROFILE = DemoProfile(
@@ -75,33 +87,38 @@ RU_PROFILE = DemoProfile(
     RU_PRODUCTS, RU_DEMO_SEED, 0.00022, 0.000035, 0.13, 0.19, 0.30, 0.10, 0.10,
     90, 0.85, 2.10, 42, 0.38, 420, 1.23, 0.58, 0.12,
 )
-DEMO_PROFILES = {"default": DEFAULT_PROFILE, "ru": RU_PROFILE}
+MANUAL_ACCEPTANCE_RU_PROFILE = DemoProfile(
+    MANUAL_ACCEPTANCE_RU_PRODUCTS, MANUAL_ACCEPTANCE_RU_SEED, 0.00016, 0.00005, 0.16, 0.24, 0.27, 0.08, 0.12,
+    130, 0.75, 2.45, 65, 0.42, 600, 1.26, 0.55, 0.14, date(2023, 3, 1), 455,
+)
+DEMO_PROFILES = {"default": DEFAULT_PROFILE, "ru": RU_PROFILE, "manual-acceptance-ru": MANUAL_ACCEPTANCE_RU_PROFILE}
 
 
 def generate_demo_csv(
     output_path: Path,
     *,
     seed: int | None = None,
-    start_date: date = DEFAULT_DEMO_START,
-    days: int = DEFAULT_DEMO_DAYS,
+    start_date: date | None = None,
+    days: int | None = None,
     profile: str = "default",
 ) -> int:
     """Write a deterministic daily synthetic data set and return row count."""
-    if days < 365:
-        raise ValueError("days must be at least 365 for the demo dataset")
-
     try:
         selected_profile = DEMO_PROFILES[profile]
     except KeyError as error:
         raise ValueError(f"Unknown demo profile '{profile}'. Use one of: {', '.join(DEMO_PROFILES)}") from error
+    selected_start_date = start_date or selected_profile.start_date
+    selected_days = days if days is not None else selected_profile.days
+    if selected_days < 365:
+        raise ValueError("days must be at least 365 for the demo dataset")
     randomizer = random.Random(selected_profile.seed if seed is None else seed)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     rows_count = 0
     with output_path.open("w", encoding="utf-8", newline="") as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=CSV_COLUMNS)
         writer.writeheader()
-        for day_index in range(days):
-            current_date = start_date + timedelta(days=day_index)
+        for day_index in range(selected_days):
+            current_date = selected_start_date + timedelta(days=day_index)
             for product_index, product in enumerate(selected_profile.products):
                 writer.writerow(_generate_row(randomizer, current_date, day_index, product_index, product, selected_profile))
                 rows_count += 1
