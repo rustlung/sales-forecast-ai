@@ -6,3 +6,13 @@ __pycache__/
 .mypy_cache/
 .coverage
 htmlcov/
+sql_backups/
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.temp
+tmp/
+temp/
+uploads/
+*.upload
