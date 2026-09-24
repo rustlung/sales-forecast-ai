@@ -13,6 +13,9 @@ from sales_forecast.services.csv_validation import NormalizedSalesRecord
 
 
 class DatasetRepository:
+    def list_all(self, session: Session) -> list[Dataset]:
+        return list(session.scalars(select(Dataset).order_by(Dataset.uploaded_at.desc(), Dataset.id.desc())))
+
     def get_by_id(self, session: Session, dataset_id: int) -> Dataset:
         dataset = session.get(Dataset, dataset_id)
         if dataset is None:

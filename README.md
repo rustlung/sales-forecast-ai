@@ -13,11 +13,7 @@ Foundation for an AI system that will analyse historical sales, forecast outcome
 
 ## Local setup
 
-Create a local environment file from the example and adjust `DATABASE_URL` if you run PostgreSQL outside Docker:
-
-```powershell
-Copy-Item .env.example .env
-```
+Use the existing local `.env` and adjust `DATABASE_URL` only if you run PostgreSQL outside Docker. Do not overwrite an existing `.env`.
 
 Install development dependencies locally:
 
@@ -66,6 +62,17 @@ Imported dataset_id=1 rows_count=1825 date_from=2024-01-01 date_to=2024-12-30
 ```
 
 Every import is an independent dataset; importing the same file twice is allowed and creates two separate `datasets` rows.
+
+### Russian demo profile
+
+The default demo file remains unchanged. A second reproducible profile creates 365 days of fully synthetic Russian-language home-goods data (six products, four categories, 2,190 rows):
+
+```powershell
+python -m sales_forecast.scripts.generate_demo_data --profile ru
+docker compose run --rm --no-deps app python -m sales_forecast.scripts.import_csv demo_data/sales_demo_ru.csv --name "Демо-продажи — товары для дома"
+```
+
+The RU profile has its own fixed seed and a different demand pattern. Use the import command once for the integration dataset; it remains a separate dataset from the original demo data.
 
 ### Input format and validation
 
@@ -136,6 +143,35 @@ python -m sales_forecast.scripts.generate_ai_insights 1 --target revenue
 ```
 
 AI output is constrained to supplied data and does not replace business analysis.
+
+## M7 Dashboard
+
+Streamlit is a presentation layer over the existing repositories and services: it does not calculate KPI, train models, or call the OpenAI SDK directly. Heavy operations run only after a corresponding button is pressed.
+
+The dashboard has five Russian-language tabs:
+
+- **Обзор** — KPI cards and daily revenue;
+- **Аналитика** — product/category breakdowns, seasonality and correlations;
+- **Прогноз** — saved or explicitly requested Prophet / Seasonal Naive forecast;
+- **Сценарии** — saved or explicitly requested Random Forest scenario;
+- **AI-инсайты** — saved or explicitly requested ProxyAPI interpretation.
+
+For a local development environment with a reachable `DATABASE_URL` in the existing `.env`:
+
+```powershell
+streamlit run src/sales_forecast/ui/app.py
+```
+
+For Docker, build the application image and start the dashboard with PostgreSQL:
+
+```powershell
+docker compose build app
+docker compose up -d --wait postgres dashboard
+```
+
+Open [http://localhost:8501](http://localhost:8501). The existing `.env` is used as-is; do not overwrite it. The dashboard reads existing datasets and never imports demo CSV automatically.
+
+All visible numbers use Russian formatting (spaces for thousands and commas for decimals). The dashboard localizes weekdays, months, and sklearn feature names only for display; calculations and saved source results retain their canonical values. New AI-insights requests receive a compact, human-readable rounded payload, while saved analytics, forecasting, and scenario results remain unchanged.
 
 ## Tests
 

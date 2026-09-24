@@ -1,7 +1,7 @@
 from datetime import date
 
 from sales_forecast.services.csv_validation import read_and_validate_csv
-from sales_forecast.services.demo_data import DEFAULT_DEMO_SEED, PRODUCTS, generate_demo_csv
+from sales_forecast.services.demo_data import DEFAULT_DEMO_SEED, PRODUCTS, RU_DEMO_SEED, RU_PRODUCTS, generate_demo_csv
 
 
 def test_demo_generator_is_reproducible_and_valid(tmp_path) -> None:
@@ -15,3 +15,17 @@ def test_demo_generator_is_reproducible_and_valid(tmp_path) -> None:
     records = read_and_validate_csv(first_path)
     assert len(records) == 365 * len(PRODUCTS)
     assert min(record.date for record in records) == date(2024, 1, 1)
+
+
+def test_russian_demo_profile_is_reproducible_and_valid(tmp_path) -> None:
+    first_path = tmp_path / "ru_first.csv"
+    second_path = tmp_path / "ru_second.csv"
+
+    assert generate_demo_csv(first_path, seed=RU_DEMO_SEED, profile="ru") == 365 * len(RU_PRODUCTS)
+    generate_demo_csv(second_path, seed=RU_DEMO_SEED, profile="ru")
+
+    assert first_path.read_bytes() == second_path.read_bytes()
+    assert first_path.read_text(encoding="utf-8").splitlines()[0] == "date,product,category,units_sold,revenue,price,discount_pct,ad_spend,promo"
+    records = read_and_validate_csv(first_path)
+    assert any(any("А" <= char <= "я" for char in record.product + record.category) for record in records)
+    assert len(records) == 365 * len(RU_PRODUCTS)

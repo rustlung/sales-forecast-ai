@@ -16,7 +16,20 @@ def test_compact_payload_and_prompt():
  f={"target":"revenue","forecast_points":[{"date":"x"},{"date":"y"}],"selected_model":"prophet"}
  p=compact_payload(d,f,None)
  assert "scenario" not in p and len(p["descriptive"]["top_products"])==3 and json.dumps(p)
- assert "Не придумывай числа" in SYSTEM_PROMPT and "причинность" in SYSTEM_PROMPT
+ assert "Не придумывай числа" in SYSTEM_PROMPT and "причинность" in SYSTEM_PROMPT and "snake_case" in SYSTEM_PROMPT
+
+
+def test_compact_payload_is_human_readable_without_changing_saved_results():
+ d={"kpis":{"total_revenue":9202347.2},"growth_trend":{},"rankings":{"top_products_by_revenue":[{"share_of_revenue":0.35486197586633117}]},"target_correlations":{}}
+ f={"target":"revenue","forecast_points":[],"selected_model":"prophet","model_comparison":{"prophet":{"mape":4.85234}}}
+ s={"percent_difference":25.50066970895493,"metrics":{"r2":0.9077748988428024},"feature_importance":[{"importance":0.8758728996615303}]}
+ p=compact_payload(d,f,s)
+ assert p["descriptive"]["kpis"]["total_revenue"] == "9 202 347,20"
+ assert p["descriptive"]["top_products"][0]["share_of_revenue"] == "35.49%"
+ assert p["forecast"]["model_comparison"]["prophet"]["mape"] == "4.85%"
+ assert p["scenario"]["percent_difference"] == "25.50%"
+ assert p["scenario"]["metrics"]["r2"] == 0.908
+ assert p["scenario"]["top_feature_importance"][0]["importance"] == 0.8759
 
 
 def test_structured_response():

@@ -15,11 +15,22 @@ services:
 
   app:
     build: .
+    image: sales-forecast-ai-app
     env_file: .env
     depends_on:
       postgres:
         condition: service_healthy
     command: ["python", "-m", "sales_forecast.scripts.smoke_check"]
+
+  dashboard:
+    image: sales-forecast-ai-app
+    env_file: .env
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: ["streamlit", "run", "src/sales_forecast/ui/app.py", "--server.address=0.0.0.0", "--server.port=8501"]
+    ports:
+      - "8501:8501"
 
 volumes:
   postgres_data:
